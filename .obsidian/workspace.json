@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "23e928707aab228f",
+        "id": "e11e2b2bb7d05f14",
         "type": "tabs",
         "children": [
           {
-            "id": "356663da179e10b2",
+            "id": "52dc967759ed7444",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Relational Database.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Relationa Database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relational Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Relational Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,29 +125,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Relational Database.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "356663da179e10b2",
+  "active": "52dc967759ed7444",
   "lastOpenFiles": [
-    "Tarefas.md",
-    "Excalidraw/Tarefas 2022-10-24 20.39.36.excalidraw.md",
-    "Javascript.md",
-    "Anatomia.md",
-    "Excalidraw/Corpo HUmano.md",
-    "Excalidraw/Anatomia 2022-10-24 17.59.37.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-24 17.57.57.excalidraw.md",
-    "Untitled 1.md",
-    "Test.md"
+    "Database Class.md",
+    "Relational Database.md",
+    "College/Exams/27-10-2022 Database Exam.md",
+    "Database.md",
+    "Conceptual Model.md",
+    "Strong Entity.md",
+    "Weak Entity (Database).md",
+    "Computer Science.md",
+    "ER Diagram.md",
+    "Excalidraw/ER Diagram 2022-10-25 19.29.03.excalidraw.md"
   ]
 }

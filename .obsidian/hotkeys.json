@@ -9,21 +9,43 @@
       "key": "B"
     }
   ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Delete"
-    }
-  ],
-  "file-explorer:reveal-active-file": [
+  "app:delete-file": [],
+  "file-explorer:reveal-active-file": [],
+  "file-explorer:open": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "workspace:move-to-new-window": [],
+  "editor:focus-right": [],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }
