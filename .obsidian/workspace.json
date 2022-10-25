@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "f3fd24f8697efa36",
+    "type": "split",
+    "children": [
+      {
+        "id": "23e928707aab228f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356663da179e10b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea60277d9e06f594",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc5b79aeb34719df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e3f8460146fe6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50fbfbc2ef9c7976",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe1003ad195dd3c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bf7d3ca238183bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d728379b30ca55e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f01ebfa6437746e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64ab156aaa49c6ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77909b3f863b76ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80923dc1fc9d5468",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "356663da179e10b2",
+  "lastOpenFiles": [
+    "Tarefas.md",
+    "Excalidraw/Tarefas 2022-10-24 20.39.36.excalidraw.md",
+    "Javascript.md",
+    "Anatomia.md",
+    "Excalidraw/Corpo HUmano.md",
+    "Excalidraw/Anatomia 2022-10-24 17.59.37.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-24 17.57.57.excalidraw.md",
+    "Untitled 1.md",
+    "Test.md"
+  ]
+}
