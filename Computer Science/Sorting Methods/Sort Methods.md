@@ -6,3 +6,4 @@
 - ## [[Selection Sort]]
 - ## [[Bubble Sort]]
 - ## [[Tim Sort]]
+- ## [[Quick Sort]]

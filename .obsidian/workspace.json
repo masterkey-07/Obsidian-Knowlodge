@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "42b29b4b009f8e03",
+        "id": "74179fe7ebe8f68e",
         "type": "tabs",
         "children": [
           {
-            "id": "83c7526dec50d8f0",
+            "id": "26c5961d7296fb37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Database/Relational Database/Database Normalization.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "normaliz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Database/Relational Database/Database Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Database/Relational Database/Database Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,10 +125,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Computer Science/Database/Relational Database/Database Normalization.md"
+              }
+            }
+          },
+          {
+            "id": "d148a42caae164fc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "533c533d3e15720c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -131,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "50fbfbc2ef9c7976",
+  "active": "26c5961d7296fb37",
   "lastOpenFiles": [
-    "Tim Sort.md",
-    "Python.md",
-    "Sort Methods.md",
-    "Data Structure.md",
     "Computer Science/Database/Relational Database/Database Normalization.md",
-    "Data Redundancy.md",
-    "Database Normalization.md",
-    "Relational Database.md",
-    "Database Class.md",
-    "College/Exams/27-10-2022 Database Exam.md"
+    "Excalidraw/ER Diagram 2022-10-25 19.29.03.excalidraw.md",
+    "Computer Science/Database/Relational Database/ER Diagram.md",
+    "Computer Science/Database/Relational Database/Conceptual Model.md",
+    "Computer Science/Database/Relational Database/Relational Database.md",
+    "Computer Science/Database/Database.md",
+    "Computer Science/Data Structure/Data Structure.md",
+    "Diary/2022-10-25.md",
+    "Graph Teory.md",
+    "2022-10-25.md"
   ]
 }

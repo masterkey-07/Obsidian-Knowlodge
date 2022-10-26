@@ -2,7 +2,7 @@
 ### This type of [[Database]] was developed with the [[Set Theory]]
 
 ## Main Concepts
-- ### Primary Key
+- ### Primary Key  
 - ### Foreing Key
 - ### Integrity Restriction
 - ### Reference Integrity 
