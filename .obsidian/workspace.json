@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e11e2b2bb7d05f14",
+        "id": "f52e1e031ef8c6e4",
         "type": "tabs",
         "children": [
           {
-            "id": "52dc967759ed7444",
+            "id": "abf80ea3e05414de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relational Database.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Relationa Database",
+                "query": "NOrma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relational Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Relational Database.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,17 +130,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "52dc967759ed7444",
+  "active": "abf80ea3e05414de",
   "lastOpenFiles": [
-    "Database Class.md",
+    "Computer Science/Database/Relational Database/Database Normalization.md",
+    "Data Redundancy.md",
+    "Database Normalization.md",
     "Relational Database.md",
+    "Database Class.md",
     "College/Exams/27-10-2022 Database Exam.md",
     "Database.md",
     "Conceptual Model.md",
     "Strong Entity.md",
-    "Weak Entity (Database).md",
-    "Computer Science.md",
-    "ER Diagram.md",
-    "Excalidraw/ER Diagram 2022-10-25 19.29.03.excalidraw.md"
+    "Weak Entity (Database).md"
   ]
 }

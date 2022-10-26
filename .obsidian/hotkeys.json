@@ -40,12 +40,5 @@
   ],
   "workspace:move-to-new-window": [],
   "editor:focus-right": [],
-  "workspace:split-vertical": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    }
-  ]
+  "workspace:split-vertical": []
 }
