@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "595e25a34fb38cc7",
+        "id": "c4ce2634845d594d",
         "type": "tabs",
         "children": [
           {
-            "id": "ca07b42ed3f2e51f",
+            "id": "8c6e689df1ea2862",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -144,7 +144,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ca07b42ed3f2e51f",
+  "active": "8c6e689df1ea2862",
   "lastOpenFiles": [
     "Computer Science/Sorting Methods/Merge Sort.md",
     "Excalidraw/Merge Sort 2022-10-30 00.13.48.excalidraw.md",
