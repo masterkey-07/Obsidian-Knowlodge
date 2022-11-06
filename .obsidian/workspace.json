@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4ce2634845d594d",
+        "id": "f97785d496ac7a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "8c6e689df1ea2862",
+            "id": "173fc46e0f85b76e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Induction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,17 +145,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8c6e689df1ea2862",
+  "active": "173fc46e0f85b76e",
   "lastOpenFiles": [
-    "Computer Science/Sorting Methods/Merge Sort.md",
-    "Excalidraw/Merge Sort 2022-10-30 00.13.48.excalidraw.md",
-    "Redux.md",
+    "Computer Science/Design of Algorithms by Induction.md",
+    "College/Slides/PAA - Aula 5 - Projeto por inducao.pdf",
+    "Computer Science/Learning/To Learning.md",
+    "Computer Science/Redux.md",
+    "Excalidraw/Adjacency Matrix 2022-11-03 22.07.44.excalidraw.md",
+    "College/Exams/17-11 PAA Exam.md",
     "Computer Science/Sorting Methods/Sort Methods.md",
-    "Computer Science/Programming Languages/Programming Language.md",
-    "Excalidraw/Redux 2022-11-03 20.01.14.excalidraw.md",
-    "Computer Science/Data Structure/Data Structure.md",
-    "Binary Tree AVL.md",
     "College/ToDo/PAA Task 2.md",
-    "College/ToDo/ToDo's.md"
+    "Heap Sort.md",
+    "Adjacency Matrix.md"
   ]
 }

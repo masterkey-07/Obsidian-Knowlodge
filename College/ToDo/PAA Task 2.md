@@ -22,13 +22,21 @@ removing by one time (2 - 1) the lowest values...
 
 ## **Resolving**
 
-### **Method 1** : Total Sort
+### **Method 1** : **Total Sort**
 
-### Joining all arrays, and then sorting it all with a stable sorting method ([[Merge Sort]])
-### And then remove easly all the lowest values blazing fast.
+#### Joining all arrays, and then sorting it all with a stable sorting method ([[Merge Sort]])
 
-### **Score** : 59/100
+#### **Score** : 59/100
 
-### **Method 2** : Binary Tree
+### **Method 2** : **Linked List**
 
-### To Implement
+#### Joining all arrays, and then sorting it all with a stable sorting method similar to([[Merge Sort]]) but with [[Linked List]].
+
+#### **Score** : 59/100
+
+### **Method 3** : **Heap Sort**
+#### To Implement
+
+
+### **Method 4** : **Binary Tree**
+#### To Implement
