@@ -1,5 +1,6 @@
 ## Descriptions
 ### This type of [[Database]] was developed with the [[Set Theory]]
+### To provide a theorical foundation for [[Relational Database]], was created a [[Relational Algebra]] Theory
 
 ## Main Concepts
 - ### Primary Key  

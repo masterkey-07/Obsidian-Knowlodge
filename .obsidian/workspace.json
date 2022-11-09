@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f97785d496ac7a9c",
+        "id": "4a57ab2d19fbe7f7",
         "type": "tabs",
         "children": [
           {
-            "id": "173fc46e0f85b76e",
+            "id": "ba9c241e842019ec",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Induction",
+                "query": "Relational Database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,24 +137,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "173fc46e0f85b76e",
+  "active": "f6e3f8460146fe6f",
   "lastOpenFiles": [
+    "To Learn.md",
     "Computer Science/Design of Algorithms by Induction.md",
-    "College/Slides/PAA - Aula 5 - Projeto por inducao.pdf",
-    "Computer Science/Learning/To Learning.md",
-    "Computer Science/Redux.md",
-    "Excalidraw/Adjacency Matrix 2022-11-03 22.07.44.excalidraw.md",
+    "Books/Algorithms/Introduction to Algorithms.pdf",
+    "Computer Science/Data Structure/Trees/AVL Binary Tree.md",
     "College/Exams/17-11 PAA Exam.md",
-    "Computer Science/Sorting Methods/Sort Methods.md",
-    "College/ToDo/PAA Task 2.md",
-    "Heap Sort.md",
-    "Adjacency Matrix.md"
+    "Excalidraw/AVL Binary Tree 2022-11-08 21.35.57.excalidraw.md",
+    "Binary Tree.md",
+    "Excalidraw/Binary Tree 2022-11-08 21.18.43.excalidraw.md",
+    "Computer Science/Data Structure/Data Structure.md",
+    "Tree Structure.md"
   ]
 }
