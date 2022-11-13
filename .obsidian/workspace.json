@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a57ab2d19fbe7f7",
+        "id": "ea6533aeacfe8ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9c241e842019ec",
+            "id": "e16636abc5860362",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Relational Database",
+                "query": "Robert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6e3f8460146fe6f",
+  "active": "e16636abc5860362",
   "lastOpenFiles": [
-    "To Learn.md",
-    "Computer Science/Design of Algorithms by Induction.md",
-    "Books/Algorithms/Introduction to Algorithms.pdf",
-    "Computer Science/Data Structure/Trees/AVL Binary Tree.md",
-    "College/Exams/17-11 PAA Exam.md",
-    "Excalidraw/AVL Binary Tree 2022-11-08 21.35.57.excalidraw.md",
-    "Binary Tree.md",
-    "Excalidraw/Binary Tree 2022-11-08 21.18.43.excalidraw.md",
-    "Computer Science/Data Structure/Data Structure.md",
-    "Tree Structure.md"
+    "Computer Science/Writers/Robert C. Martin.md",
+    "https 1.md",
+    "https.md",
+    "Computer Science/Programming Languages/Python.md",
+    "Computer Science/Data Structure/Lists/List Structure.md",
+    "Personal/To Learn.md",
+    "Computer Science/Theories/Design of Algorithms by Induction.md",
+    "Books/Algorithms/Introduction to Algorithms: A Creative Approach.pdf",
+    "College/Slides/PAA - Aula 5 - Projeto por inducao.pdf",
+    "Computer Science/Database/Relational Database/Relational Algebra.md"
   ]
 }
