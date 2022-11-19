@@ -11,15 +11,24 @@
             "id": "9e4dbef72f0a6a79",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f039dc8b49ae0c7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Sort.md",
+                "file": "Computer Science/Data Structure/Trees/Tree Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick Sort.md",
+                "file": "Computer Science/Data Structure/Trees/Tree Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick Sort.md",
+                "file": "Computer Science/Data Structure/Trees/Tree Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quick Sort.md"
+                "file": "Computer Science/Data Structure/Trees/Tree Structure.md"
               }
             }
           },
@@ -154,8 +163,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e4dbef72f0a6a79",
+  "active": "6f039dc8b49ae0c7",
   "lastOpenFiles": [
+    "Quick Sort.md",
     "Algorithm Analysis.md",
     "Substitution Method.md",
     "Recursion Tree Method.md",
@@ -164,7 +174,6 @@
     "Heap Tree.md",
     "Excalidraw/Heap Tree 2022-11-19 15.47.06.excalidraw.md",
     "College/Slides/PAA/PAA - Aula 4 - Ordenacao.pdf",
-    "Computer Science/Frameworks and Libraries/Redux.md",
-    "Excalidraw/Heap Tree 2022-11-19 14.32.27.excalidraw.md"
+    "Computer Science/Frameworks and Libraries/Redux.md"
   ]
 }
