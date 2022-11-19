@@ -1,4 +1,4 @@
-### **[Redux](https://redux.js.org/)** is an [[Open Source]] [[JavaScript]] for [[State Management]]. 
+### **[Redux](https://redux.js.org/)** is an [[JavaScript]] Library for [[State Management]]. 
 
 ## Simple Redux Workflow
 ![[Redux 2022-11-03 20.01.14.excalidraw]]

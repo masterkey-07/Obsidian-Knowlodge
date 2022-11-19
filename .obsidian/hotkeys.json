@@ -27,7 +27,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "PageUp"
+      "key": "PageDown"
     }
   ],
   "workspace:previous-tab": [
@@ -35,7 +35,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "PageDown"
+      "key": "PageUp"
     }
   ],
   "workspace:move-to-new-window": [],

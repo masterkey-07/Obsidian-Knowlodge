@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ea6533aeacfe8ccb",
+        "id": "60dd39d012c4b516",
         "type": "tabs",
         "children": [
           {
-            "id": "e16636abc5860362",
+            "id": "9e4dbef72f0a6a79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quick Sort.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quick Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quick Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quick Sort.md"
+              }
             }
           },
           {
@@ -138,24 +146,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e16636abc5860362",
+  "active": "9e4dbef72f0a6a79",
   "lastOpenFiles": [
-    "Computer Science/Writers/Robert C. Martin.md",
-    "https 1.md",
-    "https.md",
-    "Computer Science/Programming Languages/Python.md",
-    "Computer Science/Data Structure/Lists/List Structure.md",
-    "Personal/To Learn.md",
-    "Computer Science/Theories/Design of Algorithms by Induction.md",
-    "Books/Algorithms/Introduction to Algorithms: A Creative Approach.pdf",
-    "College/Slides/PAA - Aula 5 - Projeto por inducao.pdf",
-    "Computer Science/Database/Relational Database/Relational Algebra.md"
+    "Algorithm Analysis.md",
+    "Substitution Method.md",
+    "Recursion Tree Method.md",
+    "Master Theorem.md",
+    "Computer Science/Sorting Methods/Heap Sort.md",
+    "Heap Tree.md",
+    "Excalidraw/Heap Tree 2022-11-19 15.47.06.excalidraw.md",
+    "College/Slides/PAA/PAA - Aula 4 - Ordenacao.pdf",
+    "Computer Science/Frameworks and Libraries/Redux.md",
+    "Excalidraw/Heap Tree 2022-11-19 14.32.27.excalidraw.md"
   ]
 }
