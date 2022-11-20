@@ -1,4 +1,4 @@
-Solve [[Divide and Conquer]] and [[Recursion]] Functions Analysis
+Solve [[Divide and Conquer]] and Recursion Functions Analysis
 
 ## Type of Function this works : $T(n) = aT(n/b) + f(n)$
 
