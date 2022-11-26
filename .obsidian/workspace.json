@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d53fbdcb67ff34",
+        "id": "65c288f258894713",
         "type": "tabs",
         "children": [
           {
-            "id": "90cf0416125e710b",
+            "id": "d8db01e3c7cf2782",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Slides/PAA/PAA - Aula 4 - Ordenacao.pdf"
-              }
-            }
-          },
-          {
-            "id": "8da760db954a0f6d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Quick Sort 2022-11-20 10.15.29.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Quick Sort 2022-11-20 10.15.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Quick Sort 2022-11-20 10.15.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Quick Sort 2022-11-20 10.15.29.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8da760db954a0f6d",
+  "active": "d8db01e3c7cf2782",
   "lastOpenFiles": [
-    "Computer Science/Sorting Methods/Quick Sort.md",
+    "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+    "Computer Science/Theories/Induction.md",
+    "College/Slides/PAA/PAA - Aula 5 - Projeto por inducao.pdf",
+    "Computer Science/Algorithm Analysis/Substitution Analysis.md",
+    "Computer Science/Algorithm Analysis/Recursion Tree Analysis.md",
     "College/Slides/PAA/PAA - Aula 4 - Ordenacao.pdf",
     "Excalidraw/Quick Sort 2022-11-20 10.15.29.excalidraw.md",
+    "Computer Science/Sorting Methods/Quick Sort.md",
     "Computer Science/Sorting Methods/Insertion Sort.md",
-    "Computer Science/Data Structure/Lists/Stack List.md",
-    "Computer Science/Theories/Recursion.md",
-    "Computer Science/Algorithm Analysis/Master Theorem.md",
-    "Computer Science/Data Structure/Trees/Tree Structure.md",
-    "Quick Sort.md",
-    "Algorithm Analysis.md"
+    "Computer Science/Data Structure/Lists/Stack List.md"
   ]
 }

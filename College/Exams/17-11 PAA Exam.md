@@ -1,2 +1,2 @@
-### Content from initial content to [[Design of Algorithms by Induction]]
+### Content from initial content to [[Induction]]
 
