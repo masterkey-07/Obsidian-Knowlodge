@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65c288f258894713",
+        "id": "9b4bac9b960b4405",
         "type": "tabs",
         "children": [
           {
-            "id": "d8db01e3c7cf2782",
+            "id": "238c5048a3eda381",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -146,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8db01e3c7cf2782",
+  "active": "238c5048a3eda381",
   "lastOpenFiles": [
     "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+    "Excalidraw/Drawing 2022-11-27 10.35.28.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-26 10.46.26.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-19 12.31.47.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-14 14.24.31.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-09 18.11.34.excalidraw.md",
+    "Remove Me.md",
+    "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
     "Computer Science/Theories/Induction.md",
-    "College/Slides/PAA/PAA - Aula 5 - Projeto por inducao.pdf",
-    "Computer Science/Algorithm Analysis/Substitution Analysis.md",
-    "Computer Science/Algorithm Analysis/Recursion Tree Analysis.md",
-    "College/Slides/PAA/PAA - Aula 4 - Ordenacao.pdf",
-    "Excalidraw/Quick Sort 2022-11-20 10.15.29.excalidraw.md",
-    "Computer Science/Sorting Methods/Quick Sort.md",
-    "Computer Science/Sorting Methods/Insertion Sort.md",
-    "Computer Science/Data Structure/Lists/Stack List.md"
+    "College/Slides/PAA/PAA - Aula 5 - Projeto por inducao.pdf"
   ]
 }

@@ -19,3 +19,4 @@
 - ## Brute Force
 - ## [[Divide and Conquer]]
 - ## [[Induction]]
+- ## [[Backtracking]]
