@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b4bac9b960b4405",
+        "id": "dbf5952a67f9dc22",
         "type": "tabs",
         "children": [
           {
-            "id": "238c5048a3eda381",
+            "id": "0e2c617e1d7411e7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "238c5048a3eda381",
+  "active": "0e2c617e1d7411e7",
   "lastOpenFiles": [
+    "2+3.md",
+    "SQL.md",
+    "Computer Science/Database/Relational Database/Relational Database.md",
     "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
     "Excalidraw/Drawing 2022-11-27 10.35.28.excalidraw.md",
     "Excalidraw/Drawing 2022-11-26 10.46.26.excalidraw.md",
     "Excalidraw/Drawing 2022-11-19 12.31.47.excalidraw.md",
     "Excalidraw/Drawing 2022-11-14 14.24.31.excalidraw.md",
     "Excalidraw/Drawing 2022-11-09 18.11.34.excalidraw.md",
-    "Remove Me.md",
-    "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
-    "Computer Science/Theories/Induction.md",
-    "College/Slides/PAA/PAA - Aula 5 - Projeto por inducao.pdf"
+    "Remove Me.md"
   ]
 }
