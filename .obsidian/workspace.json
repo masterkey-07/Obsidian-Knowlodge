@@ -11,11 +11,26 @@
             "id": "0e2c617e1d7411e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithm Analysis/Backtracking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96b14d67da4ed001",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf"
+              }
             }
           },
           {
@@ -145,8 +164,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e2c617e1d7411e7",
+  "active": "96b14d67da4ed001",
   "lastOpenFiles": [
+    "Computer Science/Algorithm Analysis/Backtracking.md",
     "2+3.md",
     "SQL.md",
     "Computer Science/Database/Relational Database/Relational Database.md",
@@ -155,7 +175,6 @@
     "Excalidraw/Drawing 2022-11-26 10.46.26.excalidraw.md",
     "Excalidraw/Drawing 2022-11-19 12.31.47.excalidraw.md",
     "Excalidraw/Drawing 2022-11-14 14.24.31.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-09 18.11.34.excalidraw.md",
-    "Remove Me.md"
+    "Excalidraw/Drawing 2022-11-09 18.11.34.excalidraw.md"
   ]
 }
