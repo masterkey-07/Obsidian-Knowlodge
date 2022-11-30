@@ -16,7 +16,8 @@
 
 #  Methods for Problem Analysis
 
-- ## Brute Force
+- ## [[Brute Force]]
 - ## [[Divide and Conquer]]
 - ## [[Induction]]
 - ## [[Backtracking]]
+- ## [[Dynamic Programming]]

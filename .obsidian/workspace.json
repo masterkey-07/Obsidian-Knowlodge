@@ -8,29 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e2c617e1d7411e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithm Analysis/Backtracking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96b14d67da4ed001",
+            "id": "bd0448d5f4f7070b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf"
+                "file": "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "fc68fa0f6a499c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b52e366b1338625",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -96,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -164,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96b14d67da4ed001",
+  "active": "1b52e366b1338625",
   "lastOpenFiles": [
+    "Dynamic Programming.md",
+    "Excalidraw/Dynamic Programming 2022-11-29 21.38.32.excalidraw.md",
     "Computer Science/Algorithm Analysis/Backtracking.md",
+    "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf",
+    "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+    "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
     "2+3.md",
     "SQL.md",
     "Computer Science/Database/Relational Database/Relational Database.md",
-    "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
-    "Excalidraw/Drawing 2022-11-27 10.35.28.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-26 10.46.26.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-19 12.31.47.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-14 14.24.31.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-09 18.11.34.excalidraw.md"
+    "Excalidraw/Drawing 2022-11-27 10.35.28.excalidraw.md"
   ]
 }
