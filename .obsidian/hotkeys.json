@@ -40,5 +40,23 @@
   ],
   "workspace:move-to-new-window": [],
   "editor:focus-right": [],
-  "workspace:split-vertical": []
+  "workspace:split-vertical": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
 }

@@ -3,8 +3,8 @@
 
 # Representation Rules 
 
-## Left Child : $A[2 * i]$
-## Right Child : $A[2 * i + 1]$
+## Left Child : $A[2 * i + 1]$
+## Right Child : $A[2 * i + 2]$
 ## Father Node : $A[i / 2]$
 ## Rule: $A[Parent(i)] \gt A[i]$
 ## Rule : $\text{IndexOf}(\text{Last Non Leaf}) = (\frac{Lenght}{2}) - 1$
