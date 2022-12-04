@@ -6,8 +6,6 @@
 ## $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 ## Greek letters : $\alpha$, $\beta$, $\omega$, $\Gamma$, $\Delta$, $\Omega$, $\epsilon$, $\varepsilon$, $\phi$,  $\varphi$.
     
-4.  For **superscripts and subscripts**, use `^` and `_`. For example, `x_i^2`: x2ixi2, `\log_2 x`: log2xlog2⁡x.
-    
 5.  **Groups**. Superscripts, subscripts, and other operations apply only to the next “group”. A “group” is either a single symbol, or any formula surrounded by curly braces `{`…`}`. If you do `10^10`, you will get a surprise: 10101010. But `10^{10}` gives what you probably wanted: 10101010. Use curly braces to delimit a formula to which a superscript or subscript applies: `x^5^6` is an error; `{x^y}^z` is xyzxyz, and `x^{y^z}` is xyzxyz. Observe the differences between `x_i^2` x2ixi2, `x_{i^2}` xi2xi2 and `{x_i}^2` xi2xi2.
     
 6.  **Parentheses** Ordinary symbols `()[]` make parentheses and brackets (2+3)[4+4](2+3)[4+4]. Use `\{` and `\}` for curly braces {}{}.

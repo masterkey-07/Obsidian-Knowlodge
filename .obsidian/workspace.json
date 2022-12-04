@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b6d72f119b21661",
+        "id": "fe48f4bb21c44084",
         "type": "tabs",
         "children": [
           {
-            "id": "2b1fb922537de1b2",
+            "id": "558ebf57cc7773dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithm Analysis/Master Theorem.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ca2cefb286caa8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithm Analysis/Substitution Analysis.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b837966c3bbc6c6f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/Slides/PAA/PAA - Aula 3 - Recorrencias.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Master Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Algorithm Analysis/Master Theorem.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b1fb922537de1b2",
+  "active": "558ebf57cc7773dd",
   "lastOpenFiles": [
-    "Computer Science/Algorithm Analysis/Substitution Analysis.md",
+    "Computer Science/Database/Relational Database/ER Diagram.md",
+    "Computer Science/Sorting Methods/Sort Methods.md",
+    "Computer Science/Sorting Methods/Quick Sort.md",
+    "Computer Science/Data Structure/Data Structure.md",
+    "Computer Science/Tools/MathJax.md",
+    "Excalidraw/Drawing 2022-12-03 19.11.01.excalidraw.md",
     "College/Slides/PAA/PAA - Aula 3 - Recorrencias.pdf",
+    "Computer Science/Algorithm Analysis/Substitution Analysis.md",
     "Computer Science/Algorithm Analysis/Master Theorem.md",
-    "Computer Science/Theories/Induction.md",
-    "Computer Science/Algorithm Analysis/Recursion Tree Analysis.md",
-    "Computer Science/Algorithm Analysis/Asymptotic Notation.md",
-    "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
-    "College/Slides/PAA/PAA - Aula 2 - Corretude de algoritmos.pdf",
-    "Test Driven Development.md",
-    "Excalidraw/Test Driven Development 2022-11-30 20.04.23.excalidraw.md"
+    "Computer Science/Theories/Induction.md"
   ]
 }
