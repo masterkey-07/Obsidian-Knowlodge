@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33495b9cfe689069",
+        "id": "c21d0a04a19b30ca",
         "type": "tabs",
         "children": [
           {
-            "id": "0b9b61e584eba72e",
+            "id": "1aaefed0479764a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Terminal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Windows Terminal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +147,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b9b61e584eba72e",
+  "active": "1aaefed0479764a9",
   "lastOpenFiles": [
+    "Computer Science/Operational System/Terminal/Windows Terminal.md",
     "Terminal.md",
     "Operational System.md",
     "Windows Terminal.md",
@@ -165,7 +158,6 @@
     "Computer Science/Sorting Methods/Sort Methods.md",
     "Computer Science/Sorting Methods/Quick Sort.md",
     "Computer Science/Data Structure/Data Structure.md",
-    "Computer Science/Tools/MathJax.md",
-    "Excalidraw/Drawing 2022-12-03 19.11.01.excalidraw.md"
+    "Computer Science/Tools/MathJax.md"
   ]
 }
