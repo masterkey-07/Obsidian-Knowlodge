@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe48f4bb21c44084",
+        "id": "33495b9cfe689069",
         "type": "tabs",
         "children": [
           {
-            "id": "558ebf57cc7773dd",
+            "id": "0b9b61e584eba72e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Windows Terminal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Windows Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Windows Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Windows Terminal.md"
+              }
             }
           },
           {
@@ -147,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "558ebf57cc7773dd",
+  "active": "0b9b61e584eba72e",
   "lastOpenFiles": [
+    "Terminal.md",
+    "Operational System.md",
+    "Windows Terminal.md",
+    "Cyber Security.md",
     "Computer Science/Database/Relational Database/ER Diagram.md",
     "Computer Science/Sorting Methods/Sort Methods.md",
     "Computer Science/Sorting Methods/Quick Sort.md",
     "Computer Science/Data Structure/Data Structure.md",
     "Computer Science/Tools/MathJax.md",
-    "Excalidraw/Drawing 2022-12-03 19.11.01.excalidraw.md",
-    "College/Slides/PAA/PAA - Aula 3 - Recorrencias.pdf",
-    "Computer Science/Algorithm Analysis/Substitution Analysis.md",
-    "Computer Science/Algorithm Analysis/Master Theorem.md",
-    "Computer Science/Theories/Induction.md"
+    "Excalidraw/Drawing 2022-12-03 19.11.01.excalidraw.md"
   ]
 }
