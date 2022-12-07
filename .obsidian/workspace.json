@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c21d0a04a19b30ca",
+        "id": "c38bb01dbf29d4d4",
         "type": "tabs",
         "children": [
           {
-            "id": "1aaefed0479764a9",
+            "id": "aa3a4788cafb1373",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -147,8 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1aaefed0479764a9",
+  "active": "aa3a4788cafb1373",
   "lastOpenFiles": [
+    "Personal/To Learn.md",
+    "Computer Science/Tools/Apache Guacamole.md",
     "Computer Science/Operational System/Terminal/Windows Terminal.md",
     "Terminal.md",
     "Operational System.md",
@@ -156,8 +158,6 @@
     "Cyber Security.md",
     "Computer Science/Database/Relational Database/ER Diagram.md",
     "Computer Science/Sorting Methods/Sort Methods.md",
-    "Computer Science/Sorting Methods/Quick Sort.md",
-    "Computer Science/Data Structure/Data Structure.md",
-    "Computer Science/Tools/MathJax.md"
+    "Computer Science/Sorting Methods/Quick Sort.md"
   ]
 }
