@@ -4,28 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "1dccc83b73f0d1cf",
+        "id": "3b387c3a10eae51f",
         "type": "tabs",
         "children": [
           {
-            "id": "3957bda225daebe8",
+            "id": "ed42b3fbcd5bc8fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "Personal/Lists/Notes To Look.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1526bf34a3047b40",
+        "type": "tabs",
+        "children": [
           {
-            "id": "568c4165d9907fc9",
+            "id": "083535a4b6938618",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian CLI Rust Project.md",
+                "file": "Personal/Lists/To Learn.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects.md",
+                "file": "Personal/Lists/To Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects.md",
+                "file": "Personal/Lists/To Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects.md"
+                "file": "Personal/Lists/To Learn.md"
               }
             }
           },
@@ -167,17 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3957bda225daebe8",
+  "active": "083535a4b6938618",
   "lastOpenFiles": [
+    "Personal/Lists/Notes To Look.md",
+    "Personal/Lists/To Learn.md",
+    "Notes/SOLID Principles.md",
     "Obsidian CLI Rust Project.md",
-    "Command Line Interface.md",
     "Projects.md",
+    "Command Line Interface.md",
     "Personal/To Learn.md",
     "Productivity.md",
     "My Processes.md",
-    "Second Brain.md",
-    "Computer Science/Tools/Apache Guacamole.md",
-    "Computer Science/Operational System/Terminal/Windows Terminal.md",
-    "Terminal.md"
+    "Second Brain.md"
   ]
 }
