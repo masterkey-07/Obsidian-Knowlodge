@@ -4,40 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b387c3a10eae51f",
+        "id": "3230f4f7cbf43158",
         "type": "tabs",
         "children": [
           {
-            "id": "ed42b3fbcd5bc8fe",
+            "id": "b80fc16f9c9fe0bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Personal/Lists/Notes To Look.md",
-                "mode": "source",
-                "source": false
+                "file": "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf"
               }
             }
           }
-        ]
-      },
-      {
-        "id": "1526bf34a3047b40",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "083535a4b6938618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Lists/To Learn.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Lists/To Learn.md",
+                "file": "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Lists/To Learn.md",
+                "file": "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Lists/To Learn.md"
+                "file": "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf"
               }
             }
           },
@@ -172,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "083535a4b6938618",
+  "active": "b80fc16f9c9fe0bd",
   "lastOpenFiles": [
     "Personal/Lists/Notes To Look.md",
+    "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf",
+    "Notes/Max Subarray Solution.md",
     "Personal/Lists/To Learn.md",
     "Notes/SOLID Principles.md",
     "Obsidian CLI Rust Project.md",
     "Projects.md",
     "Command Line Interface.md",
     "Personal/To Learn.md",
-    "Productivity.md",
-    "My Processes.md",
-    "Second Brain.md"
+    "Productivity.md"
   ]
 }

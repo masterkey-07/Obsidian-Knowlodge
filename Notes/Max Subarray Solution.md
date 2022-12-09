@@ -4,7 +4,7 @@
 
 ### best purchase, find the day to buy and the sell.
 
-### data = [[10,_], [15,5], [5,-10],... [value, diff]]
+### data = \[\[10,_\], \[15,5\], \[5,-10\],... \[value, diff\]\]
 
 ### Method : divide and conquer
 
