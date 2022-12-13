@@ -1,3 +1,18 @@
 #tolearn  
 
 Written by [[Robert C. Martin]] in 2017
+
+# Objective
+
+```ad-note
+
+#### The Only Way to go Fast, is to go Well.
+
+```
+
+### The Provide a Software Quality, to easly mantain and scale it with a good software archtecture and design.
+
+
+## With Quality, it is Cheaper to Develop
+
+![[Clean Archtecture 2022-12-12 08.08.26.excalidraw]]
