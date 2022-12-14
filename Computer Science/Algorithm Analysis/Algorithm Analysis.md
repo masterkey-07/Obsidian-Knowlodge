@@ -21,3 +21,4 @@
 - ## [[Induction]]
 - ## [[Backtracking]]
 - ## [[Dynamic Programming]]
+- ## [[Greedy Algorithm]]

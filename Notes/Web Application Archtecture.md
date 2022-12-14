@@ -1,6 +1,6 @@
 #tolearn #note 
 
-![[Web Application Archtecture 2022-12-13 07.41.53.excalidraw|1000]]
+![[Web Application Archtecture 2022-12-13 07.41.53.excalidraw|3000]]
 
 # Client 
 

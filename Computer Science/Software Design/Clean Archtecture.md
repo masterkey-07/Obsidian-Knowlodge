@@ -16,3 +16,11 @@ Written by [[Robert C. Martin]] in 2017
 ## With Quality, it is Cheaper to Develop
 
 ![[Clean Archtecture 2022-12-12 08.08.26.excalidraw]]
+
+# The Two Values of a Project 
+
+- ## Behaviour : Functions, Features                                    
+	- ### Extreme : If it works and can't change, won't work after need.
+- ## Structure : Archtecture, Easy to Change
+	- ### If it don't works and can change, can make work.
+
