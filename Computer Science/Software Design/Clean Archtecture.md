@@ -24,3 +24,12 @@ Written by [[Robert C. Martin]] in 2017
 - ## Structure : Archtecture, Easy to Change
 	- ### If it don't works and can change, can make work.
 
+
+
+# Programming Paradigm Archtecture
+
+## Big Three Concers of Archtecture :
+- ### Function : [[Functional Programming]]
+- ### Separation of Components : [[Object Oriented Programming]]
+- ### Data Management : [[Structure Programming]]
+
