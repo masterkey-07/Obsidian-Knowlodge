@@ -7,7 +7,7 @@ Each of the paradigms removes capabilities from the programmer.
 
 
 
-# Main [[Programming Paradigms]]
+# Main Programming Paradigms
 
 - ## [[Functional Programming]]
 - ## [[Object Oriented Programming]]
