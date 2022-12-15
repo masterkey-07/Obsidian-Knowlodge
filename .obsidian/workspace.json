@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29ea5221fb0c7796",
+        "id": "a522258142d8863c",
         "type": "tabs",
         "children": [
           {
-            "id": "27ded8848c05ee84",
+            "id": "7aa010cce97f314e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+                "file": "Computer Science/Software Design/Clean Archtecture.md",
                 "mode": "preview",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+                "file": "Computer Science/Software Design/Clean Archtecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+                "file": "Computer Science/Software Design/Clean Archtecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Algorithm Analysis.md"
+                "file": "Computer Science/Software Design/Clean Archtecture.md"
               }
             }
           },
@@ -155,8 +155,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27ded8848c05ee84",
+  "active": "7aa010cce97f314e",
   "lastOpenFiles": [
+    "Excalidraw/Web Application Archtecture 2022-12-13 07.41.53.excalidraw.md",
+    "Notes/Web Application Archtecture.md",
     "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
     "Computer Science/Algorithm Analysis/Dynamic Programming.md",
     "Computer Science/Database/Relational Database/SQLite.md",
@@ -164,8 +166,6 @@
     "Object Oriented Programming.md",
     "Functional Programming.md",
     "Structure Programming.md",
-    "Programming Paradigm.md",
-    "Computer Science/Software Design/Clean Archtecture.md",
-    "Computer Science/Theories/Induction.md"
+    "Programming Paradigm.md"
   ]
 }
