@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9d781732a8bf18",
+        "id": "29ea5221fb0c7796",
         "type": "tabs",
         "children": [
           {
-            "id": "0c4b22ebcd393894",
+            "id": "27ded8848c05ee84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Algorithm Analysis/Algorithm Analysis.md"
+              }
             }
           },
           {
@@ -147,8 +155,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c4b22ebcd393894",
+  "active": "27ded8848c05ee84",
   "lastOpenFiles": [
+    "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+    "Computer Science/Algorithm Analysis/Dynamic Programming.md",
     "Computer Science/Database/Relational Database/SQLite.md",
     "Books/Clean Series/Clean Architecture.pdf",
     "Object Oriented Programming.md",
@@ -156,8 +166,6 @@
     "Structure Programming.md",
     "Programming Paradigm.md",
     "Computer Science/Software Design/Clean Archtecture.md",
-    "Computer Science/Theories/Induction.md",
-    "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
-    "Computer Science/Algorithm Analysis/Greedy Algorithm.md"
+    "Computer Science/Theories/Induction.md"
   ]
 }
