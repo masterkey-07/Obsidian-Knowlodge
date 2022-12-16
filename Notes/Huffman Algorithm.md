@@ -1,5 +1,9 @@
-#tolearn #note 
+#tolearn 
+
+Study From
+- [[PAA - Aula 8 - Algoritmos Gulosos.pdf]]
+- [[Introduction to Algorithms.pdf]] From Page 428 to 436
 
 # Description
 
-### Compress Method
+### Data  Compress Method

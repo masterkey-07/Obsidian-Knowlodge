@@ -28,14 +28,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d9101f64299cc9de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1,
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md",
+                "file": "Computer Science/Algorithm Analysis/Greedy Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md",
+                "file": "Computer Science/Algorithm Analysis/Greedy Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md"
+                "file": "Computer Science/Algorithm Analysis/Greedy Algorithm.md"
               }
             }
           },
@@ -174,52 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "d40a088545c39ad4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cb30dfcf0a17b43e",
-        "type": "window",
-        "children": [
-          {
-            "id": "f6a0e92fd75c6044",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "83626d6696216afa",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 153,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "83626d6696216afa",
+  "active": "94a79163aad5c4c6",
   "lastOpenFiles": [
+    "Notes/Huffman Algorithm.md",
+    "Personal/Lists/List of To Learn.md",
+    "Computer Science/Algorithm Analysis/Dynamic Programming.md",
     "Computer Science/Algorithm Analysis/Greedy Algorithm.md",
+    "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md",
     "College/Slides/PAA/PAA - Aula 8 - Algoritmos Gulosos.pdf",
     "Huffman Algorithm.md",
     "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf",
     "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
-    "Computer Science/Programming/Languages/List of Languages.md",
-    "Personal/Lists/List of Notes.md",
-    "Personal/Lists/List of Tasks.md",
-    "Computer Science/Programming/Languages/C.md",
-    "Personal/Lists/Lists.md"
+    "Computer Science/Programming/Languages/List of Languages.md"
   ]
 }
