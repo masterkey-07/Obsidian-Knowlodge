@@ -4,11 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "21f53b5f76cc31a4",
+        "id": "a5989a199f1eb2ad",
         "type": "tabs",
         "children": [
           {
-            "id": "03779bc3d53baf38",
+            "id": "9eba1d5b66bc492d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "College/Slides/PAA/PAA - Aula 8 - Algoritmos Gulosos.pdf"
+              }
+            }
+          },
+          {
+            "id": "94a79163aad5c4c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithm Analysis/Greedy Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9101f64299cc9de",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,6 +38,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md"
+              }
             }
           },
           {
@@ -147,17 +174,52 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03779bc3d53baf38",
+  "floating": {
+    "id": "d40a088545c39ad4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cb30dfcf0a17b43e",
+        "type": "window",
+        "children": [
+          {
+            "id": "f6a0e92fd75c6044",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "83626d6696216afa",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Greedy Algorithm 2022-12-15 21.53.18.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 153,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "83626d6696216afa",
   "lastOpenFiles": [
-    "Computer Science/Software Design/Clean Archtecture.md",
-    "C.md",
-    "Computer Science/Object Oriented Programming.md",
-    "Computer Science/Structure Programming.md",
-    "Excalidraw/Clean Archtecture 2022-12-12 08.08.26.excalidraw.md",
-    "Computer Science/Programming Paradigm.md",
-    "Computer Science/Computer Science.md",
-    "Books/Software Development/Clean Series/Clean Architecture.pdf",
-    "Computer Science/Theories/Induction.md",
-    "Computer Science/Algorithm Analysis/Substitution Analysis.md"
+    "Computer Science/Algorithm Analysis/Greedy Algorithm.md",
+    "College/Slides/PAA/PAA - Aula 8 - Algoritmos Gulosos.pdf",
+    "Huffman Algorithm.md",
+    "College/Slides/PAA/PAA - Aula 7 - Programação Dinâmica.pdf",
+    "College/Slides/PAA/PAA - Aula 6 - Backtracking.pdf",
+    "Computer Science/Programming/Languages/List of Languages.md",
+    "Personal/Lists/List of Notes.md",
+    "Personal/Lists/List of Tasks.md",
+    "Computer Science/Programming/Languages/C.md",
+    "Personal/Lists/Lists.md"
   ]
 }
