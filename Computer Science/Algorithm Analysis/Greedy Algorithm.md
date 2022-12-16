@@ -4,5 +4,5 @@
 
 ####  The algorithm takes a greedy approach, by chosing the "best" path
 
-## Examples : [[Huffman Algorithm]]
+## Examples : [[Huffman Coding]]
 
