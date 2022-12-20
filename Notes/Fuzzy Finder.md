@@ -1,4 +1,4 @@
-#note
+#note #tolearn 
 
 # How to do Fuzzy Finder
 
