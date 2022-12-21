@@ -1,3 +1,3 @@
 #tolearn
 
-# What is a [[Second Brain]]
+# What is a [[Second Brain]]?

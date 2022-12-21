@@ -22,3 +22,4 @@
 - ## [[Backtracking]]
 - ## [[Dynamic Programming]]
 - ## [[Greedy Algorithm]]
+- ## [[NP-Completeness]]

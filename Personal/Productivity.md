@@ -1,4 +1,4 @@
-#tolearn
+#tolearn #task 
 
 # What is [[Productivity]] ?
 
@@ -24,4 +24,4 @@ The Brain is for Creating Ideas Not Holding It...
 
 - ## Note Taking : [[Obsidian]]
 - ## Consumption : Books, Videos, etc...
-- ## Taking Highlighs : [[Readwise]]
+- ## Taking Highlighs : [[Obsidian]]

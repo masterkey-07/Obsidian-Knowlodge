@@ -13,16 +13,12 @@
 ## Tools
 - ### [[SGBD]]
 
-## Databases
-- ### [[SQLite]]
-- ### [[MySQL]]
-- ### [[Oracle DB]]
-- ### [[PostgreSQL]]
-- ### Others...
-
-
 ## Display Methods
 
 - ### [[Logic Model]]
 - ### [[Fisic Model]]
 - ### [[Conceptual Model]]
+## Databases
+```dataview
+list from #database 
+```
