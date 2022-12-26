@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f965223ecb5bec12",
+        "id": "96925eabfc7235dc",
         "type": "tabs",
         "children": [
           {
-            "id": "4241537db53377e8",
+            "id": "a10e484e6defa958",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -66,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -160,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6e3f8460146fe6f",
+  "active": "a10e484e6defa958",
   "lastOpenFiles": [
-    "Personal/Lists/List of To Learn.md",
-    "Computer Science/Software Design/Domain Driven Development.md",
-    "Personal/Productivity.md",
-    "Personal/Second Brain.md",
-    "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
+    "Regular Expression.md",
+    "Vim Motion.md",
+    "Excalidraw/NP-Completeness 2022-12-22 21.56.48.excalidraw.md",
+    "College/Slides/PAA/PAA - Aula 9 - Teoria da Complexidade.pdf",
     "Computer Science/Algorithm Analysis/NP-Completeness.md",
-    "Untitled.canvas",
-    "Projects/Obsidian CLI Rust Project.md",
-    "Personal/Lists/List of Notes.md",
-    "Computer Science/Database/Relational Database/Relational Database.md"
+    "Books/Algorithms/Introduction to Algorithms.pdf",
+    "Computer Science/Programming/Languages/Clojure.md",
+    "Personal/Lists/Lists.md",
+    "Personal/Lists/List of To Learn.md",
+    "Personal/Lists/List of Tasks.md"
   ]
 }
