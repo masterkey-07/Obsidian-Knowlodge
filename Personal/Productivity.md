@@ -4,8 +4,8 @@
 
 ### The process to eliminate tasks to be done mentally and give to the software/paper to handle.
 
-```ad-note
-title: Fancy Words...
+```ad-quote
+title: David Allen
 
 The Brain is for Creating Ideas Not Holding It...
 
@@ -24,4 +24,4 @@ The Brain is for Creating Ideas Not Holding It...
 
 - ## Note Taking : [[Obsidian]]
 - ## Consumption : Books, Videos, etc...
-- ## Taking Highlighs : [[Obsidian]]
+- ## Taking Highlighs : [[Obsidian]], YouTube

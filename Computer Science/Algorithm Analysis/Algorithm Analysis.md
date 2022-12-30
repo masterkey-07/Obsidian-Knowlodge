@@ -8,7 +8,7 @@
 
 ### With the Analysis, it is possibel to classify it by [[Asymptotic Notation]] (Big O Notation)
 
-# Algorithm Analysis Methods
+# Algorithm Analysis Methods for Recurrences
 
 - ## [[Substitution Analysis]]
 - ## [[Recursion Tree Analysis]]
