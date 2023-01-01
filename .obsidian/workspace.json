@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b91cd23ed59b591",
+        "id": "e5ffd93b88a4621b",
         "type": "tabs",
         "children": [
           {
-            "id": "9e10906a699e3136",
+            "id": "ee59605ef989e871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Grindset.md",
-                "mode": "preview",
+                "file": "Computer Science/Software Design/Test Driven Development.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Grindset.md",
+                "file": "Computer Science/Software Design/Test Driven Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Grindset.md",
+                "file": "Computer Science/Software Design/Test Driven Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Grindset.md"
+                "file": "Computer Science/Software Design/Test Driven Development.md"
               }
             }
           },
@@ -167,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e10906a699e3136",
+  "active": "ee59605ef989e871",
   "lastOpenFiles": [
-    "Excalidraw/My Processes 2022-12-26 12.20.53.excalidraw.md",
-    "Personal/Grindset.md",
-    "Personal/My Health.md",
-    "Notes/coreutils.md",
-    "Notes/Containerd.md",
-    "Notes/Structure and Interpretation of Computer Programs.md",
-    "Notes/Fuzzy Finder.md",
+    "Computer Science/Programming/Languages/Programming Language.md",
+    "Computer Science/Operational System/Operational System.md",
     "Notes/Learn Neovim.md",
-    "Projects/Killing Cormen.md",
-    "Teste.canvas"
+    "Personal/Grindset.md",
+    "Microservices.md",
+    "Notes/Web Application Archtecture.md",
+    "Notes/Containerd.md",
+    "Archtecture Paradigm.md",
+    "Excalidraw/My Processes 2022-12-26 12.20.53.excalidraw.md",
+    "Personal/My Health.md"
   ]
 }
