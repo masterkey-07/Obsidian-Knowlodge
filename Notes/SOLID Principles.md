@@ -1,15 +1,28 @@
-#note
+
 
 ### Created by [[Robert C. Martin]]
 
-A aula apresenta o conceito de SOLID
+**Module** : Group of Structs and Functions (What is in a file) 
 
-S - Single Responsibility Principle : Toda função e classe deve ter somennte um único objetivo. Se houver mais que um, divida.
+# Single Responsibility Principle 
 
-O - Open / Closed Principle : O Algoritmo deve ser desenvolvido com metodoligas para facilicatar implementação e garantir que não será necessário alterar algum código.
+- ### Every Module should do One Thing.
+- ### Every Module Should Be Modified by Only One Reason.
 
-L - Liskov Substituition Principle : Cada função deve funcionar de forma coesiva.
+# Open - Closed Principle 
 
-I - Interface Segregation Principle : As interfaces devem ser estruturadas de forma eficientes, com que todos as suas classes concretas usem todas as suas funcionalidades.
+created by **Bertrand Meyer**
+- ### Open to Extension, but Closed to Modification
+- ### Protect the Sections/Layers of The Project with Interfaces
 
-D - Dependency Injection Principle : Abstrair uma dependência de uma função para que não seja necessário reescrever código ou evitar a necessidade de multiplas condições
+# Liskov Substituition Principle 
+created by **Barbara Liskov**
+- ### Ensure That Argument A and B has the Correct Behaviour in Function 
+
+# Interface Segregation Principle 
+
+?
+
+# Dependency Injection Principle
+
+?

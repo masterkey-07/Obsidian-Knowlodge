@@ -1,4 +1,3 @@
-[[Programming Paradigm]]
 
 #### The Capacity of Encapsulation, Inheritance  and Polymorphism
 

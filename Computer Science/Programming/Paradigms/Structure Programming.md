@@ -1,4 +1,3 @@
-[[Programming Paradigm]]
 
 #### Changing Control : Means to jump to another statement (line)
 

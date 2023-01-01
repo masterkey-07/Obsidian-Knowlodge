@@ -2,8 +2,8 @@
 
 ### Trying to learn [[Neovim]] and [[Vim Motion]]
 
-### [Leap Neovim](https://github.com/ggandor/leap.nvim) : Easy Motion?
+### [Leap Neovim](https://github.com/ggandor/leap.nvim) : [[Neovim]] Plugin for an Easy [[Vim Motion]]?
 
-### [Configuration](https://www.youtube.com/watch?v=w7i4amO_zaE)
+### [Neovim Configuration by Primeagen](https://www.youtube.com/watch?v=w7i4amO_zaE)
 
 

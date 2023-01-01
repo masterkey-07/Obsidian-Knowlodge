@@ -1,4 +1,4 @@
-#tolearn  
+#tolearn #task   
 
 Written by [[Robert C. Martin]] in 2017
 
@@ -15,7 +15,7 @@ Written by [[Robert C. Martin]] in 2017
 
 ## With Quality, it is Cheaper to Develop
 
-![[Clean Archtecture 2022-12-12 08.08.26.excalidraw|  10000]]
+![[Clean Archtecture 2022-12-12 08.08.26.excalidraw|  500]]
 
 # The Two Values of a Project 
 
@@ -28,10 +28,16 @@ Written by [[Robert C. Martin]] in 2017
 
 # [[Programming Paradigm]] in Archtecture
 
-## Big Three Concers of Archtecture :
-- ### Function : [[Functional Programming]]
-- ### Separation of Components : [[Object Oriented Programming]]
-- ### Data Management : [[Structure Programming]]]
+## Big Three Concerns of Archtecture :
+- ## Function : [[Functional Programming]]
+- ## Separation of Components : [[Object Oriented Programming]]
+- ## Data Management : [[Structure Programming]]
 
+# [[SOLID Principles]] in [[Clean Archtecture]]
 
+```ad-quote
+title: [[Robert C. Martin]]
+
+On the one hand, if the bricks aren’t well made, the architecture of the building doesn’t matter much. On the other hand, you can make a substantial mess with well-made bricks.
+```
 

@@ -1,3 +1,5 @@
+
+![[Pasted image 20230101145842.png|300]]
 # My Dogmas
 - ## I Should to [[Make Everything Simple]]
 
