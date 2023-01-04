@@ -1,6 +1,6 @@
 # About
 
-### Create a Rust CLI to do Backup daily
+### Create a [[Rust]] CLI to do Backup daily
 
 
 # Ideas

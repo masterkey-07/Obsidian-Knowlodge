@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52dbd5eac85c9066",
+        "id": "923d37ba153c728d",
         "type": "tabs",
         "children": [
           {
-            "id": "68b8fd80d4f4e454",
+            "id": "2a88ea978074b96a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lists/List of Tasks.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lists/List of Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lists/List of Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lists/List of Tasks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68b8fd80d4f4e454",
+  "active": "2a88ea978074b96a",
   "lastOpenFiles": [
+    "Excalidraw/Breathing Techniques 2023-01-02 14.38.34.excalidraw.md",
+    "Notes/Learn Neovim.md",
+    "Computer Science/Tools/Vim Motions.md",
+    "Projects/Backup CLI Rust Project.md",
+    "Excalidraw/Drawing 2022-12-03 19.11.01.excalidraw.md",
+    "Notes/Rust GUI Development.md",
     "Computer Science/Programming/Languages/Rust/Rust.md",
     "Computer Science/Programming/Languages/Rust/Control of Flow in Rust.md",
-    "Notes/SOLID Principles.md",
-    "Excalidraw/SOLID Principles 2023-01-03 19.28.53.excalidraw.md",
-    "Excalidraw/SOLID Principles 2023-01-03 20.19.24.excalidraw.md",
-    "Excalidraw/SOLID Principles 2023-01-03 20.17.25.excalidraw.md",
-    "Excalidraw/Abstract Factory Pattern 2023-01-03 09.11.45.excalidraw.md",
-    "Computer Science/Programming/Paradigms/Object Oriented Programming.md",
-    "Computer Science/Programming/Languages/Rust.md",
-    "Ownership in Rust.md"
+    "Lists/List of Tasks.md",
+    "Notes/SOLID Principles.md"
   ]
 }
