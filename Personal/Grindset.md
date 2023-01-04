@@ -2,7 +2,9 @@
 ![[Pasted image 20230101145842.png|300]]
 # My Dogmas
 - ## I Should to [[Make Everything Simple]]
-
+- ## I must [[Enjoy the Hard Work]]
+- ## Everything you do, [[Do the Best]] you can
+- ## To Calm down, use [[Breathing Techniques]]
 
 # My Goal
 

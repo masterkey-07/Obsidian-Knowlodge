@@ -35,6 +35,8 @@ Written by [[Robert C. Martin]] in 2017
 
 # [[SOLID Principles]] in [[Clean Archtecture]]
 
+### The `Dependency Inversion Principle` will constitute the `Dependency Rule` in [[Clean Archtecture]]
+
 ```ad-quote
 title: [[Robert C. Martin]]
 
