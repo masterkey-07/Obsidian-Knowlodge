@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ff18c5117ea5c3c",
+        "id": "52dbd5eac85c9066",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0f56292301a475",
+            "id": "68b8fd80d4f4e454",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/SOLID Principles.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SOLID Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SOLID Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/SOLID Principles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c0f56292301a475",
+  "active": "68b8fd80d4f4e454",
   "lastOpenFiles": [
-    "Excalidraw/SOLID Principles 2023-01-03 19.28.53.excalidraw.md",
+    "Computer Science/Programming/Languages/Rust/Rust.md",
+    "Computer Science/Programming/Languages/Rust/Control of Flow in Rust.md",
     "Notes/SOLID Principles.md",
+    "Excalidraw/SOLID Principles 2023-01-03 19.28.53.excalidraw.md",
     "Excalidraw/SOLID Principles 2023-01-03 20.19.24.excalidraw.md",
     "Excalidraw/SOLID Principles 2023-01-03 20.17.25.excalidraw.md",
     "Excalidraw/Abstract Factory Pattern 2023-01-03 09.11.45.excalidraw.md",
     "Computer Science/Programming/Paradigms/Object Oriented Programming.md",
     "Computer Science/Programming/Languages/Rust.md",
-    "Ownership in Rust.md",
-    "Excalidraw/Clean Archtecture 2022-12-12 08.08.26.excalidraw.md",
-    "Abstract Factory Pattern.md"
+    "Ownership in Rust.md"
   ]
 }
