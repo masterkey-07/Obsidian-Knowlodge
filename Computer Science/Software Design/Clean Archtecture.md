@@ -29,9 +29,12 @@ Written by [[Robert C. Martin]] in 2017
 # [[Programming Paradigm]] in Archtecture
 
 ## Big Three Concerns of Archtecture :
-- ## Function : [[Functional Programming]]
-- ## Separation of Components : [[Object Oriented Programming]]
-- ## Data Management : [[Structure Programming]]
+- ### Function : [[Functional Programming]]![[Functional Programming#^344a93]]
+
+- ### Separation of Components : [[Object Oriented Programming]]![[Object Oriented Programming#^11adb6]]
+
+
+- ### Data Management : [[Structure Programming]]![[Structure Programming#^8706e6]]
 
 # [[SOLID Principles]] in [[Clean Archtecture]]
 

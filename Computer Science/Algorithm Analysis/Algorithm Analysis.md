@@ -8,11 +8,12 @@
 
 ### With the Analysis, it is possibel to classify it by [[Asymptotic Notation]] (Big O Notation)
 
-# Algorithm Analysis Methods for Recurrences
+# Algorithm Analysis Methods 
 
 - ## [[Substitution Analysis]]
 - ## [[Recursion Tree Analysis]]
 - ## [[Master Theorem]]
+- ## [[NP-Completeness]]
 
 #  Methods for Problem Analysis
 
@@ -22,4 +23,3 @@
 - ## [[Backtracking]]
 - ## [[Dynamic Programming]]
 - ## [[Greedy Algorithm]]
-- ## [[NP-Completeness]]

@@ -2,9 +2,12 @@
 ```ad-note
 title: By [[Robert C. Martin]] in [[Clean Archtecture]] 
 
-Functional programming imposes discipline upon assignment.
+### Functional programming imposes discipline upon assignment.
 
 ```
+
+^344a93
+
 **Immutability** : Variables and Objects are Constants, cannot be modified
 
 
@@ -22,5 +25,7 @@ Functional programming imposes discipline upon assignment.
 
 # Solution in [[Clean Archtecture]] 
 
-- ### Lower Level Modules to be Functional for Safety
-- ### Higher Level Modules not Functional for Performance 
+^93d05a
+
+- ### Lower Level Modules to be Functional for Safety ^4748d8
+- ### Higher Level Modules not Functional for Performance  ^39422d

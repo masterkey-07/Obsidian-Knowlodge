@@ -30,3 +30,5 @@ title: By [[Robert C. Martin]] in [[Clean Archtecture]]
 
 ```
 
+^11adb6
+

@@ -24,7 +24,8 @@ Reduce ^YrFsDMvC
 
 Solve ^mctkNZgv
 
-Solve from Solution B ^s41f8DKN
+Solve (or Not) 
+from Solution B ^s41f8DKN
 
 Not Efficient ^OQaXdYzG
 
@@ -334,8 +335,8 @@ Not Efficient ^OQaXdYzG
 		},
 		{
 			"type": "arrow",
-			"version": 78,
-			"versionNonce": 1051622157,
+			"version": 82,
+			"versionNonce": 2019339275,
 			"isDeleted": false,
 			"id": "WIplSDwXCyZcBy89MdOJ1",
 			"fillStyle": "hachure",
@@ -354,7 +355,7 @@ Not Efficient ^OQaXdYzG
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1671909446789,
+			"updated": 1672965330819,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -397,7 +398,7 @@ Not Efficient ^OQaXdYzG
 			"y": -211.0247039794922,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 98,
+			"width": 97,
 			"height": 36,
 			"seed": 820864013,
 			"groupIds": [],
@@ -418,8 +419,8 @@ Not Efficient ^OQaXdYzG
 		},
 		{
 			"type": "arrow",
-			"version": 52,
-			"versionNonce": 1076550605,
+			"version": 56,
+			"versionNonce": 1608738123,
 			"isDeleted": false,
 			"id": "UJ5_2F9Zgtq70OKF74F6p",
 			"fillStyle": "hachure",
@@ -438,7 +439,7 @@ Not Efficient ^OQaXdYzG
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1671909446793,
+			"updated": 1672965330825,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -502,8 +503,8 @@ Not Efficient ^OQaXdYzG
 		},
 		{
 			"type": "arrow",
-			"version": 76,
-			"versionNonce": 689310861,
+			"version": 80,
+			"versionNonce": 2038222475,
 			"isDeleted": false,
 			"id": "i9c50peETUq5iiE9D8EcU",
 			"fillStyle": "hachure",
@@ -522,7 +523,7 @@ Not Efficient ^OQaXdYzG
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1671909446796,
+			"updated": 1672965330832,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -551,8 +552,8 @@ Not Efficient ^OQaXdYzG
 		},
 		{
 			"type": "text",
-			"version": 52,
-			"versionNonce": 993485699,
+			"version": 90,
+			"versionNonce": 1640979851,
 			"isDeleted": false,
 			"id": "s41f8DKN",
 			"fillStyle": "hachure",
@@ -561,33 +562,33 @@ Not Efficient ^OQaXdYzG
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 27.805413679643095,
-			"y": -36.92595603249288,
+			"x": 69.91067683753784,
+			"y": -78.15401550000928,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 299,
-			"height": 36,
+			"width": 216,
+			"height": 72,
 			"seed": 1038369293,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1671757187643,
+			"updated": 1672965346698,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 1,
-			"text": "Solve from Solution B",
-			"rawText": "Solve from Solution B",
-			"baseline": 25,
+			"text": "Solve (or Not) \nfrom Solution B",
+			"rawText": "Solve (or Not) \nfrom Solution B",
+			"baseline": 61,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Solve from Solution B"
+			"originalText": "Solve (or Not) \nfrom Solution B"
 		},
 		{
 			"type": "arrow",
-			"version": 89,
-			"versionNonce": 612929219,
+			"version": 91,
+			"versionNonce": 73757605,
 			"isDeleted": false,
 			"id": "VjQ_8kU2485HeCtWr05Ps",
 			"fillStyle": "hachure",
@@ -606,7 +607,7 @@ Not Efficient ^OQaXdYzG
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1671909446796,
+			"updated": 1672965330832,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -671,6 +672,41 @@ Not Efficient ^OQaXdYzG
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Not Efficient"
+		},
+		{
+			"id": "tkBo1mQQ",
+			"type": "text",
+			"x": 166.8116451684038,
+			"y": 25.281489322059997,
+			"width": 10,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "dotted",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 71100363,
+			"version": 3,
+			"versionNonce": 2072229483,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1672965336507,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -689,10 +725,10 @@ Not Efficient ^OQaXdYzG
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 264.8207995144703,
-		"scrollY": 486.1666259765625,
+		"scrollX": 274.2465116983725,
+		"scrollY": 519.0151142321135,
 		"zoom": {
-			"value": 1
+			"value": 0.9500000000000001
 		},
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,

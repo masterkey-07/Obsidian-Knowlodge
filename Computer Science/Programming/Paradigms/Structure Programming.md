@@ -7,6 +7,8 @@
 
 ### The Structure Programming removes the possibilitie of `goto` and gives in return `if else, do while, while,` etc...
 
+^4a4f5b
+
 ### For a more disciplined and limited way of changing control
 
 ### And the capacity for Functional Decomposition, allowing  high-level functions be divided to lower-level functions
@@ -20,4 +22,6 @@ title: By [[Robert C. Martin]] in [[Clean Archtecture]]
 ### Structured programming imposes discipline on direct transfer of control.
 
 ```
+
+^8706e6
 

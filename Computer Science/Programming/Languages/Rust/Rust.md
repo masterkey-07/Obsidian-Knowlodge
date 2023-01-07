@@ -1,10 +1,6 @@
 #tolearn 
 
-# Variables Types
-
-### `let` -> Immutable
-### `let mut` -> Mutable
-### `const : <type>` -> Immutable with a Type
+# ![[Variables Types in Rust]]
 
 ---
 
@@ -13,10 +9,9 @@
 ---
 
 # [[Control of Flow in Rust]]
-
 ---
 
-# Data Management -> [[Ownership in Rust]]
+# Data Management  : [[Ownership in Rust]]
 
 --- 
 
