@@ -1,5 +1,4 @@
 
-![[Pasted image 20230101145842.png|300]]
 # My Dogmas
 - ## I Should to [[Make Everything Simple]]
 - ## I must [[Enjoy the Hard Work]]
@@ -13,7 +12,7 @@
 - ## I Should have a good [[Relationship]]
 - ## I Should practice [[My Disciplines]]
 - ## I Should take care of [[My Health]]
-	
+- ## I Must Plan [[My House]]
 # Learning Process
 
 ![[My Processes 2022-12-26 12.20.53.excalidraw|10000]]
