@@ -43,5 +43,5 @@
 	- [ ] Number Theoretic Algorithms
 	- [ ] [[String Matching]]
 	- [ ] Computational Geometry
-	- [ ] [[NP-Completeness]]
+	- [ ] [[Computational Complexity Theory]]
 	- [ ] Approximation Algorithms

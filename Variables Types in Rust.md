@@ -1,5 +1,5 @@
 # Variables Types
 
-### `let` -> Immutable
-### `let mut` -> Mutable
-### `const : <type>` -> Immutable with a Type
+### `let` &rarr; Immutable
+### `let mut` &rarr; Mutable
+### `const : <type>` &rarr; Immutable with a Type

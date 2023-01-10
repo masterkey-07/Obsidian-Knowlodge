@@ -1,5 +1,7 @@
 #tolearn 
 
+# Uses [[Markdown]] for Noting Taking
+
 # [Obsidian Help Page](https://help.obsidian.md/Obsidian/Index)
 
 

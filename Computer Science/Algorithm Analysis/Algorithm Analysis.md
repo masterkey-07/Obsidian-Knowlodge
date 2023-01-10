@@ -13,7 +13,7 @@
 - ## [[Substitution Analysis]]
 - ## [[Recursion Tree Analysis]]
 - ## [[Master Theorem]]
-- ## [[NP-Completeness]]
+- ## [[Computational Complexity Theory]]
 
 #  Methods for Problem Analysis
 
