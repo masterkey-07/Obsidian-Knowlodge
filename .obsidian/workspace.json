@@ -4,23 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bffa233756101951",
+        "id": "c6df09c5d5544998",
         "type": "tabs",
         "children": [
           {
-            "id": "677a2a5424e28172",
+            "id": "0bd17a285b97257c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My House.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My House.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "677a2a5424e28172",
+  "active": "0bd17a285b97257c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "My House.md",
-    "Personal/Grindset.md",
-    "Computer Science/Database/Relational Database/Relational Algebra.md",
+    "Non Deterministic Polynomial Time Problem.md",
+    "Excalidraw/Non Deterministic Polynomial Time Problem 2023-01-11 01.37.56.excalidraw.md",
+    "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
     "Computer Science/Algorithm Analysis/Computational Complexity Theory.md",
-    "Excalidraw/Computational Complexity Theory 2023-01-10 12.47.15.excalidraw.md",
-    "Computer Science/Tools/MathJax.md",
-    "Hamiltonian Path.md",
+    "Computer Science/Algorithm Analysis/Greedy Algorithm.md",
+    "Computer Science/Algorithm Analysis/Backtracking.md",
     "Excalidraw/NP-Completeness 2022-12-22 21.56.48.excalidraw.md",
-    "Data Structures in Rust.md"
+    "My House.md",
+    "Untitled.md",
+    "Personal/Grindset.md"
   ]
 }
