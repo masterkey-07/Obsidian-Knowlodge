@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c6df09c5d5544998",
+        "id": "d37114ef14858c61",
         "type": "tabs",
         "children": [
           {
-            "id": "0bd17a285b97257c",
+            "id": "6b492fe3bd44da4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Programming/Languages/Rust/Rust.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Programming/Languages/Rust/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Programming/Languages/Rust/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Programming/Languages/Rust/Rust.md"
+              }
             }
           },
           {
@@ -172,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bd17a285b97257c",
+  "active": "6b492fe3bd44da4c",
   "lastOpenFiles": [
+    "Unifesp.md",
     "Non Deterministic Polynomial Time Problem.md",
     "Excalidraw/Non Deterministic Polynomial Time Problem 2023-01-11 01.37.56.excalidraw.md",
     "Computer Science/Algorithm Analysis/Algorithm Analysis.md",
@@ -182,7 +191,6 @@
     "Computer Science/Algorithm Analysis/Backtracking.md",
     "Excalidraw/NP-Completeness 2022-12-22 21.56.48.excalidraw.md",
     "My House.md",
-    "Untitled.md",
     "Personal/Grindset.md"
   ]
 }

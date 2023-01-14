@@ -1,0 +1,56 @@
+#project 
+
+[[Computer Science]] Curso
+
+
+- [x] Primeiro Termo
+	- [x] Cálculo em uma Variável
+	- [x] Ciência, Tecnologia e Sociedade
+	- [x] Lógica de Programação
+	- [x] Química Geral
+	- [x] Fundamentos de Biologia Moderna
+- [ ] Segundo Termo
+	- [x] Fenômenos Mecânicos
+	- [x] Ciência, Tecnologia, Sociedade e Ambiente
+	- [ ] Séries e Equações Diferenciais Odinárias
+	- [x] Matemática Discreta
+	- [x] Algoritmos e Estrutura de Dados I
+- [ ] Terceiro Termo
+	- [x] Interdisciplinar (2 Créditos)
+	- [ ] Probabilidade e Estatística
+	- [ ] Cálculo em Várias Variáveis
+	- [ ] Circuitos Digitais
+	- [x] Algoritmos e Estrutura de Dados II
+	- [x] Álgebra Linear 
+- [ ] Quarto Termo
+	- [x] Interdisciplinar (2 Créditos)
+	- [ ] Banco de Dados
+	- [ ] Programação Orientada a Objetos
+	- [ ] Arquitetura e Organização de Computadores
+	- [ ] Projeto e Análise de Algoritmos
+	- [ ] Cálculo Numérico
+- [ ] Quinto Termo
+	- [x] Interdisciplinar (2 Créditos)
+	- [ ] Inteligẽncia Artificial
+	- [ ] Projetos Orientado a Objetos
+	- [ ] Linguagens Formais e Autômatos
+	- [ ] Teoria dos Grafos
+	- [x] Sistemas Operacionais
+- [ ] Sexto Termo
+	- [ ] Rede de Computadores
+	- [ ] Engenharia de Software
+	- [ ] Computação Gráfica
+	- [ ] Compiladores
+	- [ ] Programação Concorrente e Distribuída
+- [ ] Sétimo Termo
+	- [ ] TCC I
+	- [ ] Eletiva I (2/4)
+	- [ ] Eletiva II
+	- [ ] Eletiva III
+	- [ ] Eletiva IV
+- [ ] Oitavo Termo
+	- [ ] TCC II
+	- [ ] Eletiva V
+	- [ ] Eletiva VI
+	- [ ] Eletiva VII
+	- [ ] Eletiva VIII
