@@ -21,8 +21,8 @@
 	- [ ] [[Red Black Trees]]
 	- [ ] Augmenting Data Structures
 - [ ] Advanced Design and Analysis Techniques
-	- [ ] [[Dynamic Programming]]
-	- [ ] [[Greedy Algorithm]]
+	- [x] [[Dynamic Programming]]
+	- [x] [[Greedy Algorithm]]
 	- [ ] [[Amortized Analysis]]
 - [ ] Advanced [[Data Structures]]
 	- [ ] [[B Trees]]
@@ -43,5 +43,5 @@
 	- [ ] Number Theoretic Algorithms
 	- [ ] [[String Matching]]
 	- [ ] Computational Geometry
-	- [ ] [[Computational Complexity Theory]]
-	- [ ] Approximation Algorithms
+	- [x] [[Computational Complexity Theory]]
+	- [ ] [[Approximation Algorithms]]

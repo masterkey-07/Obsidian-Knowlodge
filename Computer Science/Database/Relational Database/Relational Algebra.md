@@ -6,7 +6,7 @@
 
 # Operations
 
-## $\sigma$ : for selection, filter per turple
+## $\sigma$ : for selection, filter per rows
 ## $\pi$ : for projection, filter per columns 
 
 # Examples
@@ -20,7 +20,7 @@
 3) List the PC manufacturers 
 >π maker γ maker; count(maker) → counter (σ true Product ⨝ PC)
 
-4) List the modls of PC and Laptop
+4) List the models of PC and Laptop
 >π model Laptop ∪ π model PC
 
 5) List the size of the HD that is in PC and not in Laptop

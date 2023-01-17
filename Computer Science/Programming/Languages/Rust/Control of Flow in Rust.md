@@ -16,6 +16,8 @@ let another_condition = if condition { true } else { false };
 
 # Loop 
 
+^f8afa7
+
 ```Rust
 'counting_up: loop {
 	loop {
@@ -40,5 +42,19 @@ while condition {
 let elements = [10, 20, 30, 40, 50];
 for element in elements {
 	//code...
+}
+```
+
+# Match
+
+```Rust
+match coin {
+	Coin::Penny => {
+		println!("Lucky penny!");
+		1
+	} 
+	Coin::Nickel => 5,
+	Coin::Dime => 10, 
+	Coin::Quarter(state) => state, //Quarter is a Enum 
 }
 ```

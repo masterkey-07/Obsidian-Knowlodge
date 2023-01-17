@@ -2,6 +2,8 @@
 
 # Uses [[Markdown]] for Noting Taking
 
+# Uses [[MathJax]] for Equation Rendering
+
 # [Obsidian Help Page](https://help.obsidian.md/Obsidian/Index)
 
 

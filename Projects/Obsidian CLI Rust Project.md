@@ -2,7 +2,7 @@
 
 # About
 
-### Create a Rust CLI for Obsidian Simple Management
+### Create a [[Rust]] CLI for [[Obsidian]] Simple Management
 
 
 # Ideas
