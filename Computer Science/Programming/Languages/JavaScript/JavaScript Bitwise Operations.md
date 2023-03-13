@@ -1,10 +1,8 @@
-#language
-
-Mainly used in [[Web Development]]
-
 # JavaScript Bitwise Operations
 
 [W3School Examples of Bitwise Operations](https://www.w3schools.com/js/js_bitwise.asp)
+
+# Operators
 
 | Operator | Name                  | Description                                                                                              |
 | -------- | --------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -17,7 +15,7 @@ Mainly used in [[Web Development]]
 | \>\>\>   | Zero fill right shift | Shifts right by pushing zeros in from the left, and let the rightmost bits fall off                      |
 
 
-## Examples
+# Examples
 
 | Operation  | Result | Same as       | Result |
 | ---------- | ------ | ------------- | ------ |

@@ -6,6 +6,7 @@
 - ### There can only be one owner at a time.
 - ### When the owner goes out of scope, the value will be dropped.
 
+
 ## Example
 ```Rust
 fn return_something () { 
@@ -35,6 +36,9 @@ fn main(){
 ## Description 
 
 ### How to pass argument without giving the ownership
+
+### In functions with more than one reference, use Lifetime. ![[Generics, Traits and Lifetimes in Rust#Lifetimes]]
+
 
 ## Rules 
 

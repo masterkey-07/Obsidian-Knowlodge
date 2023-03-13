@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29ec13dd4968e46a",
+        "id": "9fa8b7d030117459",
         "type": "tabs",
         "children": [
           {
-            "id": "d095a29e43c88e3b",
+            "id": "0c047345d8a87136",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,8 @@
             "id": "209b6fcb69b33854",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/SOLID Principles.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -173,17 +169,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d095a29e43c88e3b",
+  "active": "0c047345d8a87136",
   "lastOpenFiles": [
-    "Computer Science/Database/Relational Database/Relational Algebra.md",
-    "Computer Science/Database/Relational Database/SQL.md",
-    "Computer Science/Programming/Languages/JavaScript.md",
-    "Computer Science/Theories/Algorithm Analysis/Dynamic Programming.md",
-    "Projects/Killing Cormen.md",
-    "LaTex.md",
+    "Computer Science/Programming/Paradigms/Functional Programming.md",
+    "Personal/My House.md",
+    "College/Unifesp.md",
     "Computer Science/Programming/Languages/Rust/Rust.md",
-    "Notes/Learn NCurses for CLI Apps.md",
-    "Neovim.md",
-    "Approximation Algorithms.md"
+    "Untitled.md",
+    "Generics, Traits and Lifetimes in Rust.md",
+    "Test Driven Development in Rust.md",
+    "Macros in Rust.md",
+    "Annotations in Rust.md",
+    "Computer Science/Programming/Languages/Rust/Ownership in Rust.md",
+    "Computer Science/Programming/Languages/JavaScript.md",
+    "Playright.md",
+    "Cypress.md"
   ]
 }

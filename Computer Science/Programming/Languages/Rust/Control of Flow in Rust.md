@@ -55,6 +55,19 @@ match coin {
 	} 
 	Coin::Nickel => 5,
 	Coin::Dime => 10, 
-	Coin::Quarter(state) => state, //Quarter is a Enum 
+	Coin::Quarter(state) => state, //Quarter is a Enum
+	None => None,
+	_ => (), // None of the Cases and do Nothing
+}
+```
+
+# If Let
+
+```Rust
+let config_max = Some(3u8);
+if let Some(max) = config_max {
+	println!("The maximum is configured to be {}", max); 
+} else {
+	count += 1;
 }
 ```

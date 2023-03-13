@@ -1,35 +1,31 @@
 #tolearn 
 
-
-
 # Objective  
 ### High Performance with Safety at Compile Time  
 
-^9e0152
+# Topics
 
-# Package Management in Rust
-### Rust Uses [[Cargo]] for the Package Management
----
-# [[Variables Types in Rust]]
+- ## Package Management in Rust : [[Cargo]]
+- ## [[Variables Types in Rust]]
+- ## [[Data Types in Rust]]
+- ## [[Annotations in Rust]]
+- ## [[Macros in Rust]]
+- ## [[Control of Flow in Rust]]
+- ## Data Management  : [[Ownership in Rust]]
+- ## [[Data Structures in Rust]]
+- ## [[Enums in Rust ]]
+- ## [[Project Management in Rust]]
+- ## [[Error Handling in Rust]]
+- ## [[Generics, Traits and Lifetimes in Rust]]
+- ## [[Test Driven Development in Rust]]
 
----
-# [[Data Types in Rust]]
----
-# [[Control of Flow in Rust]]
-
----
-# Data Management  : [[Ownership in Rust]]
---- 
-# [[Data Structures in Rust]]
----
-
-# [[Enums in Rust ]]
-
----
 # Observation
 
-## `::` $\rightarrow$ Reference to a Method/Class in a Library
+- ### See More at [Learn Rust](https://www.rust-lang.org/learn)
 
-## Code Reference $\rightarrow$ [[My First Rust Program]]
+- ### `::` $\rightarrow$ Reference to a Method/Class in a Library
 
-## Documentation $\rightarrow$[Rust Standart Documentation ](https://doc.rust-lang.org/std/index.html)
+- ### Code Reference $\rightarrow$ [My Rust Examples](https://github.com/masterkey-07/rust-examples)
+
+- ### Documentation $\rightarrow$[Rust Standart Documentation ](https://doc.rust-lang.org/std/index.html)
+- ### Project Devlopment $\rightarrow$ [[List of Packages for Rust]]

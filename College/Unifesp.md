@@ -24,10 +24,10 @@
 	- [x] Álgebra Linear 
 - [ ] Quarto Termo
 	- [x] Interdisciplinar (2 Créditos)
-	- [ ] Banco de Dados
-	- [ ] Programação Orientada a Objetos
+	- [x] Banco de Dados
+	- [x] Programação Orientada a Objetos
 	- [ ] Arquitetura e Organização de Computadores
-	- [ ] Projeto e Análise de Algoritmos
+	- [x] Projeto e Análise de Algoritmos
 	- [ ] Cálculo Numérico
 - [ ] Quinto Termo
 	- [x] Interdisciplinar (2 Créditos)
