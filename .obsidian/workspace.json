@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
-                "mode": "preview",
+                "file": "Digital Circuits.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
+                "file": "Digital Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
+                "file": "Digital Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Theories/Computation Theory/Formal Languages Automata.md"
+                "file": "Digital Circuits.md"
               }
             }
           },
@@ -178,11 +178,15 @@
   },
   "active": "d47537b5cbdbeae6",
   "lastOpenFiles": [
+    "College/Slides/CD/CD - Aula 0 - Visão Geral.pdf",
+    "College/Slides/CD",
+    "College/Slides/C",
+    "College/CD - Aula 0 - Visão Geral.pdf",
+    "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
     "Computer Science/Theories/Computation Theory/Turing Machine.md",
     "Computer Science/Theories/Computation Theory/Regular Languages.md",
     "Computer Science/Theories/Computation Theory/Context Free Languages.md",
     "Regular Languages.md",
-    "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
     "Excalidraw/Formal Languages Automata 2023-03-13 21.20.46.excalidraw.md",
     "Turing Machine.md",
     "Context Free Languages.md",
@@ -205,7 +209,6 @@
     "Test Driven Development in Rust.md",
     "Macros in Rust.md",
     "Annotations in Rust.md",
-    "Computer Science/Programming/Languages/Rust/Ownership in Rust.md",
-    "Computer Science/Programming/Languages/JavaScript.md"
+    "Computer Science/Programming/Languages/Rust/Ownership in Rust.md"
   ]
 }
