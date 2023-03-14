@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa8b7d030117459",
+        "id": "dad24ba047557f89",
         "type": "tabs",
         "children": [
           {
-            "id": "0c047345d8a87136",
+            "id": "571f0496cb18a4b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -70,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Theories/Computation Theory/Formal Languages Automata.md"
+              }
             }
           },
           {
@@ -169,8 +176,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c047345d8a87136",
+  "active": "571f0496cb18a4b0",
   "lastOpenFiles": [
+    "Books/Introduction to Automata Theory, Languages, and Computation.pdf",
+    "Excalidraw/Formal Languages Automata 2023-03-13 21.20.46.excalidraw.md",
+    "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
+    "Excalidraw/Formal Languages Automata 2023-03-13 21.19.37.excalidraw.md",
+    "Computer Science/Theories/Computation Theory",
+    "Computer Science/Computation Theory",
+    "Computer Science/Programming/Formal Languages Automata.md",
+    "Computer Science/Formal Languages Automata.md",
+    "Computer Science/Sorting Methods/Heap Sort.md",
+    "Computer Science/Theories/Graph Theory/Adjacency Matrix.md",
     "Computer Science/Programming/Paradigms/Functional Programming.md",
     "Personal/My House.md",
     "College/Unifesp.md",
