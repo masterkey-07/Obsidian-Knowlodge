@@ -1,34 +1,18 @@
+# Notes
+
+### All Automata has one State 
+### Formal Languages : Solve Problems
+### Automata Languages : Reference Formal Languages to Solve Problems
+
+# Classes
+- ## [[Regular Languages]]
+- ## [[Context Free Languages]]
+- ## [[Turing Machine]]
+
+# Hiearch of the Languages
 ![[Formal Languages Automata 2023-03-13 21.20.46.excalidraw|200]]
 
 
+# Development
 
-
-
-
-
-```text
-O que é automatas?
-
-Resolver Problemas com Computadores?
-    Não consegue resolver todos.
-    Problema Caso Impossível : Definir se um algoritmo (De Qualquer Tipo) Printa um Hello World
-
-    Linguagens Formais -> Resolver Problemas
-    Lingaugem Automata -> Referencia Linguagens Formais -> Resolver Problemas
-
-    CLasses de Linguagens Formais (Sobre Poder Computacional)
-        1. Linguagens Regulares
-            - NFA : Autômatos Finitos Não Determinístico
-            - e-NFA : Autômatos Finitos Não Determinístico
-            - Expressão Regular
-            - Explicação : Conta uma coisa por vez
-        2. Linguagens Livres de Contexto (Engloba Linguagens Regulares)
-            - Explicação : Conta duas coisas por vez
-            -  
-        3. Máquina de Turing - Linguagens Recursivament Enumeradas (Engloba Linguagens Livres de Contexto)
-            - Explicação : Conta N coisas por vez
-			- 
-
-
-Programa : JFLAP
-```
+### Using the [JFLAP Software](https://www.jflap.org/jflaptmp/)
