@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7065e68bf08c41ae",
+        "id": "b1d91cf3aa37f822",
         "type": "tabs",
         "children": [
           {
-            "id": "d47537b5cbdbeae6",
+            "id": "8d8ad8f43bd97042",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Digital Circuits.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Dijks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,13 +177,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d47537b5cbdbeae6",
+  "active": "8d8ad8f43bd97042",
   "lastOpenFiles": [
+    "College/Slides/LFA/LFA - Aula 1 - Fundamentos.pdf",
+    "College/Slides/LFA",
+    "College/Slides/CD/CD - Aula 1 - Conceitos Introdutórios.pdf",
+    "Excalidraw/Digital Circuits 2023-03-14 20.20.15.excalidraw.md",
+    "Digital Circuits.md",
+    "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
+    "Excalidraw/Formal Languages Automata 2023-03-15 21.25.00.excalidraw.md",
+    "Computer Science/Tools/MathJax.md",
+    "Set Theory.md",
+    "College/Slides/LFA - Aula 1 - Fundamentos.pdf",
+    "Computer Science/Programming/Methods/Divide and Conquer.md",
+    "Computer Science/Programming/Paradigms/Structure Programming.md",
+    "Statistics and Probability.md",
+    "Computer Science/Theories/Algorithm Analysis/Algorithm Analysis.md",
     "College/Slides/CD/CD - Aula 0 - Visão Geral.pdf",
+    "Logical Gates.md",
     "College/Slides/CD",
     "College/Slides/C",
     "College/CD - Aula 0 - Visão Geral.pdf",
-    "Computer Science/Theories/Computation Theory/Formal Languages Automata.md",
     "Computer Science/Theories/Computation Theory/Turing Machine.md",
     "Computer Science/Theories/Computation Theory/Regular Languages.md",
     "Computer Science/Theories/Computation Theory/Context Free Languages.md",
@@ -199,16 +214,6 @@
     "Computer Science/Programming/Formal Languages Automata.md",
     "Computer Science/Formal Languages Automata.md",
     "Computer Science/Sorting Methods/Heap Sort.md",
-    "Computer Science/Theories/Graph Theory/Adjacency Matrix.md",
-    "Computer Science/Programming/Paradigms/Functional Programming.md",
-    "Personal/My House.md",
-    "College/Unifesp.md",
-    "Computer Science/Programming/Languages/Rust/Rust.md",
-    "Untitled.md",
-    "Generics, Traits and Lifetimes in Rust.md",
-    "Test Driven Development in Rust.md",
-    "Macros in Rust.md",
-    "Annotations in Rust.md",
-    "Computer Science/Programming/Languages/Rust/Ownership in Rust.md"
+    "Computer Science/Theories/Graph Theory/Adjacency Matrix.md"
   ]
 }
