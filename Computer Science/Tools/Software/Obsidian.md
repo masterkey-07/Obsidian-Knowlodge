@@ -4,6 +4,8 @@
 
 # Uses [[MathJax]] for Equation Rendering
 
+# Uses [[Mermaid]] for Drawing Diagrams
+
 # [Obsidian Help Page](https://help.obsidian.md/Obsidian/Index)
 
 

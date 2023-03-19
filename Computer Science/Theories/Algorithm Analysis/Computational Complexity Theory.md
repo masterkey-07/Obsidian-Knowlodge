@@ -4,6 +4,8 @@
 - ### [[PAA - Aula 9 - Teoria da Complexidade.pdf]] 
 - ### [[Introduction to Algorithms.pdf#page=1069]] 
 
+
+[[Introduction to Algorithms.pdf#page=1069]]
 ---
 # [[Polynomial Time Problem]] (P)
 
