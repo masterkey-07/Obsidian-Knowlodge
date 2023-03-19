@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fcdbf5e310238ba9",
+        "id": "70ccfa0e3938c0fa",
         "type": "tabs",
         "children": [
           {
-            "id": "3ede8eaa506d72b7",
+            "id": "2a2f0cc9e05291ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,8 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ede8eaa506d72b7",
+  "active": "2a2f0cc9e05291ca",
   "lastOpenFiles": [
+    "Computer Science/Operational System/MacOs",
+    "Computer Science/Operational System/Windows",
+    "Computer Science/Operational System/Linux",
+    "Tauri.md",
     "Computer Science/Software/Development/Web Test Tools.md",
     "Computer Science/Software/Development",
     "Computer Science/Software/Design/Design Patterns/Factory Method Pattern.md",
@@ -201,11 +205,7 @@
     "Computer Science/Software/Software Design",
     "Computer Science/Software/Programming/Languages/Rust/Variables Types in Rust.md",
     "Computer Science/Software/Programming/Languages/Rust/Test Driven Development in Rust.md",
-    "Computer Science/Software/Programming/Languages/Rust/Rust.md",
-    "Computer Science/Software/Programming/Languages/Rust/Project Management in Rust.md",
     "Computer Science/Software/Programming/Languages/Rust",
-    "Computer Science/Software/Programming/Languages/JavaScript",
-    "Computer Science/Software/Programming/Problems",
-    "Computer Science/Software/Programming/Paradigms"
+    "Computer Science/Software/Programming/Languages/JavaScript"
   ]
 }
