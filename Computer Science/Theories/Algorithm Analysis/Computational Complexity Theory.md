@@ -1,4 +1,4 @@
-#tolearn 
+ 
 
 #### Study from:
 - ### [[PAA - Aula 9 - Teoria da Complexidade.pdf]] 

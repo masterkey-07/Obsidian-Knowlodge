@@ -1,1 +1,0 @@
-Uses [[Lua]] for a better configuration language that [[VimScript]]

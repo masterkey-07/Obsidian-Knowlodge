@@ -1,1 +1,0 @@
-### Study from : [cypress page](https://www.cypress.io/)

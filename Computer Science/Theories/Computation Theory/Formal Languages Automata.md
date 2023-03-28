@@ -3,6 +3,7 @@
 ### All Automata has one State 
 ### Formal Languages : Solve Problems
 ### Automata Languages : Reference Formal Languages to Solve Problems
+### "Formal" means that it is mathmatical represented
 
 # Classes
 - ## [[Regular Languages]]

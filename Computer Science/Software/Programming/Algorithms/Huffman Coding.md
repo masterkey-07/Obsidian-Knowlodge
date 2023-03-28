@@ -1,4 +1,4 @@
-#tolearn 
+ 
 
 Study From
 - [[PAA - Aula 8 - Algoritmos Gulosos.pdf]]

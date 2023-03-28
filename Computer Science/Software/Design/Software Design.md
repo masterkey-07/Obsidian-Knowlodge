@@ -1,4 +1,4 @@
-[[Computer Science]] Concept
+[[Software Engineer]] Concept
 
 
 # Agile Methodologies
@@ -11,7 +11,3 @@
 - ## [[Design Patterns]]
 
 
-# Design Technique by Test
-
-- ## [[Test Driven Development]]
-- ## [[Behavior Driven Development]]

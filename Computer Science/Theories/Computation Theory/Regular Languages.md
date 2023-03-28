@@ -4,7 +4,7 @@
 
 - ### Finite Automata
 - ### Finite Automata with Epsilon Transitions
-- ### Deterministic Finite Automata
+- ### [[Deterministic Finite Automata]]
 - ### Non Deterministic Finite Automata
 
 # Example of Regular Languages Example?

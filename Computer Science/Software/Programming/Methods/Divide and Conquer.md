@@ -1,4 +1,3 @@
-#tolearn 
 
 ## Defined by [[Edsger Dijkstra]]
 

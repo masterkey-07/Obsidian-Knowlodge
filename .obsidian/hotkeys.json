@@ -44,21 +44,12 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
-  "obsidian-advanced-slides:open-advanced-slides-preview": [],
-  "switcher:open": [
-    {
-      "modifiers": [
         "Mod"
       ],
       "key": "P"
     }
   ],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
   "editor:swap-line-down": [
     {
       "modifiers": [

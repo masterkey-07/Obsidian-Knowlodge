@@ -1,3 +1,0 @@
-- # [[Monolithic]]
-- # [[Multitier]]
-- # [[Microservices]]

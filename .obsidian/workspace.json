@@ -4,19 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "70ccfa0e3938c0fa",
+        "id": "802d7af2bdceae86",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2f0cc9e05291ca",
+            "id": "22b75f33f4c9da74",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,13 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 381.5026054382324
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -169,43 +166,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a2f0cc9e05291ca",
+  "active": "22b75f33f4c9da74",
   "lastOpenFiles": [
-    "Computer Science/Operational System/MacOs",
-    "Computer Science/Operational System/Windows",
-    "Computer Science/Operational System/Linux",
-    "Tauri.md",
-    "Computer Science/Software/Development/Web Test Tools.md",
-    "Computer Science/Software/Development",
-    "Computer Science/Software/Design/Design Patterns/Factory Method Pattern.md",
-    "Computer Science/Software/Design/Design Patterns/Design Patterns.md",
-    "Computer Science/Software/Design/Design Patterns/Abstract Factory Pattern.md",
-    "Computer Science/Software/Design/Test Driven Development.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Software/Development/Web Development/Web Development.md",
+    "Computer Science/Software/Development/Software Development.md",
+    "Computer Science/Software/Development/Web Development",
+    "Computer Science/Software/Programs/Tools/CSS",
+    "Computer Science/Computer/Digital Circuits/Digital Circuits.md",
+    "Computer Science/Computer/Digital Circuits",
+    "Computer Science/Computer",
+    "Computer",
+    "Computer Science/Software/Testing",
+    "Computer Science/Software/Design/Principles",
+    "Computer Science/Software/Design/Archtectures",
+    "Computer Science/Software/Programs/Application/Editors/Untitled",
+    "Computer Science/Software/Programs/Application/Editors",
+    "Computer Science/Software/Programming/Algorithms/Data Structure/Data Structures.md",
+    "Computer Science/Software/Design/Design Patterns/Builder Pattern.md",
+    "Computer Science/Software/Programs/Tools/CSS/3D CSS View.md",
+    "Computer Science/Software/Testing/Software Testing.md",
+    "Computer Science/Software/Design/Paradigms/Archtecture Paradigm.md",
     "Computer Science/Software/Design/Software Design.md",
-    "Computer Science/Software/Design/SOLID Principles.md",
-    "Computer Science/Software/Design/Microservices.md",
-    "Computer Science/Software/Design/Design Patterns",
-    "Computer Science/Software/Design/Clean Archtecture.md",
-    "Computer Science/Software/Design/Domain Driven Development.md",
-    "Computer Science/Software/Design/Archtecture Paradigm.md",
-    "Computer Science/Software/Design",
-    "Computer Science/Software/Software Development/Web Test Tools.md",
-    "Computer Science/Software/Software Development",
-    "Computer Science/Software/Software Design/Design Patterns/Factory Method Pattern.md",
-    "Computer Science/Software/Software Design/Design Patterns/Design Patterns.md",
-    "Computer Science/Software/Software Design/Design Patterns/Abstract Factory Pattern.md",
-    "Computer Science/Software/Software Design/Test Driven Development.md",
-    "Computer Science/Software/Software Design/Software Design.md",
-    "Computer Science/Software/Software Design/SOLID Principles.md",
-    "Computer Science/Software/Software Design/Microservices.md",
-    "Computer Science/Software/Software Design/Domain Driven Development.md",
-    "Computer Science/Software/Software Design/Design Patterns",
-    "Computer Science/Software/Software Design/Clean Archtecture.md",
-    "Computer Science/Software/Software Design/Archtecture Paradigm.md",
-    "Computer Science/Software/Software Design",
-    "Computer Science/Software/Programming/Languages/Rust/Variables Types in Rust.md",
-    "Computer Science/Software/Programming/Languages/Rust/Test Driven Development in Rust.md",
-    "Computer Science/Software/Programming/Languages/Rust",
-    "Computer Science/Software/Programming/Languages/JavaScript"
+    "Computer Science/Software/Testing/Test Driven Development.md",
+    "Computer Science/Software/Design/Principles/SOLID Principles.md",
+    "Computer Science/Software/Software Engineer.md",
+    "Computer Science/Software/Development/Rust GUI Development.md",
+    "Personal/Lists/List of To Learn.md",
+    "Personal/Notes/Learn NCurses for CLI Apps.md",
+    "Personal/Notes/Fuzzy Finder.md",
+    "Personal/Projects/Build a Simple Page with Fresh Framework.md",
+    "Computer Science/Software/Programs/Application/Obsidian.md",
+    "Computer Science/Software/Programs/Tools/LaTex.md",
+    "Computer Science/Software/Programming/Methods/Greedy Algorithm.md",
+    "Computer Science/Theories/Algorithm Analysis/Computational Complexity Theory.md",
+    "Computer Science/Software/Programming/Methods/Backtracking.md",
+    "Computer Science/Software/Programs/Application/Apache Guacamole.md",
+    "Computer Science/Software/Programming/Methods/Dynamic Programming.md",
+    "Computer Science/Software/Programming/Algorithms/Huffman Coding.md"
   ]
 }
