@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "802d7af2bdceae86",
+        "id": "f832a36320285b0a",
         "type": "tabs",
         "children": [
           {
-            "id": "22b75f33f4c9da74",
+            "id": "f820e5a7a8bdbfd4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theories/Statistics and Probability.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5026054382324
+    "width": 381.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Theories/Statistics and Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Theories/Statistics and Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Theories/Statistics and Probability.md"
+              }
             }
           },
           {
@@ -166,8 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22b75f33f4c9da74",
+  "active": "f820e5a7a8bdbfd4",
   "lastOpenFiles": [
+    "Computer Science/Theories/Computation Theory/Automata Theory/Formal Languages Automata.md",
+    "Personal/Goals",
     "Computer Science/Computer Science.md",
     "Computer Science/Software/Development/Web Development/Web Development.md",
     "Computer Science/Software/Development/Software Development.md",
@@ -181,7 +192,6 @@
     "Computer Science/Software/Design/Principles",
     "Computer Science/Software/Design/Archtectures",
     "Computer Science/Software/Programs/Application/Editors/Untitled",
-    "Computer Science/Software/Programs/Application/Editors",
     "Computer Science/Software/Programming/Algorithms/Data Structure/Data Structures.md",
     "Computer Science/Software/Design/Design Patterns/Builder Pattern.md",
     "Computer Science/Software/Programs/Tools/CSS/3D CSS View.md",
@@ -199,10 +209,9 @@
     "Computer Science/Software/Programs/Application/Obsidian.md",
     "Computer Science/Software/Programs/Tools/LaTex.md",
     "Computer Science/Software/Programming/Methods/Greedy Algorithm.md",
-    "Computer Science/Theories/Algorithm Analysis/Computational Complexity Theory.md",
+    "Computer Science/Theories/Computation Theory/Algorithm Analysis/Computational Complexity Theory.md",
     "Computer Science/Software/Programming/Methods/Backtracking.md",
     "Computer Science/Software/Programs/Application/Apache Guacamole.md",
-    "Computer Science/Software/Programming/Methods/Dynamic Programming.md",
-    "Computer Science/Software/Programming/Algorithms/Huffman Coding.md"
+    "Computer Science/Software/Programming/Methods/Dynamic Programming.md"
   ]
 }
