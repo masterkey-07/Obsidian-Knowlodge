@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f832a36320285b0a",
+        "id": "09f40cf26df1a9dc",
         "type": "tabs",
         "children": [
           {
-            "id": "f820e5a7a8bdbfd4",
+            "id": "fd2d47aa427ab8b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theories/Statistics and Probability.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theories/Statistics and Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theories/Statistics and Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Theories/Statistics and Probability.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f820e5a7a8bdbfd4",
+  "active": "fd2d47aa427ab8b9",
   "lastOpenFiles": [
+    "Computer Science/Theories/Statistics and Probability.md",
+    "Computer Science/College/Slides/PEE/PEE - Aula 4 - Medidas de Tendência Central.pdf",
+    "Computer Science/College/Slides/PEE/PEE - Aula 3 - Boxplot e Medidas de Associação entre Variáveis.pdf",
+    "Computer Science/College/Slides/PEE/PEE - Aula 3 - Medidas de Tendência Central.pdf",
     "Computer Science/Theories/Computation Theory/Automata Theory/Formal Languages Automata.md",
     "Personal/Goals",
     "Computer Science/Computer Science.md",
@@ -189,9 +185,6 @@
     "Computer Science/Computer",
     "Computer",
     "Computer Science/Software/Testing",
-    "Computer Science/Software/Design/Principles",
-    "Computer Science/Software/Design/Archtectures",
-    "Computer Science/Software/Programs/Application/Editors/Untitled",
     "Computer Science/Software/Programming/Algorithms/Data Structure/Data Structures.md",
     "Computer Science/Software/Design/Design Patterns/Builder Pattern.md",
     "Computer Science/Software/Programs/Tools/CSS/3D CSS View.md",
@@ -211,7 +204,6 @@
     "Computer Science/Software/Programming/Methods/Greedy Algorithm.md",
     "Computer Science/Theories/Computation Theory/Algorithm Analysis/Computational Complexity Theory.md",
     "Computer Science/Software/Programming/Methods/Backtracking.md",
-    "Computer Science/Software/Programs/Application/Apache Guacamole.md",
-    "Computer Science/Software/Programming/Methods/Dynamic Programming.md"
+    "Computer Science/Software/Programs/Application/Apache Guacamole.md"
   ]
 }
