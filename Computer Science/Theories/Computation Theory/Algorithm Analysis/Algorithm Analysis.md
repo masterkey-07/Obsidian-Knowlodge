@@ -1,4 +1,4 @@
-[[Computer Science]] Concept
+[[Computation Theory]] Concept
 
 # Objetive
 

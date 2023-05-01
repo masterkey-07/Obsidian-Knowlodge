@@ -1,3 +1,5 @@
+Concept [[Computation Theory]]
+
 # Notes
 
 ### All Automata has one State 

@@ -3,4 +3,4 @@
 ## List Types
 - ### [[Linked List]]
 - ### [[Queue List]]
-- ### [[Stack List]]
+- ### [[Tech Stacks of the Evaluation Application]]

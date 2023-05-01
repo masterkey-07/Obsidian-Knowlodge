@@ -1,0 +1,1 @@
+![[Bridge Pattern 2023-04-17 20.00.48.excalidraw|1000]]

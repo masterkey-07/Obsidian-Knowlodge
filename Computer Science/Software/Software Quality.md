@@ -1,0 +1,39 @@
+- # Functional Suitability
+	- ## Functional Completeness
+	- ## Functional Correctness
+	- ## Functional Appropriateness
+- # Performance Efficiency
+	- ## Time Behaviour
+	- ## Resouver Utilization
+	- ## Capacity
+- # Compatibility
+	- ## Co-existence
+	- ## Interoperability
+- # Usability
+	- ## Appropriateness Recognizability
+	- ## Learnability
+	- ## Operability
+	- ## User Error Protection
+	- ## User Interface Aesthetics
+	- ## Accessibility
+- # Reliability
+	- ## Maturity
+	- ## Availability
+	- ## Fault Tolerance
+	- ## Recoverability
+- # Security
+	- ## Confidentiality
+	- ## Integrity
+	- ## Non-repudiation
+	- ## Authenticity
+	- ## Accountability
+- # Maintainbility
+	- ## Modularity
+	- ## Reusability
+	- ## Analysability
+	- ## Modifiability
+	- ## Testability
+- # Portability
+	- ## Adaptability
+	- ## Installability
+	- ## Replaceability

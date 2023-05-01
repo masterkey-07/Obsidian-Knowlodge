@@ -4,18 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "09f40cf26df1a9dc",
+        "id": "b403a24eef73b007",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2d47aa427ab8b9",
+            "id": "aecc3c5b3d00c247",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Roteiro 3.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Roteiro 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Roteiro 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Roteiro 3.md"
+              }
             }
           },
           {
@@ -156,54 +165,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fd2d47aa427ab8b9",
+  "active": "aecc3c5b3d00c247",
   "lastOpenFiles": [
-    "Computer Science/Theories/Statistics and Probability.md",
-    "Computer Science/College/Slides/PEE/PEE - Aula 4 - Medidas de Tendência Central.pdf",
-    "Computer Science/College/Slides/PEE/PEE - Aula 3 - Boxplot e Medidas de Associação entre Variáveis.pdf",
-    "Computer Science/College/Slides/PEE/PEE - Aula 3 - Medidas de Tendência Central.pdf",
-    "Computer Science/Theories/Computation Theory/Automata Theory/Formal Languages Automata.md",
-    "Personal/Goals",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Software/Development/Web Development/Web Development.md",
-    "Computer Science/Software/Development/Software Development.md",
-    "Computer Science/Software/Development/Web Development",
-    "Computer Science/Software/Programs/Tools/CSS",
-    "Computer Science/Computer/Digital Circuits/Digital Circuits.md",
-    "Computer Science/Computer/Digital Circuits",
-    "Computer Science/Computer",
-    "Computer",
-    "Computer Science/Software/Testing",
-    "Computer Science/Software/Programming/Algorithms/Data Structure/Data Structures.md",
-    "Computer Science/Software/Design/Design Patterns/Builder Pattern.md",
-    "Computer Science/Software/Programs/Tools/CSS/3D CSS View.md",
-    "Computer Science/Software/Testing/Software Testing.md",
-    "Computer Science/Software/Design/Paradigms/Archtecture Paradigm.md",
-    "Computer Science/Software/Design/Software Design.md",
-    "Computer Science/Software/Testing/Test Driven Development.md",
-    "Computer Science/Software/Design/Principles/SOLID Principles.md",
-    "Computer Science/Software/Software Engineer.md",
-    "Computer Science/Software/Development/Rust GUI Development.md",
-    "Personal/Lists/List of To Learn.md",
-    "Personal/Notes/Learn NCurses for CLI Apps.md",
-    "Personal/Notes/Fuzzy Finder.md",
-    "Personal/Projects/Build a Simple Page with Fresh Framework.md",
-    "Computer Science/Software/Programs/Application/Obsidian.md",
-    "Computer Science/Software/Programs/Tools/LaTex.md",
-    "Computer Science/Software/Programming/Methods/Greedy Algorithm.md",
+    "Fenomenos Mecanicos.md",
+    "Roteiro 3.md",
+    "Roteiro 2.md",
     "Computer Science/Theories/Computation Theory/Algorithm Analysis/Computational Complexity Theory.md",
-    "Computer Science/Software/Programming/Methods/Backtracking.md",
-    "Computer Science/Software/Programs/Application/Apache Guacamole.md"
+    "Kill Me.md",
+    "Probability Distributions.md",
+    "Computer Science/Theories/Statistics and Probability.md",
+    "Personal/Projects/Evaluation Application/Tech Stacks of the Evaluation Application.md",
+    "Personal/Projects/Evaluation Application/Evaluation Application.md",
+    "Features of the Evaluation Application.md",
+    "Personal/Projects/Evaluation Application",
+    "Computer Science/Software/Programming/Languages/JavaScript/JavaScript Bitwise Operations.md",
+    "Excalidraw/Web Application Archtecture 2022-12-13 07.41.53.excalidraw.md",
+    "Computer Science/Software/Development/Web Development/Web Application Archtecture.md",
+    "Computer Science/Software/Programming/Algorithms/Sorting Methods/Quick Sort.md",
+    "Computer Science/Software/Programming/Algorithms/Sorting Methods/Merge Sort.md",
+    "Excalidraw/Drawing 2023-04-18 21.38.57.excalidraw.md",
+    "Karnaugh Map.md",
+    "Computer Science/Computer/Digital Circuits/Digital Circuits.md",
+    "Computer Science/College/Slides/CD/CD - Aula 8 - XOR e XNOR : Funções de Habilitação.pdf",
+    "Computer Science/College/Slides/CD/CD - Aula 7 - Simplificação por Mapas de Karnaugh.pdf",
+    "Computer Science/College/Slides/CD/CD - Aula 6 - Portas NAND e NOR.pdf",
+    "Computer Science/College/Slides/CD/CD - Aula 5 - Projeto de Circuito.pdf",
+    "Computer Science/College/Slides/CD/CD - Aula 4 - Simplificação Algébrica.pdf",
+    "Mermaid Flowchar Diagram.md",
+    "Mermaid Class Diagram.md",
+    "Computer Science/Software/Programs/Application/Mermaid.md",
+    "Excalidraw/Bridge Pattern 2023-04-17 20.00.48.excalidraw.md",
+    "Bridge Pattern.md",
+    "Computer Science/Software/Design/Design Patterns/Abstract Factory Pattern.md",
+    "Roteiro 1.md",
+    "Behavior Driven Development.md",
+    "Computer Science/College/Slides/PEE/PEE - Aula 7 - Definição de Variável Aleatória e Propriedades.pdf",
+    "Computer Science/College/Slides/PEE/PEE - Aula 6 - Probabilidade Condicional e Independência.pdf",
+    "Computer Science/College/Slides/PEE/PEE - Aula 5 - Noções Gerais de Probabilidade.pdf",
+    "hist.png",
+    "bar.png",
+    "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png",
+    "Computer Science/College/Slides/LFA/LFA - Aula 3 - Intrododução a NDA.pdf"
   ]
 }

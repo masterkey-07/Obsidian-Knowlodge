@@ -9,3 +9,7 @@
 
 # [[Logical Gates]]
 # ![[Logical Gates]]
+
+
+
+# ![[Karnaugh Map]]
