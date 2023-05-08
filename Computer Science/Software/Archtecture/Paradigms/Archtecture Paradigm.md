@@ -1,4 +1,4 @@
-Concept of [[Software Design]]
+Concept of [[Software Archtecture]]
 - 
 - # [[Monolithic]]
 - # [[Multitier]]

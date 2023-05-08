@@ -1,13 +1,13 @@
 [[Software Engineer]] Concept
 
 
-# Agile Methodologies
-- ## [[Agile Development]]
+## Description 
 
-# Design Technique by Project Structure
-- ## [[Archtecture Paradigm]]
-- ## [[Clean Archtecture]]
-- ## [[Domain Driven Development]]
+### Deals with the Design to develop a project designed by an Archtecture
+
+
+## Technologies to handle Design
+
 - ## [[Design Patterns]]
-
+- ## [[SOLID Principles]]
 

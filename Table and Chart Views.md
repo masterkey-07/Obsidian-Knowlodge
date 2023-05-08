@@ -1,1 +1,0 @@
-Study from [[PEE - Aula 2 - Tabulação de Dados Frequenciais e Gráficos.pdf]]

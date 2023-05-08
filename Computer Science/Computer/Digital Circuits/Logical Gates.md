@@ -1,1 +1,1 @@
-![[Digital Circuits 2023-03-14 20.20.15.excalidraw]]
+![[Digital Circuits 2023-03-14 20.20.15.excalidraw|center|1000]]

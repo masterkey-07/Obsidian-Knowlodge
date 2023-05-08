@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b403a24eef73b007",
+        "id": "3faec8453df7b012",
         "type": "tabs",
         "children": [
           {
-            "id": "aecc3c5b3d00c247",
+            "id": "16b23c437112ad6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roteiro 3.md",
+                "file": "Computer Science/Theories/Statistics and Probability/Statistics and Probability.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "83a55051d4b192b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "page",
+                "query": "\\sum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +86,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4bc3fc4691b5a937",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiro 3.md",
+                "file": "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiro 3.md",
+                "file": "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roteiro 3.md"
+                "file": "Computer Science/Theories/Statistics and Probability/Probability Distributions.md"
               }
             }
           },
@@ -176,46 +198,46 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "aecc3c5b3d00c247",
+  "active": "83a55051d4b192b5",
   "lastOpenFiles": [
-    "Fenomenos Mecanicos.md",
-    "Roteiro 3.md",
-    "Roteiro 2.md",
-    "Computer Science/Theories/Computation Theory/Algorithm Analysis/Computational Complexity Theory.md",
+    "Computer Science/Theories/Statistics and Probability/Statistics and Probability.md",
+    "Computer Science/Theories/Statistics and Probability/Data Evaluation and Equations.md",
+    "Computer Science/Theories/Statistics and Probability/Type of Statistic Variables.md",
+    "Computer Science/Software/Programs/Tools/MathJax.md",
+    "Computer Science/Theories/Statistics and Probability/Table and Chart Views.md",
+    "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
+    "Computer Science/Computer/Digital Circuits/Digital Arithmetic.md",
     "Kill Me.md",
-    "Probability Distributions.md",
-    "Computer Science/Theories/Statistics and Probability.md",
-    "Personal/Projects/Evaluation Application/Tech Stacks of the Evaluation Application.md",
-    "Personal/Projects/Evaluation Application/Evaluation Application.md",
-    "Features of the Evaluation Application.md",
-    "Personal/Projects/Evaluation Application",
-    "Computer Science/Software/Programming/Languages/JavaScript/JavaScript Bitwise Operations.md",
-    "Excalidraw/Web Application Archtecture 2022-12-13 07.41.53.excalidraw.md",
-    "Computer Science/Software/Development/Web Development/Web Application Archtecture.md",
-    "Computer Science/Software/Programming/Algorithms/Sorting Methods/Quick Sort.md",
-    "Computer Science/Software/Programming/Algorithms/Sorting Methods/Merge Sort.md",
-    "Excalidraw/Drawing 2023-04-18 21.38.57.excalidraw.md",
-    "Karnaugh Map.md",
+    "Excalidraw/Digital Circuits 2023-03-14 20.20.15.excalidraw.md",
+    "Computer Science/Computer/Digital Circuits/Logical Gates.md",
+    "Computer Science/Computer/Digital Circuits/Boolean Expressions.md",
+    "Excalidraw/Digital Arithmetic 2023-05-01 21.03.10.excalidraw.md",
     "Computer Science/Computer/Digital Circuits/Digital Circuits.md",
+    "Computer Science/Software/Archtecture/Software Archtecture.md",
+    "Computer Science/Software/Archtecture/Infrastructure as Code.md",
+    "Untitled",
+    "Computer Science/Software/Software Engineer.md",
+    "Computer Science/Software/Archtecture/Archtectures/Domain Driven Development.md",
+    "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
+    "Computer Science/Software/Design/Software Design.md",
+    "Computer Science/Software/Archtecture/Paradigms/Archtecture Paradigm.md",
+    "Computer Science/Software/Archtecture/Paradigms/Microservices.md",
+    "Computer Science/Software/Archtecture",
+    "Computer Science/Network/MQTT.md",
+    "Personal/Projects/Evaluation Application/Features of the Evaluation Application.md",
+    "Computer Science/Software/Testing/Web Test Tools.md",
+    "Computer Science/Theories/Statistics and Probability",
+    "Computer Science/Theories/Computation Theory/Computation Theory.md",
+    "Computer Science/Software/Development/Desktop Development",
+    "Computer Science/Software/Programs/Application/Obsidian",
+    "hist.png",
+    "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png",
+    "Fenomenos Mecanicos/Fenomenos Mecanicos.md",
+    "Fenomenos Mecanicos",
+    "bar.png",
+    "Personal/Projects/Evaluation Application",
     "Computer Science/College/Slides/CD/CD - Aula 8 - XOR e XNOR : Funções de Habilitação.pdf",
     "Computer Science/College/Slides/CD/CD - Aula 7 - Simplificação por Mapas de Karnaugh.pdf",
-    "Computer Science/College/Slides/CD/CD - Aula 6 - Portas NAND e NOR.pdf",
-    "Computer Science/College/Slides/CD/CD - Aula 5 - Projeto de Circuito.pdf",
-    "Computer Science/College/Slides/CD/CD - Aula 4 - Simplificação Algébrica.pdf",
-    "Mermaid Flowchar Diagram.md",
-    "Mermaid Class Diagram.md",
-    "Computer Science/Software/Programs/Application/Mermaid.md",
-    "Excalidraw/Bridge Pattern 2023-04-17 20.00.48.excalidraw.md",
-    "Bridge Pattern.md",
-    "Computer Science/Software/Design/Design Patterns/Abstract Factory Pattern.md",
-    "Roteiro 1.md",
-    "Behavior Driven Development.md",
-    "Computer Science/College/Slides/PEE/PEE - Aula 7 - Definição de Variável Aleatória e Propriedades.pdf",
-    "Computer Science/College/Slides/PEE/PEE - Aula 6 - Probabilidade Condicional e Independência.pdf",
-    "Computer Science/College/Slides/PEE/PEE - Aula 5 - Noções Gerais de Probabilidade.pdf",
-    "hist.png",
-    "bar.png",
-    "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png",
-    "Computer Science/College/Slides/LFA/LFA - Aula 3 - Intrododução a NDA.pdf"
+    "Computer Science/College/Slides/CD/CD - Aula 6 - Portas NAND e NOR.pdf"
   ]
 }
