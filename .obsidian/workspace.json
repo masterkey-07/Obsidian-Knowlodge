@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93e9e9eca2168b90",
+        "id": "e6231d06b58a92f8",
         "type": "tabs",
         "children": [
           {
-            "id": "3df25490fdc04dfe",
+            "id": "0292fedfcf37250d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Projeto de Rifa.md",
-                "mode": "source",
-                "source": true
+                "file": "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md"
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto de Rifa.md",
+                "file": "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto de Rifa.md",
+                "file": "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto de Rifa.md"
+                "file": "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md"
               }
             }
           },
@@ -185,8 +183,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3df25490fdc04dfe",
+  "active": "0292fedfcf37250d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md",
+    "Computer Science/Software/Programming/Languages/JavaScript/JavaScript Bitwise Operations.md",
     "Personal/Grindset.md",
     "Projeto de Rifa.md",
     "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
@@ -212,9 +212,7 @@
     "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
     "Computer Science/Software/Design/Software Design.md",
     "Computer Science/Software/Archtecture/Paradigms/Archtecture Paradigm.md",
-    "Computer Science/Software/Archtecture/Paradigms/Microservices.md",
     "Computer Science/Software/Archtecture",
-    "Computer Science/Network/MQTT.md",
     "Computer Science/Theories/Statistics and Probability",
     "Computer Science/Software/Development/Desktop Development",
     "Computer Science/Software/Programs/Application/Obsidian",
