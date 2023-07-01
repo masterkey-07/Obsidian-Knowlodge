@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e6231d06b58a92f8",
+        "id": "7bcb37a360cc38f3",
         "type": "tabs",
         "children": [
           {
-            "id": "0292fedfcf37250d",
+            "id": "089aef0c5e75d06d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -102,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,17 +177,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0292fedfcf37250d",
+  "active": "089aef0c5e75d06d",
   "lastOpenFiles": [
+    "Computer Science/Writers/Robert C. Martin.md",
+    "Computer Science/Software/Programming/Paradigms/Functional Programming.md",
+    "Fenomenos Mecanicos/Fenomenos Mecanicos.md",
+    "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
+    "Computer Science/Software/Programming/Paradigms/Programming Paradigm.md",
+    "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
+    "Excalidraw/Drawing 2023-06-04 20.03.22.excalidraw.md",
     "Excalidraw/Drawing 2023-06-01 22.13.23.excalidraw.md",
     "Computer Science/Software/Programming/Languages/JavaScript/JavaScript Bitwise Operations.md",
     "Personal/Grindset.md",
     "Projeto de Rifa.md",
-    "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
     "Computer Science/Theories/Statistics and Probability/Statistics and Probability.md",
     "Computer Science/Theories/Statistics and Probability/Data Evaluation and Equations.md",
     "Fenomenos Mecanicos/Roteiro 3.md",
-    "Fenomenos Mecanicos/Fenomenos Mecanicos.md",
     "Computer Science/Theories/Statistics and Probability/Type of Statistic Variables.md",
     "Computer Science/Software/Programs/Tools/MathJax.md",
     "Computer Science/Theories/Statistics and Probability/Table and Chart Views.md",
@@ -207,11 +206,6 @@
     "Computer Science/Software/Archtecture/Software Archtecture.md",
     "Computer Science/Software/Archtecture/Infrastructure as Code.md",
     "Untitled",
-    "Computer Science/Software/Software Engineer.md",
-    "Computer Science/Software/Archtecture/Archtectures/Domain Driven Development.md",
-    "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
-    "Computer Science/Software/Design/Software Design.md",
-    "Computer Science/Software/Archtecture/Paradigms/Archtecture Paradigm.md",
     "Computer Science/Software/Archtecture",
     "Computer Science/Theories/Statistics and Probability",
     "Computer Science/Software/Development/Desktop Development",
