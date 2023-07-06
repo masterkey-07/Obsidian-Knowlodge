@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7bcb37a360cc38f3",
+        "id": "1aa3d1487b82a003",
         "type": "tabs",
         "children": [
           {
-            "id": "089aef0c5e75d06d",
+            "id": "e5f888cd92a0e344",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "089aef0c5e75d06d",
+  "active": "e5f888cd92a0e344",
   "lastOpenFiles": [
+    "Computer Science/Database/Relational Database/Relational Algebra.md",
+    "Computer Science/College/Unifesp.md",
+    "Computer Science/Software/Programs/Application/Obsidian/Mermaid Flowchar Diagram.md",
+    "Computer Science/Software/Programs/Application/Obsidian/Mermaid.md",
     "Computer Science/Writers/Robert C. Martin.md",
     "Computer Science/Software/Programming/Paradigms/Functional Programming.md",
     "Fenomenos Mecanicos/Fenomenos Mecanicos.md",
@@ -201,10 +205,6 @@
     "Excalidraw/Digital Circuits 2023-03-14 20.20.15.excalidraw.md",
     "Computer Science/Computer/Digital Circuits/Logical Gates.md",
     "Computer Science/Computer/Digital Circuits/Boolean Expressions.md",
-    "Excalidraw/Digital Arithmetic 2023-05-01 21.03.10.excalidraw.md",
-    "Computer Science/Computer/Digital Circuits/Digital Circuits.md",
-    "Computer Science/Software/Archtecture/Software Archtecture.md",
-    "Computer Science/Software/Archtecture/Infrastructure as Code.md",
     "Untitled",
     "Computer Science/Software/Archtecture",
     "Computer Science/Theories/Statistics and Probability",

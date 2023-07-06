@@ -25,7 +25,7 @@
 - [ ] Quarto Termo
 	- [x] Interdisciplinar (2 Créditos)
 	- [x] Banco de Dados
-	- [x] Programação Orientada a Objetos
+	- [ ] Programação Orientada a Objetos
 	- [ ] Arquitetura e Organização de Computadores
 	- [x] Projeto e Análise de Algoritmos
 	- [ ] Cálculo Numérico
