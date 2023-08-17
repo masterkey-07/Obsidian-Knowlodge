@@ -19,21 +19,21 @@
 	- [x] Interdisciplinar (2 Créditos)
 	- [ ] Probabilidade e Estatística
 	- [ ] Cálculo em Várias Variáveis
-	- [ ] Circuitos Digitais
+	- [x] Circuitos Digitais
 	- [x] Algoritmos e Estrutura de Dados II
 	- [x] Álgebra Linear 
 - [ ] Quarto Termo
 	- [x] Interdisciplinar (2 Créditos)
 	- [x] Banco de Dados
-	- [ ] Programação Orientada a Objetos
+	- [x] Programação Orientada a Objetos
 	- [ ] Arquitetura e Organização de Computadores
 	- [x] Projeto e Análise de Algoritmos
 	- [ ] Cálculo Numérico
 - [ ] Quinto Termo
 	- [x] Interdisciplinar (2 Créditos)
 	- [ ] Inteligẽncia Artificial
-	- [ ] Projetos Orientado a Objetos
-	- [ ] Linguagens Formais e Autômatos
+	- [x] Projetos Orientado a Objetos
+	- [x] Linguagens Formais e Autômatos
 	- [ ] Teoria dos Grafos
 	- [x] Sistemas Operacionais
 - [ ] Sexto Termo

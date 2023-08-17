@@ -11,8 +11,12 @@
             "id": "e5f888cd92a0e344",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/College/Unifesp.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/College/Unifesp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/College/Unifesp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/College/Unifesp.md"
+              }
             }
           },
           {
@@ -179,6 +187,10 @@
   },
   "active": "e5f888cd92a0e344",
   "lastOpenFiles": [
+    "Computer Science/Books/Network/Andrew S. Tanenbaum - Computer Networks.pdf",
+    "Computer Science/Books/Network",
+    "Computer Science/Books/Andrew S. Tanenbaum - Computer Networks.pdf",
+    "Andrew S. Tanenbaum - Computer Networks.pdf",
     "Computer Science/Database/Relational Database/Relational Algebra.md",
     "Computer Science/College/Unifesp.md",
     "Computer Science/Software/Programs/Application/Obsidian/Mermaid Flowchar Diagram.md",
@@ -204,7 +216,6 @@
     "Kill Me.md",
     "Excalidraw/Digital Circuits 2023-03-14 20.20.15.excalidraw.md",
     "Computer Science/Computer/Digital Circuits/Logical Gates.md",
-    "Computer Science/Computer/Digital Circuits/Boolean Expressions.md",
     "Untitled",
     "Computer Science/Software/Archtecture",
     "Computer Science/Theories/Statistics and Probability",
@@ -214,9 +225,6 @@
     "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png",
     "Fenomenos Mecanicos",
     "bar.png",
-    "Personal/Projects/Evaluation Application",
-    "Computer Science/College/Slides/CD/CD - Aula 8 - XOR e XNOR : Funções de Habilitação.pdf",
-    "Computer Science/College/Slides/CD/CD - Aula 7 - Simplificação por Mapas de Karnaugh.pdf",
-    "Computer Science/College/Slides/CD/CD - Aula 6 - Portas NAND e NOR.pdf"
+    "Personal/Projects/Evaluation Application"
   ]
 }
