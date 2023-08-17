@@ -1,4 +1,4 @@
-Concept of [[Network]]
+Concept of [[Computer Network]]
 
 # Inspiration
 
