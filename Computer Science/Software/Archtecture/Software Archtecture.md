@@ -1,4 +1,4 @@
-Concept of [[Software Engineer]]
+Concept of [[Software]]
 
 # Objective 
 
