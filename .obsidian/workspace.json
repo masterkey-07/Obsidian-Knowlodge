@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df315ece935209a3",
+            "id": "93df7495d504e409",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sequências Numéricas.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -99,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sequências Numéricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sequências Numéricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sequências Numéricas.md"
+              }
             }
           },
           {
@@ -172,12 +180,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df315ece935209a3",
+  "active": "93df7495d504e409",
   "lastOpenFiles": [
+    "Computer Science/College/Slides/SEDO/Aula 1 - SEDO - Sequências Numéricas.pdf",
+    "Computer Science/College/Slides/SEDO",
+    "Computer Science/Software/Programs/Tools/MathJax.md",
+    "Sequências Numéricas.md",
+    "Séries e Equações Diferenciais e Ordinárias.md",
     "Computer Science/Software/Programming/Paradigms/Functional Programming.md",
     "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
     "User Interface.md",
@@ -209,11 +221,6 @@
     "Computer Science/Network/Computer Network.md",
     "Computer Science/College/Unifesp.md",
     "Computer Science/Books/Network/Andrew S. Tanenbaum - Computer Networks.pdf",
-    "Computer Science/Books/Network",
-    "Computer Science/Database/Relational Database/Relational Algebra.md",
-    "Computer Science/Software/Programs/Application/Obsidian/Mermaid Flowchar Diagram.md",
-    "Computer Science/Software/Programs/Application/Obsidian/Mermaid.md",
-    "Computer Science/Writers/Robert C. Martin.md",
     "hist.png",
     "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png",
     "bar.png"
