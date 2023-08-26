@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daf16c5ab23d2a5a",
+        "id": "18054d55b9e42571",
         "type": "tabs",
         "children": [
           {
-            "id": "93df7495d504e409",
+            "id": "8e854fc11764e53f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequências Numéricas.md",
+                "file": "User Experience.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequências Numéricas.md",
+                "file": "User Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequências Numéricas.md",
+                "file": "User Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequências Numéricas.md"
+                "file": "User Experience.md"
               }
             }
           },
@@ -183,23 +183,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93df7495d504e409",
+  "active": "8e854fc11764e53f",
   "lastOpenFiles": [
+    "Computer Science/College/Slides/IHC/IHC - Aula 2 - User Centered Design.pdf",
+    "Computer Science/College/Slides/IHC/IHC - Aula 1 - Good Interfaces.pdf",
+    "Computer Science/College/Slides/IHC",
+    "Computer Science/College/Slides/IHC - Aula 2 - User Centered Design.pdf",
+    "Computer Science/College/Slides/IHC - Aula 1 - Good Interfaces.pdf",
+    "Pasted image 20230825211609.png",
+    "Excalidraw/User Experience 2023-08-25 20.08.53.excalidraw.md",
+    "User Experience.md",
+    "Computer Science/Software/Interface/Software Interface.md",
+    "Séries Geométricas.md",
+    "Séries e Equações Diferenciais e Ordinárias.md",
+    "Séries Numéricas.md",
+    "Physical Layer.md",
+    "Computer Network Study Plan.md",
+    "Sequências Numéricas.md",
+    "Sequências Monótonas.md",
     "Computer Science/College/Slides/SEDO/Aula 1 - SEDO - Sequências Numéricas.pdf",
     "Computer Science/College/Slides/SEDO",
     "Computer Science/Software/Programs/Tools/MathJax.md",
-    "Sequências Numéricas.md",
-    "Séries e Equações Diferenciais e Ordinárias.md",
     "Computer Science/Software/Programming/Paradigms/Functional Programming.md",
     "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
     "User Interface.md",
-    "User Experience.md",
-    "Computer Science/Software/Interface/Software Interface.md",
     "Computer Science/College/Slides/PEE/PEE - Aula 15 - Teste de Aderência.pdf",
     "Computer Science/College/Slides/PEE/PEE - Aula 14 - Testes de Hipóteses Paramétricos.pdf",
     "Computer Science/College/Slides/PEE/PEE - Aula 13 - Intervalo de Confiança.pdf",
     "Computer Science/College/Slides/PEE/PEE - Aula 12 - Inferência Estatística.pdf",
-    "Computer Science/College/Slides/PEE/PEE - Aula 11 - Processos de Amostragem.pdf",
     "UX vs UI.md",
     "Computer Science/Software/Quality/Software Quality.md",
     "Computer Science/Software/Testing/Software Testing.md",
@@ -211,16 +222,6 @@
     "Computer Science/Software/Design/Software Design.md",
     "Computer Science/Software/Archtecture/Archtectures/Domain Driven Development.md",
     "Computer Science/Software/Archtecture/Paradigms/Archtecture Paradigm.md",
-    "Computer Science/Software/Archtecture/Paradigms/Microservices.md",
-    "Computer Science/Software/Archtecture/Infrastructure as Code.md",
-    "Computer Science/Software/Archtecture/Software Archtecture.md",
-    "Computer Science/Software/Interface",
-    "Computer Science/Software/Quality",
-    "Computer Science/Software/Engineer",
-    "Computer Network Study Plan.md",
-    "Computer Science/Network/Computer Network.md",
-    "Computer Science/College/Unifesp.md",
-    "Computer Science/Books/Network/Andrew S. Tanenbaum - Computer Networks.pdf",
     "hist.png",
     "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png",
     "bar.png"
