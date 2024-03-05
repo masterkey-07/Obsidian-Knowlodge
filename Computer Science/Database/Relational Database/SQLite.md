@@ -1,4 +1,4 @@
-#database
+[[Relational Database]]
 
 ### Uses [[R Tree]] 
 

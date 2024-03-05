@@ -1,0 +1,4 @@
+
+- Methodologies 
+	- [[Extreme Programming]]
+	- [[Scrum]]

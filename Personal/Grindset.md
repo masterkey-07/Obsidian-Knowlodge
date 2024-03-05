@@ -5,8 +5,7 @@
 - ## Everything you do, [[Do the Best]] you can
 - ## To Calm down, use [[Breathing Techniques]]
 - ## To have focus on a task use [[Pomodoro]]
-
-
+- #
 
 
 # My Goal
@@ -18,6 +17,7 @@
 - ## I Should take care of [[My Health]]
 - ## I Must Plan [[My House]]
 - ## I Should find what makes me go
+- ### I should take care of [[My Costs]]
 # Learning Process
 
 ![[My Processes 2022-12-26 12.20.53.excalidraw|10000]]

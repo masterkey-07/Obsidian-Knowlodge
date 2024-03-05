@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "18054d55b9e42571",
+        "id": "5c14e9ba7dcfaabb",
         "type": "tabs",
         "children": [
           {
-            "id": "8e854fc11764e53f",
+            "id": "1ab5fbae9fa7fe9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User Experience.md",
+                "file": "Artificial Intelligence.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Experience.md",
+                "file": "Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User Experience.md",
+                "file": "Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User Experience.md"
+                "file": "Artificial Intelligence.md"
               }
             }
           },
@@ -161,6 +162,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "dae4298dbe3b5a4e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -183,45 +196,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e854fc11764e53f",
+  "active": "1ab5fbae9fa7fe9c",
   "lastOpenFiles": [
-    "Computer Science/College/Slides/IHC/IHC - Aula 2 - User Centered Design.pdf",
-    "Computer Science/College/Slides/IHC/IHC - Aula 1 - Good Interfaces.pdf",
-    "Computer Science/College/Slides/IHC",
-    "Computer Science/College/Slides/IHC - Aula 2 - User Centered Design.pdf",
-    "Computer Science/College/Slides/IHC - Aula 1 - Good Interfaces.pdf",
-    "Pasted image 20230825211609.png",
-    "Excalidraw/User Experience 2023-08-25 20.08.53.excalidraw.md",
-    "User Experience.md",
-    "Computer Science/Software/Interface/Software Interface.md",
-    "Séries Geométricas.md",
-    "Séries e Equações Diferenciais e Ordinárias.md",
-    "Séries Numéricas.md",
-    "Physical Layer.md",
-    "Computer Network Study Plan.md",
-    "Sequências Numéricas.md",
-    "Sequências Monótonas.md",
-    "Computer Science/College/Slides/SEDO/Aula 1 - SEDO - Sequências Numéricas.pdf",
-    "Computer Science/College/Slides/SEDO",
-    "Computer Science/Software/Programs/Tools/MathJax.md",
-    "Computer Science/Software/Programming/Paradigms/Functional Programming.md",
+    "Computer Science/Books/Artificial Intelligence - A Modern Approach.pdf",
+    "Computer Science/Books/Artificial Intelligence - A Modern Approach .pdf",
+    "Computer Science/Books/Artificial Intelligence - A Modern Approach",
+    "Computer Science/Books/AI_Russell_Norvig.pdf",
+    "Computer Science/Books/AI_Russell_Norvig.pdf.crdownload",
+    "Artificial Intelligence.md",
+    "Computer Science/College/Unifesp.md",
+    "PPC_BCC_2023 aprovado.pdf",
+    "Component Principles.md",
+    "Satisfiability Problem.md",
+    "Business/Product Owner.md",
+    "Business/Business Innovation.md",
+    "Product Management.md",
+    "Development Method.md",
+    "Computer Science/Software/Programming/Languages/ABAP.md",
+    "Agile Development.md",
+    "Product.md",
+    "Computer Science/Calculus",
+    "Business",
     "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
-    "User Interface.md",
-    "Computer Science/College/Slides/PEE/PEE - Aula 15 - Teste de Aderência.pdf",
-    "Computer Science/College/Slides/PEE/PEE - Aula 14 - Testes de Hipóteses Paramétricos.pdf",
-    "Computer Science/College/Slides/PEE/PEE - Aula 13 - Intervalo de Confiança.pdf",
-    "Computer Science/College/Slides/PEE/PEE - Aula 12 - Inferência Estatística.pdf",
-    "UX vs UI.md",
-    "Computer Science/Software/Quality/Software Quality.md",
-    "Computer Science/Software/Testing/Software Testing.md",
-    "Computer Science/Software/Testing/Behavior Driven Development.md",
-    "Computer Science/Software/Software.md",
-    "Computer Science/Software/Engineer/Software Engineer.md",
-    "Computer Science/Software/Development/Desktop Development/Rust GUI Development.md",
-    "Computer Science/Software/Development/Software Development.md",
-    "Computer Science/Software/Design/Software Design.md",
-    "Computer Science/Software/Archtecture/Archtectures/Domain Driven Development.md",
+    "Untitled Kanban.md",
+    "Tasks of Unifesp.md",
+    "Computer Science/Software/Programming/Languages/JavaScript/JavaScript.md",
+    "Concurrency.md",
+    "Computer Science/Cyber Security/Cyber Security.md",
+    "Transport Layer.md",
+    "Application Layer.md",
+    "Computer Science/College/Classrooms/REDES/Annotations/Aula do dia 0208_231009_203318.pdf",
     "Computer Science/Software/Archtecture/Paradigms/Archtecture Paradigm.md",
+    "Software System.md",
+    "Computer Science/Software/System",
+    "Computer Science/Software/Development/Web Development/Web Application Archtecture.md",
+    "React Three Fiber.md",
+    "Assets/Pasted image 20230830193828.png",
+    "Assets/Pasted Image 20230924041543_080.jpg",
+    "Assets/Pasted image 20230825211609.png",
+    "Computer Science/College/Classrooms/REDES/Annotations/Redes - 27-09.pdf",
+    "Cyber Attacks.md",
+    "Cryptograph.md",
+    "Pasted Image 20230924041543_080.jpg",
+    "Pasted image 20230830193828.png",
+    "Pasted image 20230825211609.png",
     "hist.png",
     "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png",
     "bar.png"

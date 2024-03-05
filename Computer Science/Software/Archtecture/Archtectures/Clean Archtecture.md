@@ -2,6 +2,7 @@
 
 Written by [[Robert C. Martin]] in 2017
 
+
 # Objective
 
 ```ad-note
@@ -10,7 +11,7 @@ Written by [[Robert C. Martin]] in 2017
 
 ```
 
-### To Provide a Software Quality, to easly mantain and scale it with a good software archtecture and design.
+### To Provide a Software Quality, to easly mantain and scale it with a good software archtecture and design.****
 
 
 ## With Quality, it is Cheaper to Develop
@@ -45,4 +46,7 @@ title: [[Robert C. Martin]]
 
 On the one hand, if the bricks aren’t well made, the architecture of the building doesn’t matter much. On the other hand, you can make a substantial mess with well-made bricks.
 ```
+
+
+# [[Component Principles]] in [[Clean Archtecture]]
 

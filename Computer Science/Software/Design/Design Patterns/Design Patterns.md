@@ -34,3 +34,7 @@ Study from [[Design Patterns - Element of Reusable Object-Oriented Software.pdf]
 - ## [[Visitor Pattern]]
 
 
+# Design Patterns for Enterprise Applications
+
+Reference : https://github.com/ZoranLi/Books1/blob/master/Patterns%20of%20Enterprise%20Application%20Architecture.pdf
+

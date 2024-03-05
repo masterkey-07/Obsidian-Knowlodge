@@ -1,4 +1,3 @@
-# Mermaid Flowchar Diagram
 
 ```mermaid
 flowchart LR

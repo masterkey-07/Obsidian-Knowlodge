@@ -1,7 +1,7 @@
 
 ```mermaid
 ---
-title: Questão 2
+title: Example
 ---
 classDiagram
     LegacyCollector <-- ModernCollector

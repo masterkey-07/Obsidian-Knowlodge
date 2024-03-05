@@ -11,3 +11,8 @@
 - ## [[Design Patterns]]
 - ## [[SOLID Principles]]
 
+## Good Practices
+
+- DRY
+- YARN
+- If Guards

@@ -27,7 +27,7 @@ make it harder to deliver more items. ^zNRBWe8c
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://excalidraw.com",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
 	"elements": [
 		{
 			"type": "arrow",
@@ -49,7 +49,10 @@ make it harder to deliver more items. ^zNRBWe8c
 			"height": 528.5374625606202,
 			"seed": 187331332,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1670843442390,
 			"link": null,
@@ -94,7 +97,10 @@ make it harder to deliver more items. ^zNRBWe8c
 			"height": 2.7386474609375,
 			"seed": 476733956,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1670843435700,
 			"link": null,
@@ -135,11 +141,12 @@ make it harder to deliver more items. ^zNRBWe8c
 			"y": 209.4527587890625,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 81,
+			"width": 79.30796813964844,
 			"height": 45,
 			"seed": 1743315076,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [
 				{
 					"id": "vfLe2bBlT6IAaFbInZPTy",
@@ -149,15 +156,19 @@ make it harder to deliver more items. ^zNRBWe8c
 			"updated": 1670843435700,
 			"link": null,
 			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			},
 			"fontSize": 36,
 			"fontFamily": 1,
 			"text": "Time",
 			"rawText": "Time",
-			"baseline": 32,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Time"
+			"originalText": "Time",
+			"lineHeight": 1.25,
+			"baseline": 32
 		},
 		{
 			"type": "text",
@@ -175,11 +186,12 @@ make it harder to deliver more items. ^zNRBWe8c
 			"y": -374.87176513671875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 104,
+			"width": 101.98796081542969,
 			"height": 45,
 			"seed": 1249523644,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [
 				{
 					"id": "n_JU7nfOPcWYxQfAIIrxe",
@@ -189,15 +201,19 @@ make it harder to deliver more items. ^zNRBWe8c
 			"updated": 1670843442389,
 			"link": null,
 			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			},
 			"fontSize": 36,
 			"fontFamily": 1,
 			"text": "Items",
 			"rawText": "Items",
-			"baseline": 32,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Items"
+			"originalText": "Items",
+			"lineHeight": 1.25,
+			"baseline": 32
 		},
 		{
 			"type": "line",
@@ -219,7 +235,10 @@ make it harder to deliver more items. ^zNRBWe8c
 			"height": 175.27120971679688,
 			"seed": 1294753084,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1670843468235,
 			"link": null,
@@ -288,7 +307,10 @@ make it harder to deliver more items. ^zNRBWe8c
 			"height": 15.518798828125,
 			"seed": 1093689732,
 			"groupIds": [],
-			"strokeSharpness": "round",
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
 			"boundElements": [],
 			"updated": 1670843492629,
 			"link": null,
@@ -345,11 +367,12 @@ make it harder to deliver more items. ^zNRBWe8c
 			"y": -134.2527700570913,
 			"strokeColor": "#2b8a3e",
 			"backgroundColor": "transparent",
-			"width": 288.4307692307692,
-			"height": 83.84615384615383,
+			"width": 286.34613037109375,
+			"height": 83.84615384615384,
 			"seed": 858555652,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [],
 			"updated": 1671137811111,
 			"link": null,
@@ -358,11 +381,12 @@ make it harder to deliver more items. ^zNRBWe8c
 			"fontFamily": 1,
 			"text": "Team with Tests\nand Quality",
 			"rawText": "Team with Tests\nand Quality",
-			"baseline": 70.84615384615383,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Team with Tests\nand Quality"
+			"originalText": "Team with Tests\nand Quality",
+			"lineHeight": 1.25,
+			"baseline": 71
 		},
 		{
 			"type": "text",
@@ -380,11 +404,12 @@ make it harder to deliver more items. ^zNRBWe8c
 			"y": 68.61407470703125,
 			"strokeColor": "#e67700",
 			"backgroundColor": "transparent",
-			"width": 315.2307692307693,
-			"height": 76.51232262882748,
+			"width": 312.946044921875,
+			"height": 76.51232262882745,
 			"seed": 2108942524,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [],
 			"updated": 1671137814205,
 			"link": null,
@@ -393,16 +418,17 @@ make it harder to deliver more items. ^zNRBWe8c
 			"fontFamily": 1,
 			"text": "Team without Tests\nand Quality",
 			"rawText": "Team without Tests\nand Quality",
-			"baseline": 65.51232262882748,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Team without Tests\nand Quality"
+			"originalText": "Team without Tests\nand Quality",
+			"lineHeight": 1.25,
+			"baseline": 65
 		},
 		{
 			"type": "text",
-			"version": 247,
-			"versionNonce": 1080490136,
+			"version": 330,
+			"versionNonce": 828118790,
 			"isDeleted": false,
 			"id": "zNRBWe8c",
 			"fillStyle": "hachure",
@@ -411,28 +437,30 @@ make it harder to deliver more items. ^zNRBWe8c
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -167.42572915554035,
-			"y": -314.54225158691406,
+			"x": -158.7590624888736,
+			"y": -325.20891825358075,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 665.9999999999999,
+			"width": 663.0117797851562,
 			"height": 89.99999999999999,
 			"seed": 147816764,
 			"groupIds": [],
-			"strokeSharpness": "sharp",
+			"frameId": null,
+			"roundness": null,
 			"boundElements": [],
-			"updated": 1671137808327,
+			"updated": 1696440826166,
 			"link": null,
 			"locked": false,
 			"fontSize": 35.99999999999999,
 			"fontFamily": 1,
 			"text": "Accumulated Problems over time, \nmake it harder to deliver more items.",
 			"rawText": "Accumulated Problems over time, \nmake it harder to deliver more items.",
-			"baseline": 76.99999999999999,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Accumulated Problems over time, \nmake it harder to deliver more items."
+			"originalText": "Accumulated Problems over time, \nmake it harder to deliver more items.",
+			"lineHeight": 1.25,
+			"baseline": 77
 		}
 	],
 	"appState": {
@@ -448,17 +476,28 @@ make it harder to deliver more items. ^zNRBWe8c
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 28,
 		"currentItemTextAlign": "left",
-		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 495.7744638791046,
-		"scrollY": 800.5941185584435,
+		"scrollX": 583.5180536226943,
+		"scrollY": 394.02721150716144,
 		"zoom": {
-			"value": 0.65
+			"value": 1.5
 		},
-		"currentItemLinearStrokeSharpness": "round",
+		"currentItemRoundness": "round",
 		"gridSize": null,
-		"colorPalette": {}
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"colorPalette": {},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
 	},
 	"files": {}
 }

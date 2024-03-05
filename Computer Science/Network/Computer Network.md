@@ -1,5 +1,16 @@
 Concept of [[Computer Science]]
 
-Study from [[Computer Network]]
 
-[[Computer Network Study Plan]]
+# [[Computer Network Study Plan]]
+
+# Commands and Programs
+
+> ifconfig
+
+> ping
+
+> [[traceroute]]
+
+> wireshark
+
+
