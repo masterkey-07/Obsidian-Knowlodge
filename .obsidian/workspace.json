@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "066b3d5e1bd21953",
+        "id": "26912a28102f89fa",
         "type": "tabs",
         "children": [
           {
-            "id": "5d570f5767a06901",
+            "id": "64ef66263e0c456c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artificial Intelligence.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,44 +187,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d570f5767a06901",
+  "active": "64ef66263e0c456c",
   "lastOpenFiles": [
-    "Large Language Model.md",
-    "Artificial Intelligence.md",
-    "Large Language Model Use Cases.md",
-    "Computer Science/College/Slides/AI/AI - Aula 2 - Mineração de Dados.pdf",
-    "Computer Science/College/Slides/AI/AI - Aula 1 - Introdução da História.pdf",
-    "Computer Science/College/Slides/AI/Class02-Mineracao_Dados.pdf",
-    "Computer Science/College/Slides/AI/Class01-IntroducaoeHistorico.pdf",
-    "Computer Science/College/Slides/AI",
-    "Fields of Study of Artificial Intelligence.md",
-    "Computer Science/Theories/Statistics and Probability/Statistics and Probability.md",
-    "Computer Science/College/Slides/SEDO/SEDO - Testes de Convergência.pdf",
-    "Computer Science/College/Slides/SEDO/SEDO - Aula 9 - Séries de Fourier.pdf",
-    "Computer Science/College/Slides/SEDO/SEDO - Aula 8 - Séries de potências II.pdf",
-    "Computer Science/College/Slides/SEDO/SEDO - Aula 7 - Séries de potências.pdf",
-    "Computer Science/College/Slides/SEDO/SEDO - Aula 6 - Séries numéricas IV.pdf",
-    "Syllogism.md",
-    "Natural Language Process.md",
-    "Use Cases with Artificial Intelligence.md",
-    "Artificial Intelligence - Cronograma.md",
-    "Computer Science/College/Unifesp.md",
-    "Component Principles.md",
-    "Satisfiability Problem.md",
-    "Business/Product Owner.md",
-    "Business/Business Innovation.md",
-    "Product Management.md",
-    "Development Method.md",
-    "Computer Science/Software/Programming/Languages/ABAP.md",
-    "Agile Development.md",
-    "Product.md",
-    "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
-    "Untitled Kanban.md",
-    "Tasks of Unifesp.md",
-    "Computer Science/Software/Programming/Languages/JavaScript/JavaScript.md",
-    "Concurrency.md",
+    "Machine Learning.md",
+    "Computer Science/College/Slides/AI/AI - Aula 3 - Aprendizagem Supervisionada.pdf",
+    "Computer Science/College/Slides/AI/Class03-AprendizagemSupervisionada1.pdf",
+    "Bitcoin.md",
+    "Secure Hash Algorithm.md",
+    "National Security Agency.md",
+    "Blockchain.md",
+    "Computer Science/Software/Programs/Tools/CSS/3D CSS View.md",
+    "Computer Science/Software/Archtecture/Infrastructure as Code.md",
+    "DevOps.md",
+    "Hash Function.md",
+    "Excalidraw/Hash Function 2024-03-11 22.07.22.excalidraw.md",
+    "Pasted image 20240311214928.png",
+    "Asymmetric Key.md",
+    "Cyber Attacks.md",
+    "Computer Network Study Plan.md",
+    "Computer Science/Network/Computer Network.md",
     "Computer Science/Cyber Security/Cyber Security.md",
-    "Transport Layer.md",
+    "Symmetric Keys.md",
+    "Cryptography.md",
+    "Hash Table.md",
+    "Computer Science/Computer Science.md",
+    "Ethereum.md",
+    "Computer Science/College/Slides/BC/BC - Aula 1 - Introdução a Blockchain.pdf",
+    "Computer Science/College/Slides/BC",
+    "Computer Science/Books/Blockchain/Mastering Ethereum.pdf",
+    "Computer Science/Books/Blockchain/Introduction to Bitcoin.pdf",
+    "Computer Science/Books/Blockchain/Blockchain - Theory and Practice - Chapter 1.pdf",
+    "Computer Science/Books/Blockchain",
+    "Computer Science/College/Slides/BC - Aula 1 - Introdução a Blockchain.pdf",
+    "Computer Science/Books/Introduction to Bitcoin.pdf",
+    "Computer Science/Theories/Statistics and Probability/Statistics and Probability.md",
+    "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
+    "Data Mining.md",
+    "Congresso da Sociedade Brasileira de Computação.md",
+    "Artificial Intelligence.md",
+    "Pasted image 20240307192731.png",
     "Assets/Pasted image 20230830193828.png",
     "Assets/Pasted Image 20230924041543_080.jpg",
     "Assets/Pasted image 20230825211609.png",
@@ -241,7 +233,6 @@
     "Pasted image 20230830193828.png",
     "Pasted image 20230825211609.png",
     "hist.png",
-    "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png",
-    "bar.png"
+    "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png"
   ]
 }

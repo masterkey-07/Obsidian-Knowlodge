@@ -2,7 +2,7 @@ Concept of [[Computer Science]]
 
 # Topics
 
-- ## [[Cryptograph]]
+- ## [[Cryptography]]
 - ## [[Cyber Attacks]]
 
 

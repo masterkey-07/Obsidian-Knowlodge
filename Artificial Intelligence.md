@@ -20,6 +20,7 @@ In practice, researchers usually focus on some particular characteristic of inte
 
 # Topics
 
+- ### [[Data Mining]]
 - ### [[Machine Learning]]
 - ### [[Intelligent Systems]]
 - ### [[Specialist Systems]]
