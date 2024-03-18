@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "26912a28102f89fa",
+        "id": "65c9f738a1c7a6da",
         "type": "tabs",
         "children": [
           {
-            "id": "64ef66263e0c456c",
+            "id": "a76ac372584a85b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Decision Trees.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Decision Trees.md"
+              }
             }
           },
           {
@@ -187,9 +196,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64ef66263e0c456c",
+  "active": "a76ac372584a85b9",
   "lastOpenFiles": [
+    "Pasted image 20240314194651.png",
     "Machine Learning.md",
+    "Decision Trees.md",
+    "Ockham's Razor.md",
+    "Inductive Learning.md",
+    "Artificial Intelligence.md",
+    "Ethereum.md",
     "Computer Science/College/Slides/AI/AI - Aula 3 - Aprendizagem Supervisionada.pdf",
     "Computer Science/College/Slides/AI/Class03-AprendizagemSupervisionada1.pdf",
     "Bitcoin.md",
@@ -211,7 +226,6 @@
     "Cryptography.md",
     "Hash Table.md",
     "Computer Science/Computer Science.md",
-    "Ethereum.md",
     "Computer Science/College/Slides/BC/BC - Aula 1 - Introdução a Blockchain.pdf",
     "Computer Science/College/Slides/BC",
     "Computer Science/Books/Blockchain/Mastering Ethereum.pdf",
@@ -221,10 +235,6 @@
     "Computer Science/College/Slides/BC - Aula 1 - Introdução a Blockchain.pdf",
     "Computer Science/Books/Introduction to Bitcoin.pdf",
     "Computer Science/Theories/Statistics and Probability/Statistics and Probability.md",
-    "Computer Science/Theories/Statistics and Probability/Probability Distributions.md",
-    "Data Mining.md",
-    "Congresso da Sociedade Brasileira de Computação.md",
-    "Artificial Intelligence.md",
     "Pasted image 20240307192731.png",
     "Assets/Pasted image 20230830193828.png",
     "Assets/Pasted Image 20230924041543_080.jpg",
