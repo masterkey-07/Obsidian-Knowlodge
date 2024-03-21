@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65c9f738a1c7a6da",
+        "id": "b56cf50e79b2a32f",
         "type": "tabs",
         "children": [
           {
-            "id": "a76ac372584a85b9",
+            "id": "35cdedff91ac70b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decision Trees.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Decision Trees.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,53 +187,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a76ac372584a85b9",
+  "active": "35cdedff91ac70b2",
   "lastOpenFiles": [
+    "Ethereum.md",
+    "Bitcoin.md",
+    "Cryptocoin.md",
+    "Solidity.md",
+    "Smart Contracts.md",
+    "Asymmetric Key.md",
+    "Pasted image 20240318214413.png",
+    "Cryptography.md",
+    "Blockchain.md",
+    "ParallelChain.md",
+    "Computer Science/College/Slides/CVV/CVV - Funções Limitadas.pdf",
+    "Computer Science/College/Slides/CVV/CVV - Curvas.pdf",
+    "Computer Science/College/Slides/CVV/CVV - Aula 6 - Limites.pdf",
+    "Computer Science/College/Slides/CVV/CVV - Aula 5 - Noções Topológicas.pdf",
+    "Computer Science/College/Slides/CVV/CVV - Aula 4 - Funções 3 variáveis.pdf",
+    "Computer Science/College/Slides/CVV/CVV - Aula 3 - Funções 2 variáveis.pdf",
+    "Computer Science/College/Slides/CVV/CVV - Aula 2 - Revisão de Superfícies.pdf",
+    "Computer Science/College/Slides/CVV/CVV - Aula 1 - Retas, planos, cônicas.pdf",
+    "Computer Science/College/Slides/BC/BC - Aula 3.pdf",
+    "Computer Science/College/Slides/BC/BC - Aula 2.pdf",
+    "Decision Trees.md",
     "Pasted image 20240314194651.png",
     "Machine Learning.md",
-    "Decision Trees.md",
     "Ockham's Razor.md",
     "Inductive Learning.md",
     "Artificial Intelligence.md",
-    "Ethereum.md",
-    "Computer Science/College/Slides/AI/AI - Aula 3 - Aprendizagem Supervisionada.pdf",
-    "Computer Science/College/Slides/AI/Class03-AprendizagemSupervisionada1.pdf",
-    "Bitcoin.md",
     "Secure Hash Algorithm.md",
     "National Security Agency.md",
-    "Blockchain.md",
     "Computer Science/Software/Programs/Tools/CSS/3D CSS View.md",
     "Computer Science/Software/Archtecture/Infrastructure as Code.md",
     "DevOps.md",
     "Hash Function.md",
     "Excalidraw/Hash Function 2024-03-11 22.07.22.excalidraw.md",
     "Pasted image 20240311214928.png",
-    "Asymmetric Key.md",
     "Cyber Attacks.md",
     "Computer Network Study Plan.md",
     "Computer Science/Network/Computer Network.md",
     "Computer Science/Cyber Security/Cyber Security.md",
     "Symmetric Keys.md",
-    "Cryptography.md",
-    "Hash Table.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/College/Slides/BC/BC - Aula 1 - Introdução a Blockchain.pdf",
-    "Computer Science/College/Slides/BC",
-    "Computer Science/Books/Blockchain/Mastering Ethereum.pdf",
-    "Computer Science/Books/Blockchain/Introduction to Bitcoin.pdf",
-    "Computer Science/Books/Blockchain/Blockchain - Theory and Practice - Chapter 1.pdf",
-    "Computer Science/Books/Blockchain",
-    "Computer Science/College/Slides/BC - Aula 1 - Introdução a Blockchain.pdf",
-    "Computer Science/Books/Introduction to Bitcoin.pdf",
-    "Computer Science/Theories/Statistics and Probability/Statistics and Probability.md",
     "Pasted image 20240307192731.png",
     "Assets/Pasted image 20230830193828.png",
     "Assets/Pasted Image 20230924041543_080.jpg",
     "Assets/Pasted image 20230825211609.png",
     "Pasted Image 20230924041543_080.jpg",
     "Pasted image 20230830193828.png",
-    "Pasted image 20230825211609.png",
-    "hist.png",
-    "BoxPlot1_VictorJorgeCarvalhoChaves_156740.png"
+    "Pasted image 20230825211609.png"
   ]
 }

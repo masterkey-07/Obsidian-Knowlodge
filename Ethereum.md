@@ -1,4 +1,4 @@
-Concept of [[Blockchain]]
+Concept of [[Blockchain]] and a [[Cryptocoin]]
 
 
 
