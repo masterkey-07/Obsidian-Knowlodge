@@ -32,3 +32,4 @@
 # Subjects to learn with [[Machine Learning]]
 
 - ### [[Decision Trees]]
+- ### [[Linear Models]]

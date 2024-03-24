@@ -21,7 +21,6 @@ In practice, researchers usually focus on some particular characteristic of inte
 # Topics
 
 - ### [[Data Mining]]
-- ### [[Machine Learning]]
 - ### [[Intelligent Systems]]
 - ### [[Specialist Systems]]
 - ### [[Natural Language Process]]
@@ -29,6 +28,7 @@ In practice, researchers usually focus on some particular characteristic of inte
 - ### [[Use Cases with Artificial Intelligence]]
 - ### [[Large Language Model]]
 
+ ![[Machine Learning#Subjects to learn with Machine Learning]]
 
 # Notes
 
