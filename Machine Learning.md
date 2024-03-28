@@ -33,3 +33,4 @@
 
 - ### [[Decision Trees]]
 - ### [[Linear Models]]
+- ### [[Classification Models]]

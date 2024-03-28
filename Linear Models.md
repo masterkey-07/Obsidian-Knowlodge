@@ -1,4 +1,4 @@
-They are 
+They are used in context of  [[Type of Statistic Variables#^ba4992|Continuous Numbers]]
 
 
 # Topics

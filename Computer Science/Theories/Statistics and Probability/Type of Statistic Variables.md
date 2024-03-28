@@ -2,7 +2,7 @@
 
 Study from [[PEE - Aula 2 - Tabulação de Dados Frequenciais e Gráficos.pdf]]
 
-- ## Qualitative Variables
+- ## Qualitative Variables ^dcf149
 	- ## Nominal
 		- ##### Gender (M/F), Color (Blue, Brown, etc...)
 	- ## Ordinals
@@ -13,5 +13,5 @@ Study from [[PEE - Aula 2 - Tabulação de Dados Frequenciais e Gráficos.pdf]]
 - ## Quantitative Variables
 	- ## Discrete
 		- ##### Number of Things
-	- ## Continuous : (Float Values)
+	- ## Continuous : (Float Values) ^ba4992
 		- ##### Age, Height, Salary, Weigh

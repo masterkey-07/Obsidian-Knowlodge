@@ -4,6 +4,8 @@ Origin in 2008
 
 Created by Satoshi Nakamoto
 
+Use the consensus method [[Proof of Work]]
+
 # Mineration
 Resolver um problema matemático
 

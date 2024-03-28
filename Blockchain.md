@@ -28,13 +28,13 @@ sistemas de forma confiável e segura;
 
 # Aspects to be a Blockchain
 
-1. **Peer-to-peer:** mais disponibilidade e menos controle
+1. **Peer-to-peer:** more disponibility and less control
 2. [[Cryptography|Cryptography Methods]]
 	1. [[Hash Function]]
 	2. [[Asymmetric Key]]: Uses [[Secure Hash Algorithm#^dab572|SHA-256]]
 	3. [[Digital Signature]]
-3. **Consenso:** Mecanismo de consenso distribuído para uma visão consistente do sistema
-4. **Transparência:** Software livre para obter transparência
+3. **[[Consensus in Computation|Consensus]]:** Distributed consensus mechanism for a consistent view of the system
+4. **Transparency:** [[Free Software]] to have transparency
 5. Incentivos econômicos para sustentabilidade
 
 # Simple Blockchain Data Structure
