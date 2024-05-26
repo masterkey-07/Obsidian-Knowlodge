@@ -1,1 +1,0 @@
-É uma [[Sequências Monótonas]] se ela for Crescente ou Decrescente

@@ -1,1 +1,0 @@
-Uses [[Hash Function]]

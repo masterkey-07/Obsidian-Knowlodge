@@ -1,1 +1,0 @@
-Uses [[MQTT]] for developing API's

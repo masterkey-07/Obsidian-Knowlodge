@@ -1,0 +1,1 @@
+The Difference between a [[Solution Architect]] and [[Software Architect]]

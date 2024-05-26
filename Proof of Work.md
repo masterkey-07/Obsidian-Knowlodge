@@ -1,1 +1,0 @@
-Is a [[Consensus in Computation|Consensus Method]]

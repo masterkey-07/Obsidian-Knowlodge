@@ -1,1 +1,0 @@
-Concept of [[Computer Science]] and [[Software Engineer]]

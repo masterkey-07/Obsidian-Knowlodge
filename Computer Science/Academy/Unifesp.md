@@ -1,0 +1,64 @@
+#project 
+
+[[Computer Science]] Curso
+
+Documentação Oficial de 2023: [[PPC_BCC_2023 aprovado.pdf]]
+
+- [x] Primeiro Termo
+	- [x] Cálculo em uma Variável
+	- [x] Ciência, Tecnologia e Sociedade
+	- [x] Lógica de Programação
+	- [x] Química Geral
+	- [x] Fundamentos de Biologia Moderna
+- [ ] Segundo Termo
+	- [x] Fenômenos Mecânicos
+	- [x] Ciência, Tecnologia, Sociedade e Ambiente
+	- [ ] Séries e Equações Diferenciais Odinárias
+	- [x] Matemática Discreta
+	- [x] Algoritmos e Estrutura de Dados I
+- [ ] Terceiro Termo
+	- [x] Interdisciplinar (2 Créditos)
+	- [ ] Probabilidade e Estatística
+	- [ ] Cálculo em Várias Variáveis
+	- [x] Circuitos Digitais
+	- [x] Algoritmos e Estrutura de Dados II
+	- [x] Álgebra Linear 
+- [ ] Quarto Termo
+	- [x] Interdisciplinar (2 Créditos)
+	- [x] Banco de Dados
+	- [x] Programação Orientada a Objetos
+	- [x] Arquitetura e Organização de Computadores
+	- [x] Projeto e Análise de Algoritmos
+	- [ ] Cálculo Numérico
+- [ ] Quinto Termo
+	- [x] Interdisciplinar (2 Créditos)
+	- [ ] Inteligẽncia Artificial
+	- [x] Projetos Orientado a Objetos
+	- [x] Linguagens Formais e Autômatos
+	- [ ] Teoria dos Grafos
+	- [x] Sistemas Operacionais
+- [ ] Sexto Termo
+	- [x] Rede de Computadores
+	- [x] Engenharia de Software
+	- [ ] Computação Gráfica
+	- [ ] Compiladores
+	- [ ] Programação Concorrente e Distribuída
+- [ ] Sétimo Termo
+	- [ ] TCC I
+	- [x] Interação Humano Computador
+	- [x] Eletiva A-I (36 horas) [Grupo 2]: Algoritmo em Bioinformatica
+	- [x] Eletiva B-I (36 horas) [Grupo 2]: Algoritmo em Bioinformatica
+	- [x] Eletiva A-II (36 horas) [Eletiva Extensionista]: Seminários Interdisciplinares
+	- [ ] Eletiva B-II (36 horas) [Grupo 2]
+	- [ ] Eletiva A-III (36 horas) [Grupo 2]
+	- [ ] Eletiva B-III (36 horas) [Grupo 3]
+- [ ] Oitavo Termo
+	- [ ] TCC II
+	- [ ] Eletiva A-IV (36 horas) [Grupo 4]
+	- [ ] Eletiva B-IV (36 horas) [Grupo 4]
+	- [ ] Eletiva A-V (36 horas) [Grupo 4]
+	- [ ] Eletiva B-V (36 horas) [Grupo 4]
+	- [ ] Eletiva A-VI (36 horas) [Grupo 4]
+	- [ ] Eletiva B-VI (36 horas) [Grupo 4]
+- [ ] Extras
+    - [x] Interação Humano Computador 

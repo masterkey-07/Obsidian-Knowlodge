@@ -53,9 +53,13 @@ Can be used in [[LaTex]]
 -   `\lt \gt \le \ge \neq` <<, >>, ≤≤, ≥≥,≠≠. You can use `\not` to put a slash through almost anything: `\not\lt` ≮≮ but it often looks bad.
     
 -   `\times \div \pm \mp` ××, ÷÷, ±±, ∓∓. `\cdot` is a centered dot: x⋅yx⋅y
-    
--   `\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing` ∪∪, ∩∩, ∖∖, ⊂⊂, ⊆⊆, ⊊⊊, ⊃⊃, ∈∈, ∉∉, ∅∅, ∅∅
-    
+
+--- 
+# For set Theory
+-   $\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing$ ∪∪, ∩∩, ∖∖, ⊂⊂, ⊆⊆, ⊊⊊, ⊃⊃, ∈∈, ∉∉, ∅∅, ∅∅
+
+---
+
 -   `{n+1 \choose 2k}` or `\binom{n+1}{2k}` (n+12k)(n+12k)
     
 -   $\to \gets \ \rightarrow \leftarrow \ \Rightarrow \Leftarrow \ \mapsto \implies \ \iff$
