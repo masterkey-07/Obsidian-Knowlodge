@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4bc4b3038918a1df",
+        "id": "ca6a02f82a4e66ea",
         "type": "tabs",
         "children": [
           {
-            "id": "bededd1c76a396e5",
+            "id": "f8e56bd7c065da11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Personal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Personal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Personal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Personal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,10 +187,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bededd1c76a396e5",
+  "active": "f8e56bd7c065da11",
   "lastOpenFiles": [
-    "Personal/My Health.md",
     "Personal/Personal.md",
+    "Computer Science/Academy/Unifesp.md",
+    "Computer Science/React Three Fiber.md",
+    "Control and Plan Tasks.md",
+    "Keep Knowlodge.md",
+    "Personal/Productivity.md",
+    "Personal/My Health.md",
     "Personal/My House.md",
     "Morning Discipline.md",
     "Personal/My Costs.md",
@@ -223,12 +219,7 @@
     "Computer Science/Artificial Intelligence/Decision Trees.md",
     "Computer Science/Business/Product.md",
     "Computer Science/Business/Product Owner.md",
-    "Computer Science/Business/Product Management.md",
-    "Computer Science/Business/Business.md",
-    "Computer Science/Business/Business Model Canvas.md",
-    "Computer Science/Business/Business Innovation.md",
     "Computer Science/Business",
-    "Computer Science/Mathematics/Séries e Equações Diferenciais e Ordinárias.md",
     "Computer Science/Mathematics",
     "Computer Science/Organizations",
     "Computer Science/Data Science/Statistics and Probability",

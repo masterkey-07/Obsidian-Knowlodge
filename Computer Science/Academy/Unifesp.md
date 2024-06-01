@@ -1,5 +1,3 @@
-#project 
-
 [[Computer Science]] Curso
 
 Documentação Oficial de 2023: [[PPC_BCC_2023 aprovado.pdf]]

@@ -1,0 +1,1 @@
+![[My Processes 2022-12-26 12.20.53.excalidraw|10000]]
