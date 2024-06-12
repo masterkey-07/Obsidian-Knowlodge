@@ -16,15 +16,15 @@
 <br>
 
 ### **Types of Learning**
-- **Supervised Learning**
+- **[[Supervised Learning]]**
 	- **All** tests has the true result
-- **Non Supervised Learning**
+- **[[Non Supervised Learning]]**
 	- **All** tests don't has the truth over the data
 	- Use cases: Grouping of Data
-- **Semi Supervised Learning**
+- **[[Semi Supervised Learning]]**
 	- **Some** tests has the true result
 	- **Some** tests don't has the truth over the data
-- **By Reinforcement**
+- **By [[Reinforcement Learning]]**
 	- Motivated by the result in real time
 	- Use cases: Games
 
@@ -34,4 +34,5 @@
 - ### [[Decision Trees]]
 - ### [[Linear Models]]
 - ### [[Classification Models]]
+- ### [[Neural Network]]
 - ### [[Deep Learning]]

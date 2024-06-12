@@ -1,0 +1,2 @@
+>[!quote] ChatGPT
+>A neural network is a computational model inspired by the structure and function of the human brain's neural networks. It consists of interconnected nodes, called neurons, organized in layers. Each neuron receives input signals, processes them, and produces an output signal that is passed to other neurons. By adjusting the connections between neurons during training, a neural network can learn to perform tasks such as classification, regression, or pattern recognition.

@@ -3,9 +3,12 @@
   "calendar",
   "table-editor-obsidian",
   "obsidian-outliner",
-  "obsidian-mind-map",
-  "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
   "dataview",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "recent-files-obsidian",
+  "obsidian-day-planner",
+  "omnisearch",
+  "obsidian-linter"
 ]

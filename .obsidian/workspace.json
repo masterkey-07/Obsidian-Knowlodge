@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ca6a02f82a4e66ea",
+        "id": "e3db28bb85a30d76",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e56bd7c065da11",
+            "id": "caa79feb096e072d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Architecture of Open Source Applications.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -77,8 +82,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "491b9efc5e448588",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -99,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Architecture of Open Source Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Architecture of Open Source Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Architecture of Open Source Applications.md"
+              }
             }
           },
           {
@@ -166,6 +184,14 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "39601f75ba59e08d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -184,47 +210,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "f8e56bd7c065da11",
+  "active": "caa79feb096e072d",
   "lastOpenFiles": [
-    "Personal/Personal.md",
-    "Computer Science/Academy/Unifesp.md",
-    "Computer Science/React Three Fiber.md",
-    "Control and Plan Tasks.md",
-    "Keep Knowlodge.md",
-    "Personal/Productivity.md",
-    "Personal/My Health.md",
-    "Personal/My House.md",
-    "Morning Discipline.md",
-    "Personal/My Costs.md",
-    "Personal/My Disciplines.md",
-    "Reading Discipline.md",
-    "Personal.md",
-    "Computer Science/Software/Programming/Languages/Go.md",
-    "Assets/Blockchain for Cyber Security in Smart Grid: Comprehensive Survey.pdf",
-    "Smart Grid.md",
-    "Assets/A Blockchain-Based Mechanism for Secure Data Exchange in Smart Grid Protection Systems.pdf",
-    "Assets/M2M Blockchain: The Case of Demand Side Management of Smart Grid.pdf",
-    "Computer Science/Data Science/Statistics and Probability/Type of Statistic Variables.md",
-    "Computer Science/Data Science/Statistics and Probability/Statistics and Probability.md",
-    "Derivadas.md",
-    "Multivariable Calculus.md",
-    "Computer Science/Mathematics/Accumulation Point.md",
-    "Computer Science/Software/Programs/Tools/MathJax.md",
-    "Computer Science/Software Verification and Validation/Software Quality.md",
-    "Computer Science/Software Verification and Validation",
+    "Computer Science/Papers/A Blockchain-Based Mechanism for Secure Data Exchange in Smart Grid Protection Systems.pdf",
+    "Computer Science/Papers/Blockchain for Cyber Security in Smart Grid: Comprehensive Survey.pdf",
+    "Computer Science/Papers/M2M Blockchain: The Case of Demand Side Management of Smart Grid.pdf",
+    "Computer Science/Papers/Google - Attention is All you need.pdf",
+    "Computer Science/Papers",
+    "Computer Science/Books/The Architecture of Open Source Applications/The Architecture of Open Source Applications - Volume 2.pdf",
+    "Computer Science/Books/The Architecture of Open Source Applications/The Architecture of Open Source Applications - Volume 1.pdf",
+    "Computer Science/Books/The Architecture of Open Source Applications/500 Lines or Less.pdf",
+    "Computer Science/Books/The Architecture of Open Source Applications",
+    "The Architecture of Open Source Applications.md",
+    "Attention is All you Need.md",
+    "Assets/nohup.out",
+    "Self-Attention Mechanism.md",
+    "End-to-End Memory Network.md",
+    "Attention Mechanism.md",
+    "Convolutional Sequence to Sequence Learning.md",
+    "Computer Science/Computer Science.md",
+    "Upgrade my Keyboard.md",
+    "Upgrade my Workplace.md",
+    "ByteNet.md",
+    "Computer Science/Machine Learning.md",
     "Computer Science/Artificial Intelligence/Deep Learning.md",
-    "Computer Science/Artificial Intelligence/Decision Trees.md",
-    "Computer Science/Business/Product.md",
-    "Computer Science/Business/Product Owner.md",
-    "Computer Science/Business",
-    "Computer Science/Mathematics",
-    "Computer Science/Organizations",
-    "Computer Science/Data Science/Statistics and Probability",
-    "Computer Science/Data Science",
-    "Computer Science/Artificial Intelligence",
+    "Neural Network.md",
+    "Gated Recurrent Neural Networks.md",
+    "Recurrent Neural Networks.md",
+    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
+    "Neural Turing Machine.md",
+    "Computer Science/Artificial Intelligence/Artificial Neuron Model.md",
+    "Neural Machine Translation.md",
+    "Extended Neural GPU.md",
+    "Computer Science/Artificial Intelligence/Convolution Operation.md",
+    "Convolutional Neural Network.md",
+    "Encoder-Decoder Architecture.md",
+    "Long Short-Term Memory.md",
+    "Recurrent Neural Network Language Models.md",
+    "Pasted image 20240608165804.png",
+    "Assets/Google - Attention is All you need.pdf",
     "Pasted image 20240404201700.png",
     "Assets/Pasted image 20240404201710.png",
     "Assets/Pasted image 20240404201700.png",
@@ -233,7 +262,6 @@
     "Assets/Pasted image 20240318214413.png",
     "Assets/Pasted image 20240314194651.png",
     "Assets/Pasted image 20240311214928.png",
-    "Assets/Pasted image 20240307192731.png",
-    "Pasted image 20240404201710.png"
+    "Assets/Pasted image 20240307192731.png"
   ]
 }

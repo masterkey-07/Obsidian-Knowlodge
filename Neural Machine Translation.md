@@ -1,0 +1,1 @@
+It performs translation character by character (not word by word)?
