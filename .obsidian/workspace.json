@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e3db28bb85a30d76",
+        "id": "3077801aa2157bb3",
         "type": "tabs",
         "children": [
           {
-            "id": "caa79feb096e072d",
+            "id": "454866b14983f69f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Architecture of Open Source Applications.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -91,13 +86,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 381.5026054382324,
-    "collapsed": true
+    "width": 381.5026054382324
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -113,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Architecture of Open Source Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Architecture of Open Source Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Architecture of Open Source Applications.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,8 +204,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "caa79feb096e072d",
+  "active": "454866b14983f69f",
   "lastOpenFiles": [
+    "Software Design by Example with JavaScript.md",
+    "The Architecture of Open Source Applications.md",
+    "Computer Science/Software/Design/Software Design.md",
     "Computer Science/Papers/A Blockchain-Based Mechanism for Secure Data Exchange in Smart Grid Protection Systems.pdf",
     "Computer Science/Papers/Blockchain for Cyber Security in Smart Grid: Comprehensive Survey.pdf",
     "Computer Science/Papers/M2M Blockchain: The Case of Demand Side Management of Smart Grid.pdf",
@@ -226,7 +218,6 @@
     "Computer Science/Books/The Architecture of Open Source Applications/The Architecture of Open Source Applications - Volume 1.pdf",
     "Computer Science/Books/The Architecture of Open Source Applications/500 Lines or Less.pdf",
     "Computer Science/Books/The Architecture of Open Source Applications",
-    "The Architecture of Open Source Applications.md",
     "Attention is All you Need.md",
     "Assets/nohup.out",
     "Self-Attention Mechanism.md",
@@ -251,9 +242,7 @@
     "Convolutional Neural Network.md",
     "Encoder-Decoder Architecture.md",
     "Long Short-Term Memory.md",
-    "Recurrent Neural Network Language Models.md",
     "Pasted image 20240608165804.png",
-    "Assets/Google - Attention is All you need.pdf",
     "Pasted image 20240404201700.png",
     "Assets/Pasted image 20240404201710.png",
     "Assets/Pasted image 20240404201700.png",
