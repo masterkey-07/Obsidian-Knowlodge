@@ -1,14 +1,5 @@
 {
   "editor:focus-left": [],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    }
-  ],
   "app:delete-file": [],
   "file-explorer:reveal-active-file": [],
   "file-explorer:open": [
@@ -89,6 +80,23 @@
         "Shift"
       ],
       "key": "G"
+    }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }

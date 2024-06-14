@@ -1,0 +1,6 @@
+>[!info] ChatGPT
+>The Decoder's primary role is to generate the output sequence from the context vector produced by the Encoder. The steps involved in the decoding process typically include:
+><br>1. **Input Initialization**: The Decoder begins with the context vector from the Encoder. Often, the initial input to the Decoder is a special token indicating the start of the output sequence.
+><br>2. **Sequence Generation**: Using the context vector and its own internal states, the Decoder generates the output sequence step-by-step. At each step, it produces an element of the output sequence and updates its internal state.
+><br>3. **Output Processing**: The Decoder continues generating elements of the sequence until it produces a special end token or reaches a predefined length limit.
+><br>In [[Natural Language Process]], the Decoder might be a series of [[Long Short-Term Memory|LSTM]] or Transformer layers that generate a sentence in the target language, one word at a time, based on the context vector from the Encoder and the words it has generated so far.

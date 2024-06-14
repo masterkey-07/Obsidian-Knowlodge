@@ -1,0 +1,6 @@
+>[!info] ChatGPT
+>The Encoder's primary role is to process the input data and transform it into a fixed-size representation, often called the context vector or the latent representation. The steps involved in the encoding process typically include:
+><br>1. **Input Processing**: The Encoder takes the input data, which could be a sequence of words (in NLP) or a sequence of frames (in video processing), and processes each element of the sequence.
+><br>2. **Feature Extraction**: Through a series of transformations, such as convolutional layers for images or recurrent layers for sequences, the Encoder extracts relevant features from the input data.
+><br>3. **Context Vector**: The final output of the Encoder is a context vector (or a set of vectors) that encapsulates the information from the entire input sequence. This context vector serves as a summary of the input data and is fed into the Decoder.
+><br>In NLP, for instance, the Encoder could be a series of LSTM or Transformer layers that process each word in a sentence and output a context vector that represents the meaning of the entire sentence.

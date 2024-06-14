@@ -11,8 +11,13 @@
             "id": "454866b14983f69f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -90,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5026054382324
+    "width": 381.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -106,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md"
+              }
             }
           },
           {
@@ -206,6 +216,13 @@
   },
   "active": "454866b14983f69f",
   "lastOpenFiles": [
+    "Pasted image 20240613224921.png",
+    "attention function.md",
+    "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
+    "Computer Science/Papers/nohup.out",
+    "Pasted image 20240613215908.png",
+    "Decoder.md",
+    "Encoder.md",
     "Software Design by Example with JavaScript.md",
     "The Architecture of Open Source Applications.md",
     "Computer Science/Software/Design/Software Design.md",
@@ -219,7 +236,6 @@
     "Computer Science/Books/The Architecture of Open Source Applications/500 Lines or Less.pdf",
     "Computer Science/Books/The Architecture of Open Source Applications",
     "Attention is All you Need.md",
-    "Assets/nohup.out",
     "Self-Attention Mechanism.md",
     "End-to-End Memory Network.md",
     "Attention Mechanism.md",
@@ -237,11 +253,6 @@
     "Neural Turing Machine.md",
     "Computer Science/Artificial Intelligence/Artificial Neuron Model.md",
     "Neural Machine Translation.md",
-    "Extended Neural GPU.md",
-    "Computer Science/Artificial Intelligence/Convolution Operation.md",
-    "Convolutional Neural Network.md",
-    "Encoder-Decoder Architecture.md",
-    "Long Short-Term Memory.md",
     "Pasted image 20240608165804.png",
     "Pasted image 20240404201700.png",
     "Assets/Pasted image 20240404201710.png",
@@ -250,7 +261,6 @@
     "Assets/Pasted image 20240326194314.png",
     "Assets/Pasted image 20240318214413.png",
     "Assets/Pasted image 20240314194651.png",
-    "Assets/Pasted image 20240311214928.png",
-    "Assets/Pasted image 20240307192731.png"
+    "Assets/Pasted image 20240311214928.png"
   ]
 }

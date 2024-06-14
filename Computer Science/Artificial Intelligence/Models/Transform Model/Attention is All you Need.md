@@ -50,18 +50,107 @@ In the following sections, we will describe the Transformer, motivate self-atten
 
 # Model Architecture
 
-Most competitive neural sequence transduction models have an encoder-decoder structure [5, 2, 29].
-Here, the encoder maps an input sequence of symbol representations (x1 , ..., xn ) to a sequence
-of continuous representations z = (z1 , ..., zn ). Given z, the decoder then generates an output
-sequence (y1 , ..., ym ) of symbols one element at a time. At each step the model is auto-regressive
-[9], consuming the previously generated symbols as additional input when generating the next.
-The Transformer follows this overall architecture using stacked self-attention and point-wise, fully
-connected layers for both the encoder and decoder, shown in the left and right halves of Figure 1,
-respectively.
-3.1
-Encoder and Decoder Stacks
-Encoder: The encoder is composed of a stack of N = 6 identical layers. Each layer has two
-sub-layers. The first is a multi-head self-attention mechanism, and the second is a simple, position-
+Most competitive neural sequence transduction models have an [[Encoder-Decoder Architecture|encoder-decoder structure]] [^5][^2][^29].
+
+Here, the encoder maps an input sequence of symbol representations $(x_1 , \dots, x_n )$ to a sequence of continuous representations $z = (z_1 , ..., z_n)$. 
+
+Given $z$, the decoder then generates an output
+sequence $(y_1 , \dots, y_m)$ of symbols one element at a time. 
+
+At each step the model is auto-regressive [^9], consuming the previously generated symbols as additional input when generating the next.
+
+The Transformer follows this overall architecture using stacked [[Self-Attention Mechanism|Self Attention]] and point-wise, [[Fully Connected Layer|Fully Connected Layers]] for both the [[Encoder]] and [[Decoder]], shown in the left and right halves of Figure 1, respectively.
+
+
+>[!question] 
+>Stacked [[Self-Attention Mechanism]]?
+>Point-wise?
+
+>[!note] Thought
+>So, in resume, the [[Transformer Model]] is similar to a [[Encoder-Decoder Architecture]]
+
+##### **3.1 Encoder and Decoder Stacks**
+##### **3.1.1 Encoder**
+The encoder is composed of a stack of $N = 6$ identical layers. 
+
+Each layer has two sub-layers. 
+
+The first is a multi-head self-attention mechanism, and the second is a simple, position-wise fully connected feed-forward network. 
+
+We employ a residual connection [^10] around each of the two sub-layers, followed by layer normalization [^1]. 
+
+That is, the output of each sub-layer is $\text{LayerNorm}(x + \text{Sublayer}(x))$, where $\text{Sublayer}(x)$ is the function implemented by the sub-layer itself. 
+
+To facilitate these residual connections, all sub-layers in the model, as well as the embedding layers, produce outputs of dimension $d_\text{model} = 512$.
+
+>[!question]
+>- What is Residual Connections?
+>- What is Normalization Layer?
+>- What is Position-wise?
+>- What is Feed-forward network?
+>- What is Embedding Layers?
+
+##### **3.1.2 Decoder**
+The decoder is also composed of a stack of $N = 6$ identical layers. 
+
+In addition to the two sub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head attention over the output of the encoder stack.
+
+Similar to the encoder, we employ residual connections around each of the sub-layers, followed by layer normalization. 
+
+We also modify the self-attention sub-layer in the decoder stack to prevent positions from attending to subsequent positions. 
+
+This masking, combined with fact that the output embeddings are offset by one position, ensures that the predictions for position $i$ can depend only on the known outputs at positions less than $i$.
+
+**The Transformer - Model Architecture**
+![[Pasted image 20240613215908.png]]
+
+##### **3.2 Attention**
+
+An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors. The output is computed as a weighted sum of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key.
+
+##### **3.2.1 Scaled Dot-Product Attention**
+
+![[Pasted image 20240613224921.png]]
+
+We call our particular attention "Scaled Dot-Product Attention" . 
+
+The input consists of queries and keys of dimension $d_k$ , and values of dimension $d_v$ . 
+
+We compute the dot products of the query with all keys, divide each by $sqrt{d_k}$ , and apply a [[softmax function]] to obtain the weights on the In practice, we compute the [[attention function]] on a set of queries simultaneously, packed together into a matrix $Q$. 
+
+The keys and values are also packed together into matrices $K$ and $V$.
+
+We compute the matrix of outputs as:
+
+$$\text{Attention}(Q,K,V) = \text{softmax}(\frac{QK^T}{\sqrt{d_k}})V$$
+
+The two most commonly used attention functions are [[Additive Attention]] [^2], and [[Dot-Product Attention|dot-product (multiplicative) attention]].
+
+[[Dot-Product Attention]] is identical to our algorithm, except for the scaling factor of $\frac{1}{\sqrt{d_k}}$. 
+
+[[Additive Attention]] computes the compatibility function using a [[Feed-Forward Network]] with a single hidden layer. 
+
+While the two are similar in theoretical complexity, [[Dot-Product Attention]] is much faster and more space-efficient in practice, since it can be implemented using highly optimized matrix multiplication code.
+
+While for small values of $d_k$ the two mechanisms perform similarly, [[Additive Attention]] outperforms [[Dot-Product Attention]] without scaling for larger values of $d_k$ [^3]. 
+
+We suspect that for large values of $d_k$ , the dot products grow large in magnitude, pushing the [[softmax function]] into regions where it has extremely small gradients [^4]. 
+
+To counteract this effect, we scale the dot products by $\frac{1}{\sqrt{d_k}}$.
+
+##### 3.2.2 Multi-Head Attention
+
+Instead of performing a single attention function with $d_\text{model}-\text{dimensional keys}$, values and queries, we found it beneficial to linearly project the queries, keys and values $h$ times with different, learned linear projections to $d_k$ , $d_k$ and $d_v$ dimensions, respectively.
+
+On each of these projected versions of queries, keys and values we then perform the attention function in parallel, yielding $d_v-\text{dimensional output values}$ .
+
+These are concatenated and once again projected, resulting in the final values, as
+depicted in Figure 2.
+
+Multi-head attention allows the model to jointly attend to information from different representation
+subspaces at different positions.
+
+With a single attention head, averaging inhibits this.
 
 # References
 
