@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b46ef178ff811fd",
+        "id": "f374ede925c16626",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc4d85b20b9ea4e",
+            "id": "826df3a4f91b92d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beowulf Architecture.md",
+                "file": "Mutation Testing.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beowulf Architecture.md",
+                "file": "Mutation Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beowulf Architecture.md",
+                "file": "Mutation Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beowulf Architecture.md"
+                "file": "Mutation Testing.md"
               }
             }
           },
@@ -213,8 +213,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ccc4d85b20b9ea4e",
+  "active": "826df3a4f91b92d8",
   "lastOpenFiles": [
+    "Computer Science/Books/Mutation Testing for the New Century.pdf",
+    "Computer Science/Books/Crystal Clean: A Human-Powered Methodology for Small Teams.pdf",
+    "Mutation Testing.md",
     "Beowulf Architecture.md",
     "High Performance Computing.md",
     "Computer Science/Artificial Intelligence/Models/Transform Model/Attention Mechanism.md",
@@ -240,7 +243,6 @@
     "Computer Science/Books/The Architecture of Open Source Applications/The Architecture of Open Source Applications - Volume 2.pdf",
     "Computer Science/Books/The Architecture of Open Source Applications/The Architecture of Open Source Applications - Volume 1.pdf",
     "Computer Science/Books/The Architecture of Open Source Applications/500 Lines or Less.pdf",
-    "Computer Science/Books/The Architecture of Open Source Applications",
     "Attention is All you Need.md",
     "Self-Attention Mechanism.md",
     "End-to-End Memory Network.md",
@@ -251,8 +253,6 @@
     "Upgrade my Workplace.md",
     "ByteNet.md",
     "Computer Science/Machine Learning.md",
-    "Computer Science/Artificial Intelligence/Deep Learning.md",
-    "Neural Network.md",
     "Pasted image 20240608165804.png",
     "Pasted image 20240404201700.png",
     "Assets/Pasted image 20240404201710.png",
