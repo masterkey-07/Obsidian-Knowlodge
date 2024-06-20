@@ -55,8 +55,20 @@ Can be used in [[LaTex]]
 -   `\times \div \pm \mp` ××, ÷÷, ±±, ∓∓. `\cdot` is a centered dot: x⋅yx⋅y
 
 --- 
+
 # For set Theory
--   $\cup \cap \setminus \subset \subseteq \subsetneq \supset \in \notin \emptyset \varnothing$ ∪∪, ∩∩, ∖∖, ⊂⊂, ⊆⊆, ⊊⊊, ⊃⊃, ∈∈, ∉∉, ∅∅, ∅∅
+- $\cup$ 
+- $\cap$ 
+- $\setminus$ 
+- $\subset$ 
+- $\subseteq$ 
+- $\subsetneq$ 
+- $\supset$ 
+- $\in$ 
+- $\notin$ 
+- $\emptyset$ 
+- $\varnothing$
+- ∪∪, ∩∩, ∖∖, ⊂⊂, ⊆⊆, ⊊⊊, ⊃⊃, ∈∈, ∉∉, ∅∅, ∅∅
 
 ---
 

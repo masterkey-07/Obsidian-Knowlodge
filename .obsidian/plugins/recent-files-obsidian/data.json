@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Beowulf Architecture",
+      "path": "Beowulf Architecture.md"
+    },
+    {
+      "basename": "High Performance Computing",
+      "path": "High Performance Computing.md"
+    },
+    {
+      "basename": "Attention Mechanism",
+      "path": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention Mechanism.md"
+    },
+    {
       "basename": "Attention is All you Need",
       "path": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md"
+    },
+    {
+      "basename": "Recurrent Neural Networks",
+      "path": "Computer Science/Recurrent Neural Networks.md"
+    },
+    {
+      "basename": "P100 GPU",
+      "path": "Computer Science/P100 GPU.md"
+    },
+    {
+      "basename": "BLEU Score",
+      "path": "Computer Science/BLEU Score.md"
+    },
+    {
+      "basename": "MathJax",
+      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
     },
     {
       "basename": "attention function",

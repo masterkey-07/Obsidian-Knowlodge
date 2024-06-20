@@ -5,7 +5,6 @@ Is a [[Neural Network]]
 - It seems that Recurrent Models can't use Parallelism...
 
 
-```ad-note
 title: Cited in [[Attention is All you Need]]
 
 Typically factor computation along the symbol positions of the input and output sequences. 
@@ -13,10 +12,8 @@ Typically factor computation along the symbol positions of the input and output 
 Aligning the positions to steps in computation time, they generate a sequence of hidden states $h_t$, as a function of the previous hidden state $h_{t - 1}$ and the input for position $t$. 
 
 This inherently sequential nature precludes parallelization within training examples, which becomes critical at longer sequence lengths, as memory constraints limit batching across examples.
-```
 
 
-```ad-note
 title: Cited in [Wiki - Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
 

@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3077801aa2157bb3",
+        "id": "5b46ef178ff811fd",
         "type": "tabs",
         "children": [
           {
-            "id": "454866b14983f69f",
+            "id": "ccc4d85b20b9ea4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
-                "mode": "source",
+                "file": "Beowulf Architecture.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
+                "file": "Beowulf Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
+                "file": "Beowulf Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md"
+                "file": "Beowulf Architecture.md"
               }
             }
           },
@@ -214,12 +213,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "454866b14983f69f",
+  "active": "ccc4d85b20b9ea4e",
   "lastOpenFiles": [
+    "Beowulf Architecture.md",
+    "High Performance Computing.md",
+    "Computer Science/Artificial Intelligence/Models/Transform Model/Attention Mechanism.md",
+    "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
+    "Computer Science/Recurrent Neural Networks.md",
+    "Computer Science/P100 GPU.md",
+    "Computer Science/BLEU Score.md",
+    "Computer Science/Papers/nohup.out",
+    "Computer Science/Software/Programs/Tools/MathJax.md",
     "Pasted image 20240613224921.png",
     "attention function.md",
-    "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
-    "Computer Science/Papers/nohup.out",
     "Pasted image 20240613215908.png",
     "Decoder.md",
     "Encoder.md",
@@ -247,12 +253,6 @@
     "Computer Science/Machine Learning.md",
     "Computer Science/Artificial Intelligence/Deep Learning.md",
     "Neural Network.md",
-    "Gated Recurrent Neural Networks.md",
-    "Recurrent Neural Networks.md",
-    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
-    "Neural Turing Machine.md",
-    "Computer Science/Artificial Intelligence/Artificial Neuron Model.md",
-    "Neural Machine Translation.md",
     "Pasted image 20240608165804.png",
     "Pasted image 20240404201700.png",
     "Assets/Pasted image 20240404201710.png",
@@ -260,7 +260,6 @@
     "Assets/Pasted image 20240404201652.png",
     "Assets/Pasted image 20240326194314.png",
     "Assets/Pasted image 20240318214413.png",
-    "Assets/Pasted image 20240314194651.png",
-    "Assets/Pasted image 20240311214928.png"
+    "Assets/Pasted image 20240314194651.png"
   ]
 }
