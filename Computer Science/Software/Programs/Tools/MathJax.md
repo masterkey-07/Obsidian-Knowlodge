@@ -6,7 +6,7 @@ Can be used in [[LaTex]]
 
 ## Centered Formulas
 ## $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
-## Greek letters : $\alpha$, $\beta$, $\omega$, $\Gamma$, $\Delta$, $\Omega$, $\epsilon$, $\varepsilon$, $\phi$,  $\varphi$.
+## Greek letters : $\alpha$, $\beta$, $\omega$, $\Gamma$, $\Delta$, $\Omega$, $\epsilon$, $\varepsilon$, $\phi$,  $\varphi$, $\sigma$.
     
 5.  **Groups**. Superscripts, subscripts, and other operations apply only to the next “group”. A “group” is either a single symbol, or any formula surrounded by curly braces `{`…`}`. If you do `10^10`, you will get a surprise: 10101010. But `10^{10}` gives what you probably wanted: 10101010. Use curly braces to delimit a formula to which a superscript or subscript applies: `x^5^6` is an error; `{x^y}^z` is xyzxyz, and `x^{y^z}` is xyzxyz. Observe the differences between `x_i^2` x2ixi2, `x_{i^2}` xi2xi2 and `{x_i}^2` xi2xi2.
     

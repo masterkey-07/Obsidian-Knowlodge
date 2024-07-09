@@ -1,3 +1,5 @@
+Is a [[Probability Distribution]]
+
 ## Equations
 ## $$f(x) = \lambda e^{-\lambda x}$$
 ## $$E(x) = \frac{1}{\lambda}$$

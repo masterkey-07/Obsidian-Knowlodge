@@ -9,7 +9,7 @@
 - # [[Table and Chart Views]]
 - # [[Data Evaluation and Equations]]
 - # [[Basic Concepts of Probability]]
-- # [[Probability Distributions]]
+- # [[Probability Distribution]]
 
 
 # Books

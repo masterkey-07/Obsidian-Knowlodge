@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f374ede925c16626",
+        "id": "7b3c072067b73690",
         "type": "tabs",
         "children": [
           {
-            "id": "826df3a4f91b92d8",
+            "id": "173f310754d0d5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mutation Testing.md",
+                "file": "Self Sovereign Identity.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mutation Testing.md",
+                "file": "Self Sovereign Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mutation Testing.md",
+                "file": "Self Sovereign Identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mutation Testing.md"
+                "file": "Self Sovereign Identity.md"
               }
             }
           },
@@ -213,46 +215,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "826df3a4f91b92d8",
+  "active": "173f310754d0d5df",
   "lastOpenFiles": [
-    "Computer Science/Books/Mutation Testing for the New Century.pdf",
-    "Computer Science/Books/Crystal Clean: A Human-Powered Methodology for Small Teams.pdf",
-    "Mutation Testing.md",
-    "Beowulf Architecture.md",
-    "High Performance Computing.md",
-    "Computer Science/Artificial Intelligence/Models/Transform Model/Attention Mechanism.md",
-    "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
-    "Computer Science/Recurrent Neural Networks.md",
-    "Computer Science/P100 GPU.md",
-    "Computer Science/BLEU Score.md",
-    "Computer Science/Papers/nohup.out",
+    "Self Sovereign Identity.md",
+    "Computer Science/Academy/Slides/PEE*.zip",
+    "Computer Science/Academy/Slides/PEE.zip",
+    "Computer Science/Academy/Slides/PEE2/PEE - Aula 9 - Propriedades de Váriaveis Aleatórias Contínuas e Principais Modelos.pdf",
+    "Computer Science/Academy/Slides/PEE2/PEE - Aula 8 - Principais Modelos Discretos.pdf",
+    "Computer Science/Academy/Slides/PEE2/PEE - Aula 7 - Definição de Variável Aleatória e Propriedades.pdf",
+    "Computer Science/Academy/Slides/PEE2/PEE - Aula 6 - Probabilidade Condicional e Independência.pdf",
+    "Computer Science/Academy/Slides/PEE2/PEE - Aula 5 - Noções Gerais de Probabilidade.pdf",
+    "Computer Science/Academy/Slides/PEE2/PEE - Aula 4 - Boxplot e Medidas de Associação entre Variáveis.pdf",
+    "Computer Science/Academy/Slides/PEE2/PEE - Aula 3 - Medidas de Tendência Central.pdf",
+    "Computer Science/Academy/Slides/PEE2/PEE - Aula 2 - Tabulação de Dados Frequenciais e Gráficos.pdf",
+    "Variance and Standard Deviation Probability Functions.md",
+    "Computer Science/Data Science/Statistics and Probability/Probability Distribution.md",
+    "Accumulated Probability Function.md",
+    "Probability Function.md",
+    "Average of a Probability Distribution.md",
+    "Computer Science/Data Science/Statistics and Probability/Exponential Distribution.md",
+    "Computer Science/Data Science/Statistics and Probability/Normal Distribution.md",
+    "Computer Science/Data Science/Statistics and Probability/Poisson Distribution.md",
+    "Binomial Distribution.md",
+    "Rule Association.md",
     "Computer Science/Software/Programs/Tools/MathJax.md",
+    "Maven.md",
+    "Computer Science/Artificial Intelligence/Artificial Intelligence - Cronograma.md",
+    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
+    "Computer Science/Data Mining.md",
+    "Computer Science/Artificial Intelligence/Machine Learning.md",
+    "Blockchain Project - Smart Grid.md",
+    "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
+    "Computer Science/Artificial Intelligence/Models/Transform Model/Transformer Model.md",
+    "Rectified Linear Unit.md",
+    "Feed-Forward Network.md",
+    "Softmax Function.md",
+    "Computer Science/Theories/Set Theory.md",
+    "Life Goal.md",
+    "WebSockets.md",
     "Pasted image 20240613224921.png",
-    "attention function.md",
     "Pasted image 20240613215908.png",
-    "Decoder.md",
-    "Encoder.md",
-    "Software Design by Example with JavaScript.md",
-    "The Architecture of Open Source Applications.md",
-    "Computer Science/Software/Design/Software Design.md",
-    "Computer Science/Papers/A Blockchain-Based Mechanism for Secure Data Exchange in Smart Grid Protection Systems.pdf",
-    "Computer Science/Papers/Blockchain for Cyber Security in Smart Grid: Comprehensive Survey.pdf",
-    "Computer Science/Papers/M2M Blockchain: The Case of Demand Side Management of Smart Grid.pdf",
-    "Computer Science/Papers/Google - Attention is All you need.pdf",
-    "Computer Science/Papers",
-    "Computer Science/Books/The Architecture of Open Source Applications/The Architecture of Open Source Applications - Volume 2.pdf",
-    "Computer Science/Books/The Architecture of Open Source Applications/The Architecture of Open Source Applications - Volume 1.pdf",
-    "Computer Science/Books/The Architecture of Open Source Applications/500 Lines or Less.pdf",
-    "Attention is All you Need.md",
-    "Self-Attention Mechanism.md",
-    "End-to-End Memory Network.md",
-    "Attention Mechanism.md",
-    "Convolutional Sequence to Sequence Learning.md",
-    "Computer Science/Computer Science.md",
-    "Upgrade my Keyboard.md",
-    "Upgrade my Workplace.md",
-    "ByteNet.md",
-    "Computer Science/Machine Learning.md",
     "Pasted image 20240608165804.png",
     "Pasted image 20240404201700.png",
     "Assets/Pasted image 20240404201710.png",

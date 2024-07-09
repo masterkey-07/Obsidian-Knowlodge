@@ -116,7 +116,7 @@ We call our particular attention "Scaled Dot-Product Attention" .
 
 The input consists of queries and keys of dimension $d_k$ , and values of dimension $d_v$ . 
 
-We compute the dot products of the query with all keys, divide each by $sqrt{d_k}$ , and apply a [[softmax function]] to obtain the weights on the In practice, we compute the [[attention function]] on a set of queries simultaneously, packed together into a matrix $Q$. 
+We compute the dot products of the query with all keys, divide each by $sqrt{d_k}$ , and apply a [[Softmax Function]] to obtain the weights on the In practice, we compute the [[attention function]] on a set of queries simultaneously, packed together into a matrix $Q$. 
 
 The keys and values are also packed together into matrices $K$ and $V$.
 
@@ -134,7 +134,7 @@ While the two are similar in theoretical complexity, [[Dot-Product Attention]] i
 
 While for small values of $d_k$ the two mechanisms perform similarly, [[Additive Attention]] outperforms [[Dot-Product Attention]] without scaling for larger values of $d_k$ [^3]. 
 
-We suspect that for large values of $d_k$ , the dot products grow large in magnitude, pushing the [[softmax function]] into regions where it has extremely small gradients [^4]. 
+We suspect that for large values of $d_k$ , the dot products grow large in magnitude, pushing the [[Softmax Function]] into regions where it has extremely small gradients [^4]. 
 
 To counteract this effect, we scale the dot products by $\frac{1}{\sqrt{d_k}}$.
 
