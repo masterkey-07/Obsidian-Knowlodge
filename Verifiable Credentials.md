@@ -1,0 +1,1 @@
+Defined and standardized by [[World Wide Web Consortium|W3C]] here [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/)

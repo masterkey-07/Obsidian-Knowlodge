@@ -1,5 +1,3 @@
- #task 
-
 # What is [[Productivity]] ?
 
 ### The process to eliminate tasks to be done mentally and give to the software/paper to handle.
@@ -11,14 +9,12 @@ The Brain is for Creating Ideas Not Holding It...
 
 ```
 
-
-
 # Tools to use for [[Productivity]]
 
 ## Life Organization
+
 - ## Task Manager : [[Stuff (Android)]]
-- ## Calendar : [[Stuff (Android)]] 
-	
+- ## Calendar : [[Stuff (Android)]]
 
 ## Knowlodge Organization
 

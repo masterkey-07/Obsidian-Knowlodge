@@ -1,3 +1,10 @@
+# Self Authoring
+
+- [[Past Authoring]]
+- [[Present Authoring - Virtues]]
+- [[Present Authoring - Faults]]
+- [[Future Authoring]]
+
 
 # My Dogmas
 - ## I Should to [[Make Everything Simple]]

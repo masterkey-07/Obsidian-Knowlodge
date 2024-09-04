@@ -1,5 +1,3 @@
-#note 
-
 ### Though : [[Fuzzy Finder]] is a [[Approximation Algorithms]]?
 
 ^fd2ca2

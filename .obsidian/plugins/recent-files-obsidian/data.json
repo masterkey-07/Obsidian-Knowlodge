@@ -1,8 +1,176 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Project - Smartgrid",
+      "path": "AI Project - Smartgrid.md"
+    },
+    {
+      "basename": "Pathfinder Kingmaker",
+      "path": "Pathfinder Kingmaker.md"
+    },
+    {
+      "basename": "Pillars of Eternity",
+      "path": "Pillars of Eternity.md"
+    },
+    {
+      "basename": "Blockchain Project - Smart Grid",
+      "path": "Blockchain Project - Smart Grid.md"
+    },
+    {
+      "basename": "Blockchain",
+      "path": "Computer Science/Blockchain/Blockchain.md"
+    },
+    {
+      "basename": "Smart Grid",
+      "path": "Computer Science/Smart Grid.md"
+    },
+    {
+      "basename": "Artificial Intelligence",
+      "path": "Computer Science/Artificial Intelligence/Artificial Intelligence.md"
+    },
+    {
+      "basename": "Statistic and Probability Project - Analysis of SP156",
+      "path": "Statistic and Probability Project - Analysis of SP156.md"
+    },
+    {
+      "basename": "UNIFESP Projects",
+      "path": "UNIFESP Projects.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Personal/Lists/Projects.md"
+    },
+    {
+      "basename": "Transformer Model",
+      "path": "Computer Science/Artificial Intelligence/Models/Transform Model/Transformer Model.md"
+    },
+    {
+      "basename": "Non-Fungible Tokens",
+      "path": "Non-Fungible Tokens.md"
+    },
+    {
+      "basename": "Fungible",
+      "path": "Fungible.md"
+    },
+    {
+      "basename": "Blockchain System to Deal Cyber Security Risks on Critical Process",
+      "path": "Blockchain System to Deal Cyber Security Risks on Critical Process.md"
+    },
+    {
+      "basename": "Basic Concepts of Probability",
+      "path": "Computer Science/Data Science/Statistics and Probability/Basic Concepts of Probability.md"
+    },
+    {
+      "basename": "InterPlanetary File System",
+      "path": "InterPlanetary File System.md"
+    },
+    {
+      "basename": "PEE - Aula 6 - Probabilidade Condicional e Independência",
+      "path": "Computer Science/Academy/Slides/PEE/PEE - Aula 6 - Probabilidade Condicional e Independência.pdf"
+    },
+    {
+      "basename": "Statistics and Probability",
+      "path": "Computer Science/Data Science/Statistics and Probability/Statistics and Probability.md"
+    },
+    {
+      "basename": "Bayes' Theorem",
+      "path": "Bayes' Theorem.md"
+    },
+    {
+      "basename": "MathJax",
+      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
+    },
+    {
+      "basename": "Spearman's Rank Correlation Coefficient",
+      "path": "Spearman's Rank Correlation Coefficient.md"
+    },
+    {
+      "basename": "Possible Dream Enterprises",
+      "path": "Possible Dream Enterprises.md"
+    },
+    {
+      "basename": "Master Theorem",
+      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Master Theorem.md"
+    },
+    {
+      "basename": "Past Authoring",
+      "path": "Past Authoring.md"
+    },
+    {
+      "basename": "Present Authoring - Virtues",
+      "path": "Present Authoring - Virtues.md"
+    },
+    {
+      "basename": "Present Authoring - Faults",
+      "path": "Present Authoring - Faults.md"
+    },
+    {
+      "basename": "Future Authoring",
+      "path": "Future Authoring.md"
+    },
+    {
+      "basename": "Personal",
+      "path": "Personal/Personal.md"
+    },
+    {
+      "basename": "Cryptocoin",
+      "path": "Computer Science/Blockchain/Cryptocoin.md"
+    },
+    {
       "basename": "Self Sovereign Identity",
       "path": "Self Sovereign Identity.md"
+    },
+    {
+      "basename": "Calculus 2 Tasks",
+      "path": "Calculus 2 Tasks.md"
+    },
+    {
+      "basename": "Notes to Process",
+      "path": "Notes to Process.md"
+    },
+    {
+      "basename": "Application Layer",
+      "path": "Computer Science/Network/Application Layer.md"
+    },
+    {
+      "basename": "Concurrency",
+      "path": "Computer Science/Software/Concurrency.md"
+    },
+    {
+      "basename": "Extreme Programming",
+      "path": "Computer Science/Extreme Programming.md"
+    },
+    {
+      "basename": "Web Game using Spring and Websockets",
+      "path": "Web Game using Spring and Websockets.md"
+    },
+    {
+      "basename": "Develop My Own Raycasting Game",
+      "path": "Develop My Own Raycasting Game.md"
+    },
+    {
+      "basename": "Keep Knowlodge",
+      "path": "Personal/Keep Knowlodge.md"
+    },
+    {
+      "basename": "OAuth",
+      "path": "OAuth.md"
+    },
+    {
+      "basename": "Verifiable Credentials",
+      "path": "Verifiable Credentials.md"
+    },
+    {
+      "basename": "World Wide Web Consortium",
+      "path": "World Wide Web Consortium.md"
+    },
+    {
+      "basename": "Decentralized Identifiers",
+      "path": "Decentralized Identifiers.md"
+    },
+    {
+      "basename": "Self Sovereign Identity 2024-07-08 21.42.50.excalidraw",
+      "path": "Excalidraw/Self Sovereign Identity 2024-07-08 21.42.50.excalidraw.md"
     },
     {
       "basename": "Variance and Standard Deviation Probability Functions",
@@ -31,174 +199,6 @@
     {
       "basename": "Normal Distribution",
       "path": "Computer Science/Data Science/Statistics and Probability/Normal Distribution.md"
-    },
-    {
-      "basename": "Poisson Distribution",
-      "path": "Computer Science/Data Science/Statistics and Probability/Poisson Distribution.md"
-    },
-    {
-      "basename": "Binomial Distribution",
-      "path": "Binomial Distribution.md"
-    },
-    {
-      "basename": "Rule Association",
-      "path": "Rule Association.md"
-    },
-    {
-      "basename": "MathJax",
-      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
-    },
-    {
-      "basename": "Maven",
-      "path": "Maven.md"
-    },
-    {
-      "basename": "Artificial Intelligence - Cronograma",
-      "path": "Computer Science/Artificial Intelligence/Artificial Intelligence - Cronograma.md"
-    },
-    {
-      "basename": "Artificial Intelligence",
-      "path": "Computer Science/Artificial Intelligence/Artificial Intelligence.md"
-    },
-    {
-      "basename": "Data Mining",
-      "path": "Computer Science/Data Mining.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Computer Science/Artificial Intelligence/Machine Learning.md"
-    },
-    {
-      "basename": "Blockchain Project - Smart Grid",
-      "path": "Blockchain Project - Smart Grid.md"
-    },
-    {
-      "basename": "Attention is All you Need",
-      "path": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md"
-    },
-    {
-      "basename": "Transformer Model",
-      "path": "Computer Science/Artificial Intelligence/Models/Transform Model/Transformer Model.md"
-    },
-    {
-      "basename": "Rectified Linear Unit",
-      "path": "Rectified Linear Unit.md"
-    },
-    {
-      "basename": "Feed-Forward Network",
-      "path": "Feed-Forward Network.md"
-    },
-    {
-      "basename": "Softmax Function",
-      "path": "Softmax Function.md"
-    },
-    {
-      "basename": "Set Theory",
-      "path": "Computer Science/Theories/Set Theory.md"
-    },
-    {
-      "basename": "Life Goal",
-      "path": "Life Goal.md"
-    },
-    {
-      "basename": "WebSockets",
-      "path": "WebSockets.md"
-    },
-    {
-      "basename": "Transmission Control Protocol",
-      "path": "Transmission Control Protocol.md"
-    },
-    {
-      "basename": "Transport Layer",
-      "path": "Computer Science/Network/Transport Layer.md"
-    },
-    {
-      "basename": "Gradle",
-      "path": "Gradle.md"
-    },
-    {
-      "basename": "Java",
-      "path": "Computer Science/Software/Programming/Languages/Java.md"
-    },
-    {
-      "basename": "JAR vs WAR",
-      "path": "JAR vs WAR.md"
-    },
-    {
-      "basename": "WAR (Web ARchive)",
-      "path": "WAR (Web ARchive).md"
-    },
-    {
-      "basename": "JAR (Java ARchive)",
-      "path": "JAR (Java ARchive).md"
-    },
-    {
-      "basename": "Spring Boot",
-      "path": "Spring Boot.md"
-    },
-    {
-      "basename": "Extreme Programming",
-      "path": "Computer Science/Extreme Programming.md"
-    },
-    {
-      "basename": "Mutation Testing",
-      "path": "Mutation Testing.md"
-    },
-    {
-      "basename": "Beowulf Architecture",
-      "path": "Beowulf Architecture.md"
-    },
-    {
-      "basename": "High Performance Computing",
-      "path": "High Performance Computing.md"
-    },
-    {
-      "basename": "Attention Mechanism",
-      "path": "Computer Science/Artificial Intelligence/Models/Transform Model/Attention Mechanism.md"
-    },
-    {
-      "basename": "Recurrent Neural Networks",
-      "path": "Computer Science/Recurrent Neural Networks.md"
-    },
-    {
-      "basename": "P100 GPU",
-      "path": "Computer Science/P100 GPU.md"
-    },
-    {
-      "basename": "BLEU Score",
-      "path": "Computer Science/BLEU Score.md"
-    },
-    {
-      "basename": "attention function",
-      "path": "attention function.md"
-    },
-    {
-      "basename": "Decoder",
-      "path": "Decoder.md"
-    },
-    {
-      "basename": "Encoder",
-      "path": "Encoder.md"
-    },
-    {
-      "basename": "Software Design by Example with JavaScript",
-      "path": "Software Design by Example with JavaScript.md"
-    },
-    {
-      "basename": "The Architecture of Open Source Applications",
-      "path": "The Architecture of Open Source Applications.md"
-    },
-    {
-      "basename": "Software Design",
-      "path": "Computer Science/Software/Design/Software Design.md"
-    },
-    {
-      "basename": "Attention is All you Need",
-      "path": "Attention is All you Need.md"
-    },
-    {
-      "basename": "Self-Attention Mechanism",
-      "path": "Self-Attention Mechanism.md"
     }
   ],
   "omittedPaths": []

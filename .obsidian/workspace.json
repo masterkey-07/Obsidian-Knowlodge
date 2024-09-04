@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3c072067b73690",
+        "id": "83b6def06aef4dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "173f310754d0d5df",
+            "id": "41ef5941f07b756c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Sovereign Identity.md",
+                "file": "AI Project - Smartgrid.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\sum",
+                "query": "EXTREME",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5026054382324,
-    "collapsed": true
+    "width": 381.5026054382324
   },
   "right": {
     "id": "0bf7d3ca238183bf",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Sovereign Identity.md",
+                "file": "AI Project - Smartgrid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Sovereign Identity.md",
+                "file": "AI Project - Smartgrid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Sovereign Identity.md"
+                "file": "AI Project - Smartgrid.md"
               }
             }
           },
@@ -215,9 +214,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "173f310754d0d5df",
+  "active": "41ef5941f07b756c",
   "lastOpenFiles": [
-    "Self Sovereign Identity.md",
+    "Pathfinder Kingmaker.md",
+    "Pillars of Eternity.md",
+    "AI Project - Smartgrid.md",
+    "Blockchain Project - Smart Grid.md",
+    "Games.md",
+    "Computer Science/Blockchain/Blockchain.md",
+    "Computer Science/Smart Grid.md",
+    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
+    "Statistic and Probability Project - Analysis of SP156.md",
+    "UNIFESP Projects.md",
+    "Personal/Lists/Projects.md",
+    "Computer Science/Artificial Intelligence/Models/Transform Model/Transformer Model.md",
+    "Non-Fungible Tokens.md",
+    "Fungible.md",
+    "Blockchain System to Deal Cyber Security Risks on Critical Process.md",
+    "Computer Science/Data Science/Statistics and Probability/Basic Concepts of Probability.md",
+    "InterPlanetary File System.md",
+    "Computer Science/Academy/Slides/PEE/PEE - Aula 6 - Probabilidade Condicional e Independência.pdf",
+    "Computer Science/Data Science/Statistics and Probability/Statistics and Probability.md",
+    "Bayes' Theorem.md",
+    "Computer Science/Software/Programs/Tools/MathJax.md",
+    "Spearman's Rank Correlation Coefficient.md",
+    "Possible Dream Enterprises.md",
+    "Untitled 1.md",
+    "Computer Science/Theories/Computation Theory/Algorithm Analysis/Master Theorem.md",
+    "Past Authoring.md",
+    "Present Authoring - Virtues.md",
     "Computer Science/Academy/Slides/PEE*.zip",
     "Computer Science/Academy/Slides/PEE.zip",
     "Computer Science/Academy/Slides/PEE2/PEE - Aula 9 - Propriedades de Váriaveis Aleatórias Contínuas e Principais Modelos.pdf",
@@ -227,32 +252,6 @@
     "Computer Science/Academy/Slides/PEE2/PEE - Aula 5 - Noções Gerais de Probabilidade.pdf",
     "Computer Science/Academy/Slides/PEE2/PEE - Aula 4 - Boxplot e Medidas de Associação entre Variáveis.pdf",
     "Computer Science/Academy/Slides/PEE2/PEE - Aula 3 - Medidas de Tendência Central.pdf",
-    "Computer Science/Academy/Slides/PEE2/PEE - Aula 2 - Tabulação de Dados Frequenciais e Gráficos.pdf",
-    "Variance and Standard Deviation Probability Functions.md",
-    "Computer Science/Data Science/Statistics and Probability/Probability Distribution.md",
-    "Accumulated Probability Function.md",
-    "Probability Function.md",
-    "Average of a Probability Distribution.md",
-    "Computer Science/Data Science/Statistics and Probability/Exponential Distribution.md",
-    "Computer Science/Data Science/Statistics and Probability/Normal Distribution.md",
-    "Computer Science/Data Science/Statistics and Probability/Poisson Distribution.md",
-    "Binomial Distribution.md",
-    "Rule Association.md",
-    "Computer Science/Software/Programs/Tools/MathJax.md",
-    "Maven.md",
-    "Computer Science/Artificial Intelligence/Artificial Intelligence - Cronograma.md",
-    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
-    "Computer Science/Data Mining.md",
-    "Computer Science/Artificial Intelligence/Machine Learning.md",
-    "Blockchain Project - Smart Grid.md",
-    "Computer Science/Artificial Intelligence/Models/Transform Model/Attention is All you Need.md",
-    "Computer Science/Artificial Intelligence/Models/Transform Model/Transformer Model.md",
-    "Rectified Linear Unit.md",
-    "Feed-Forward Network.md",
-    "Softmax Function.md",
-    "Computer Science/Theories/Set Theory.md",
-    "Life Goal.md",
-    "WebSockets.md",
     "Pasted image 20240613224921.png",
     "Pasted image 20240613215908.png",
     "Pasted image 20240608165804.png",

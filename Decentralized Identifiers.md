@@ -1,0 +1,1 @@
+Defined and standardized by [[World Wide Web Consortium|W3C]] here [Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)

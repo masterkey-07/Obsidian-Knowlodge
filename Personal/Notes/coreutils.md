@@ -1,3 +1,1 @@
- #note
-
-### Command Line Tools for [[Linux]]   
+### Command Line Tools for [[Linux]]

@@ -1,5 +1,3 @@
-#tolearn 
-
 Concept of [[DevOps]]
 
 # Example : Terraform and Puppet

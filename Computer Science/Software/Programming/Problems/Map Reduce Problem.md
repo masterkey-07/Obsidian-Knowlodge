@@ -1,5 +1,3 @@
-#task 
-
 ### About : Finish the Operational System Task 2
 
 # Description
