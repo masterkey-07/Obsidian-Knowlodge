@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Compilers",
+      "path": "Compilers.md"
+    },
+    {
+      "basename": "Syntax Parsing",
+      "path": "Syntax Parsing.md"
+    },
+    {
+      "basename": "Lexical Analysis",
+      "path": "Lexical Analysis.md"
+    },
+    {
+      "basename": "Finite Automata",
+      "path": "Finite Automata.md"
+    },
+    {
+      "basename": "Semantic Analysis",
+      "path": "Semantic Analysis.md"
+    },
+    {
+      "basename": "PPC_BCC_2023 aprovado",
+      "path": "Assets/PPC_BCC_2023 aprovado.pdf"
+    },
+    {
+      "basename": "Unifesp",
+      "path": "Computer Science/Academy/Unifesp.md"
+    },
+    {
+      "basename": "Statistic and Probability Project - Analysis of SP156",
+      "path": "Statistic and Probability Project - Analysis of SP156.md"
+    },
+    {
       "basename": "AI Project - Smartgrid",
       "path": "AI Project - Smartgrid.md"
     },
@@ -27,10 +59,6 @@
     {
       "basename": "Artificial Intelligence",
       "path": "Computer Science/Artificial Intelligence/Artificial Intelligence.md"
-    },
-    {
-      "basename": "Statistic and Probability Project - Analysis of SP156",
-      "path": "Statistic and Probability Project - Analysis of SP156.md"
     },
     {
       "basename": "UNIFESP Projects",
@@ -171,34 +199,6 @@
     {
       "basename": "Self Sovereign Identity 2024-07-08 21.42.50.excalidraw",
       "path": "Excalidraw/Self Sovereign Identity 2024-07-08 21.42.50.excalidraw.md"
-    },
-    {
-      "basename": "Variance and Standard Deviation Probability Functions",
-      "path": "Variance and Standard Deviation Probability Functions.md"
-    },
-    {
-      "basename": "Probability Distribution",
-      "path": "Computer Science/Data Science/Statistics and Probability/Probability Distribution.md"
-    },
-    {
-      "basename": "Accumulated Probability Function",
-      "path": "Accumulated Probability Function.md"
-    },
-    {
-      "basename": "Probability Function",
-      "path": "Probability Function.md"
-    },
-    {
-      "basename": "Average of a Probability Distribution",
-      "path": "Average of a Probability Distribution.md"
-    },
-    {
-      "basename": "Exponential Distribution",
-      "path": "Computer Science/Data Science/Statistics and Probability/Exponential Distribution.md"
-    },
-    {
-      "basename": "Normal Distribution",
-      "path": "Computer Science/Data Science/Statistics and Probability/Normal Distribution.md"
     }
   ],
   "omittedPaths": []

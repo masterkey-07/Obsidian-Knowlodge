@@ -16,11 +16,11 @@ Documentação Oficial de 2023: [[PPC_BCC_2023 aprovado.pdf]]
 	- [x] Algoritmos e Estrutura de Dados I
 - [ ] Terceiro Termo
 	- [x] Interdisciplinar (2 Créditos)
-	- [ ] Probabilidade e Estatística
+	- [x] Probabilidade e Estatística
 	- [ ] Cálculo em Várias Variáveis
 	- [x] Circuitos Digitais
 	- [x] Algoritmos e Estrutura de Dados II
-	- [x] Álgebra Linear 
+	- [ ] Álgebra Linear
 - [ ] Quarto Termo
 	- [x] Interdisciplinar (2 Créditos)
 	- [x] Banco de Dados
@@ -30,7 +30,7 @@ Documentação Oficial de 2023: [[PPC_BCC_2023 aprovado.pdf]]
 	- [ ] Cálculo Numérico
 - [ ] Quinto Termo
 	- [x] Interdisciplinar (2 Créditos)
-	- [ ] Inteligẽncia Artificial
+	- [x] Inteligẽncia Artificial
 	- [x] Projetos Orientado a Objetos
 	- [x] Linguagens Formais e Autômatos
 	- [ ] Teoria dos Grafos
@@ -47,8 +47,8 @@ Documentação Oficial de 2023: [[PPC_BCC_2023 aprovado.pdf]]
 	- [x] Eletiva A-I (36 horas) [Grupo 2]: Algoritmo em Bioinformatica
 	- [x] Eletiva B-I (36 horas) [Grupo 2]: Algoritmo em Bioinformatica
 	- [x] Eletiva A-II (36 horas) [Eletiva Extensionista]: Seminários Interdisciplinares
-	- [ ] Eletiva B-II (36 horas) [Grupo 2]
-	- [ ] Eletiva A-III (36 horas) [Grupo 2]
+	- [x] Eletiva B-II (36 horas) [Grupo 2]: Blockchain
+	- [x] Eletiva A-III (36 horas) [Grupo 2]: Blockchain
 	- [ ] Eletiva B-III (36 horas) [Grupo 3]
 - [ ] Oitavo Termo
 	- [ ] TCC II
@@ -58,5 +58,3 @@ Documentação Oficial de 2023: [[PPC_BCC_2023 aprovado.pdf]]
 	- [ ] Eletiva B-V (36 horas) [Grupo 4]
 	- [ ] Eletiva A-VI (36 horas) [Grupo 4]
 	- [ ] Eletiva B-VI (36 horas) [Grupo 4]
-- [ ] Extras
-    - [x] Interação Humano Computador 
