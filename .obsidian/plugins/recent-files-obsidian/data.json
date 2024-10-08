@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Electrical Circuits",
+      "path": "Electrical Circuits.md"
+    },
+    {
       "basename": "Compilers",
       "path": "Compilers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Decentralized Identifiers",
       "path": "Decentralized Identifiers.md"
-    },
-    {
-      "basename": "Self Sovereign Identity 2024-07-08 21.42.50.excalidraw",
-      "path": "Excalidraw/Self Sovereign Identity 2024-07-08 21.42.50.excalidraw.md"
     }
   ],
   "omittedPaths": []
