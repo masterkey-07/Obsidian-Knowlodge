@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Electrical Circuits",
-      "path": "Electrical Circuits.md"
+      "basename": "WebGL",
+      "path": "WebGL.md"
     },
     {
-      "basename": "Compilers",
-      "path": "Compilers.md"
-    },
-    {
-      "basename": "Syntax Parsing",
-      "path": "Syntax Parsing.md"
+      "basename": "Computer Graphics",
+      "path": "Computer Graphics.md"
     },
     {
       "basename": "Lexical Analysis",
       "path": "Lexical Analysis.md"
     },
     {
+      "basename": "Deterministic Finite Automata",
+      "path": "Computer Science/Theories/Computation Theory/Automata Theory/Deterministic Finite Automata.md"
+    },
+    {
+      "basename": "Non Deterministic Finite Automata",
+      "path": "Computer Science/Theories/Computation Theory/Automata Theory/Non Deterministic Finite Automata.md"
+    },
+    {
+      "basename": "Regular Expression",
+      "path": "Computer Science/Software/Programs/Tools/Regular Expression.md"
+    },
+    {
       "basename": "Finite Automata",
       "path": "Finite Automata.md"
+    },
+    {
+      "basename": "Compilers",
+      "path": "Compilers.md"
+    },
+    {
+      "basename": "Electrical Circuits",
+      "path": "Electrical Circuits.md"
+    },
+    {
+      "basename": "Syntax Parsing",
+      "path": "Syntax Parsing.md"
     },
     {
       "basename": "Semantic Analysis",
@@ -175,30 +195,6 @@
     {
       "basename": "Web Game using Spring and Websockets",
       "path": "Web Game using Spring and Websockets.md"
-    },
-    {
-      "basename": "Develop My Own Raycasting Game",
-      "path": "Develop My Own Raycasting Game.md"
-    },
-    {
-      "basename": "Keep Knowlodge",
-      "path": "Personal/Keep Knowlodge.md"
-    },
-    {
-      "basename": "OAuth",
-      "path": "OAuth.md"
-    },
-    {
-      "basename": "Verifiable Credentials",
-      "path": "Verifiable Credentials.md"
-    },
-    {
-      "basename": "World Wide Web Consortium",
-      "path": "World Wide Web Consortium.md"
-    },
-    {
-      "basename": "Decentralized Identifiers",
-      "path": "Decentralized Identifiers.md"
     }
   ],
   "omittedPaths": []
