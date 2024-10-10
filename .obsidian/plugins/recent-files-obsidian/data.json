@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Valgrind",
+      "path": "Valgrind.md"
+    },
+    {
+      "basename": "Distributed and Concurrent Programming",
+      "path": "Computer Science/Software/Distributed and Concurrent Programming.md"
+    },
+    {
+      "basename": "Concurrency",
+      "path": "Concurrency.md"
+    },
+    {
+      "basename": "Drawing 2024-10-08 22.20.14.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-08 22.20.14.excalidraw.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Computer Science/Software/Programming/Languages/Python.md"
+    },
+    {
+      "basename": "Parallelism",
+      "path": "Parallelism.md"
+    },
+    {
+      "basename": "Web Application Archtecture",
+      "path": "Computer Science/Software/Development/Web Development/Web Application Archtecture.md"
+    },
+    {
       "basename": "WebGL",
       "path": "WebGL.md"
     },
@@ -171,30 +199,6 @@
     {
       "basename": "Self Sovereign Identity",
       "path": "Self Sovereign Identity.md"
-    },
-    {
-      "basename": "Calculus 2 Tasks",
-      "path": "Calculus 2 Tasks.md"
-    },
-    {
-      "basename": "Notes to Process",
-      "path": "Notes to Process.md"
-    },
-    {
-      "basename": "Application Layer",
-      "path": "Computer Science/Network/Application Layer.md"
-    },
-    {
-      "basename": "Concurrency",
-      "path": "Computer Science/Software/Concurrency.md"
-    },
-    {
-      "basename": "Extreme Programming",
-      "path": "Computer Science/Extreme Programming.md"
-    },
-    {
-      "basename": "Web Game using Spring and Websockets",
-      "path": "Web Game using Spring and Websockets.md"
     }
   ],
   "omittedPaths": []

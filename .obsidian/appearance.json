@@ -6,7 +6,6 @@
   "showViewHeader": false,
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "background",
-    "main"
+    "background"
   ]
 }
