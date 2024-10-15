@@ -1,6 +1,150 @@
 {
   "recentFiles": [
     {
+      "basename": "Compiler",
+      "path": "Compiler.md"
+    },
+    {
+      "basename": "Mermaid Class Diagram",
+      "path": "Computer Science/Software/Programs/Application/Obsidian/Mermaid Class Diagram.md"
+    },
+    {
+      "basename": "Mermaid",
+      "path": "Computer Science/Software/Programs/Application/Obsidian/Mermaid.md"
+    },
+    {
+      "basename": "Mermaid Flowchar Diagram",
+      "path": "Computer Science/Software/Programs/Application/Obsidian/Mermaid Flowchar Diagram.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "Non Deterministic Finite Automata",
+      "path": "Computer Science/Theories/Computation Theory/Automata Theory/Non Deterministic Finite Automata.md"
+    },
+    {
+      "basename": "Non Deterministic Finite Automata 2023-03-29 21.22.48.excalidraw",
+      "path": "Excalidraw/Non Deterministic Finite Automata 2023-03-29 21.22.48.excalidraw.md"
+    },
+    {
+      "basename": "Lexical Analysis",
+      "path": "Lexical Analysis.md"
+    },
+    {
+      "basename": "Computer Graphics",
+      "path": "Computer Graphics.md"
+    },
+    {
+      "basename": "Apache Guacamole",
+      "path": "Computer Science/Software/Programs/Application/Apache Guacamole.md"
+    },
+    {
+      "basename": "Algorithm Analysis",
+      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Algorithm Analysis.md"
+    },
+    {
+      "basename": "Introduction to Algorithms",
+      "path": "Computer Science/Books/Algorithms/Introduction to Algorithms/Introduction to Algorithms.pdf"
+    },
+    {
+      "basename": "Huffman Coding",
+      "path": "Computer Science/Software/Programming/Algorithms/Huffman Coding.md"
+    },
+    {
+      "basename": "Greedy Algorithm",
+      "path": "Computer Science/Software/Programming/Methods/Greedy Algorithm.md"
+    },
+    {
+      "basename": "Substitution Analysis",
+      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Substitution Analysis.md"
+    },
+    {
+      "basename": "Master Theorem",
+      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Master Theorem.md"
+    },
+    {
+      "basename": "Clean Archtecture",
+      "path": "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md"
+    },
+    {
+      "basename": "Unifesp",
+      "path": "Computer Science/Academy/Unifesp.md"
+    },
+    {
+      "basename": "Semantic Analysis",
+      "path": "Semantic Analysis.md"
+    },
+    {
+      "basename": "Tombstone Diagram",
+      "path": "Tombstone Diagram.md"
+    },
+    {
+      "basename": "Compiler 2024-10-14 20.13.49.excalidraw",
+      "path": "Excalidraw/Compiler 2024-10-14 20.13.49.excalidraw.md"
+    },
+    {
+      "basename": "Tombstone Diagram 2024-10-14 20.50.53.excalidraw",
+      "path": "Excalidraw/Tombstone Diagram 2024-10-14 20.50.53.excalidraw.md"
+    },
+    {
+      "basename": "Compiler 2024-10-14 20.01.49.excalidraw",
+      "path": "Excalidraw/Compiler 2024-10-14 20.01.49.excalidraw.md"
+    },
+    {
+      "basename": "Syntax Analysis",
+      "path": "Syntax Analysis.md"
+    },
+    {
+      "basename": "Syntax Analysis 2024-10-14 19.50.39.excalidraw",
+      "path": "Excalidraw/Syntax Analysis 2024-10-14 19.50.39.excalidraw.md"
+    },
+    {
+      "basename": "Debugger",
+      "path": "Debugger.md"
+    },
+    {
+      "basename": "Gerador de Perfil de Program",
+      "path": "Gerador de Perfil de Program.md"
+    },
+    {
+      "basename": "Pre-processor",
+      "path": "Pre-processor.md"
+    },
+    {
+      "basename": "Macros in Rust",
+      "path": "Computer Science/Software/Programming/Languages/Rust/Macros in Rust.md"
+    },
+    {
+      "basename": "Loader",
+      "path": "Loader.md"
+    },
+    {
+      "basename": "Linker",
+      "path": "Linker.md"
+    },
+    {
+      "basename": "Assembler",
+      "path": "Assembler.md"
+    },
+    {
+      "basename": "C",
+      "path": "Computer Science/Software/Programming/Languages/C.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Computer Science/Software/Programming/Languages/Python.md"
+    },
+    {
+      "basename": "Interpreter",
+      "path": "Interpreter.md"
+    },
+    {
+      "basename": "Compilers 2024-10-14 19.28.50.excalidraw",
+      "path": "Excalidraw/Compilers 2024-10-14 19.28.50.excalidraw.md"
+    },
+    {
       "basename": "Valgrind",
       "path": "Valgrind.md"
     },
@@ -17,10 +161,6 @@
       "path": "Excalidraw/Drawing 2024-10-08 22.20.14.excalidraw.md"
     },
     {
-      "basename": "Python",
-      "path": "Computer Science/Software/Programming/Languages/Python.md"
-    },
-    {
       "basename": "Parallelism",
       "path": "Parallelism.md"
     },
@@ -33,20 +173,8 @@
       "path": "WebGL.md"
     },
     {
-      "basename": "Computer Graphics",
-      "path": "Computer Graphics.md"
-    },
-    {
-      "basename": "Lexical Analysis",
-      "path": "Lexical Analysis.md"
-    },
-    {
       "basename": "Deterministic Finite Automata",
       "path": "Computer Science/Theories/Computation Theory/Automata Theory/Deterministic Finite Automata.md"
-    },
-    {
-      "basename": "Non Deterministic Finite Automata",
-      "path": "Computer Science/Theories/Computation Theory/Automata Theory/Non Deterministic Finite Automata.md"
     },
     {
       "basename": "Regular Expression",
@@ -57,28 +185,12 @@
       "path": "Finite Automata.md"
     },
     {
-      "basename": "Compilers",
-      "path": "Compilers.md"
-    },
-    {
       "basename": "Electrical Circuits",
       "path": "Electrical Circuits.md"
     },
     {
-      "basename": "Syntax Parsing",
-      "path": "Syntax Parsing.md"
-    },
-    {
-      "basename": "Semantic Analysis",
-      "path": "Semantic Analysis.md"
-    },
-    {
       "basename": "PPC_BCC_2023 aprovado",
       "path": "Assets/PPC_BCC_2023 aprovado.pdf"
-    },
-    {
-      "basename": "Unifesp",
-      "path": "Computer Science/Academy/Unifesp.md"
     },
     {
       "basename": "Statistic and Probability Project - Analysis of SP156",
@@ -87,118 +199,6 @@
     {
       "basename": "AI Project - Smartgrid",
       "path": "AI Project - Smartgrid.md"
-    },
-    {
-      "basename": "Pathfinder Kingmaker",
-      "path": "Pathfinder Kingmaker.md"
-    },
-    {
-      "basename": "Pillars of Eternity",
-      "path": "Pillars of Eternity.md"
-    },
-    {
-      "basename": "Blockchain Project - Smart Grid",
-      "path": "Blockchain Project - Smart Grid.md"
-    },
-    {
-      "basename": "Blockchain",
-      "path": "Computer Science/Blockchain/Blockchain.md"
-    },
-    {
-      "basename": "Smart Grid",
-      "path": "Computer Science/Smart Grid.md"
-    },
-    {
-      "basename": "Artificial Intelligence",
-      "path": "Computer Science/Artificial Intelligence/Artificial Intelligence.md"
-    },
-    {
-      "basename": "UNIFESP Projects",
-      "path": "UNIFESP Projects.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Personal/Lists/Projects.md"
-    },
-    {
-      "basename": "Transformer Model",
-      "path": "Computer Science/Artificial Intelligence/Models/Transform Model/Transformer Model.md"
-    },
-    {
-      "basename": "Non-Fungible Tokens",
-      "path": "Non-Fungible Tokens.md"
-    },
-    {
-      "basename": "Fungible",
-      "path": "Fungible.md"
-    },
-    {
-      "basename": "Blockchain System to Deal Cyber Security Risks on Critical Process",
-      "path": "Blockchain System to Deal Cyber Security Risks on Critical Process.md"
-    },
-    {
-      "basename": "Basic Concepts of Probability",
-      "path": "Computer Science/Data Science/Statistics and Probability/Basic Concepts of Probability.md"
-    },
-    {
-      "basename": "InterPlanetary File System",
-      "path": "InterPlanetary File System.md"
-    },
-    {
-      "basename": "PEE - Aula 6 - Probabilidade Condicional e Independência",
-      "path": "Computer Science/Academy/Slides/PEE/PEE - Aula 6 - Probabilidade Condicional e Independência.pdf"
-    },
-    {
-      "basename": "Statistics and Probability",
-      "path": "Computer Science/Data Science/Statistics and Probability/Statistics and Probability.md"
-    },
-    {
-      "basename": "Bayes' Theorem",
-      "path": "Bayes' Theorem.md"
-    },
-    {
-      "basename": "MathJax",
-      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
-    },
-    {
-      "basename": "Spearman's Rank Correlation Coefficient",
-      "path": "Spearman's Rank Correlation Coefficient.md"
-    },
-    {
-      "basename": "Possible Dream Enterprises",
-      "path": "Possible Dream Enterprises.md"
-    },
-    {
-      "basename": "Master Theorem",
-      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Master Theorem.md"
-    },
-    {
-      "basename": "Past Authoring",
-      "path": "Past Authoring.md"
-    },
-    {
-      "basename": "Present Authoring - Virtues",
-      "path": "Present Authoring - Virtues.md"
-    },
-    {
-      "basename": "Present Authoring - Faults",
-      "path": "Present Authoring - Faults.md"
-    },
-    {
-      "basename": "Future Authoring",
-      "path": "Future Authoring.md"
-    },
-    {
-      "basename": "Personal",
-      "path": "Personal/Personal.md"
-    },
-    {
-      "basename": "Cryptocoin",
-      "path": "Computer Science/Blockchain/Cryptocoin.md"
-    },
-    {
-      "basename": "Self Sovereign Identity",
-      "path": "Self Sovereign Identity.md"
     }
   ],
   "omittedPaths": []

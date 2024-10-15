@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ef029fc5f1a839",
+        "id": "de1cc276fc108578",
         "type": "tabs",
         "children": [
           {
-            "id": "db57fbf018c5a13d",
+            "id": "46f6a6fa06209a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valgrind.md",
-                "mode": "source",
+                "file": "Compiler.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valgrind.md",
+                "file": "Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valgrind.md",
+                "file": "Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Valgrind.md"
+                "file": "Compiler.md"
               }
             }
           },
@@ -215,25 +215,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db57fbf018c5a13d",
+  "active": "46f6a6fa06209a4e",
   "lastOpenFiles": [
-    "Valgrind.md",
-    "Computer Science/Software/Distributed and Concurrent Programming.md",
-    "Concurrency.md",
-    "Excalidraw/Drawing 2024-10-08 22.20.14.excalidraw.md",
-    "Computer Science/Software/Programming/Languages/Python.md",
-    "Parallelism.md",
-    "Distributed and Concurrent Programming.md",
-    "Computer Science/Software/Development/Web Development/Web Application Archtecture.md",
-    "WebGL.md",
-    "Computer Graphics.md",
-    "Lexical Analysis.md",
-    "Computer Science/Theories/Computation Theory/Automata Theory/Deterministic Finite Automata.md",
+    "Computer Science/Software/Programs/Application/Obsidian/Mermaid Class Diagram.md",
+    "Computer Science/Software/Programs/Application/Obsidian/Mermaid.md",
+    "Computer Science/Software/Programs/Application/Obsidian/Mermaid Flowchar Diagram.md",
+    "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md",
+    "Compiler.md",
     "Computer Science/Theories/Computation Theory/Automata Theory/Non Deterministic Finite Automata.md",
-    "Computer Science/Software/Programs/Tools/Regular Expression.md",
-    "Finite Automata.md",
-    "Compilers.md",
-    "Electrical Circuits.md",
+    "Excalidraw/Non Deterministic Finite Automata 2023-03-29 21.22.48.excalidraw.md",
+    "Lexical Analysis.md",
+    "Computer Graphics.md",
+    "Computer Science/Software/Programs/Application/Apache Guacamole.md",
+    "Computer Science/Theories/Computation Theory/Algorithm Analysis/Algorithm Analysis.md",
+    "Computer Science/Books/Algorithms/Introduction to Algorithms/Introduction to Algorithms.pdf",
+    "Computer Science/Software/Programming/Algorithms/Huffman Coding.md",
+    "Computer Science/Software/Programming/Methods/Greedy Algorithm.md",
+    "Computer Science/Theories/Computation Theory/Algorithm Analysis/Substitution Analysis.md",
+    "Computer Science/Theories/Computation Theory/Algorithm Analysis/Master Theorem.md",
+    "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md",
+    "Computer Science/Academy/Unifesp.md",
+    "Semantic Analysis.md",
+    "Tombstone Diagram.md",
+    "Excalidraw/Compiler 2024-10-14 20.13.49.excalidraw.md",
+    "Excalidraw/Tombstone Diagram 2024-10-14 20.50.53.excalidraw.md",
+    "Pasted image 20241014204859.png",
+    "Pasted image 20241014204849.png",
+    "Excalidraw/Compiler 2024-10-14 20.01.49.excalidraw.md",
+    "Syntax Analysis.md",
+    "Excalidraw/Syntax Analysis 2024-10-14 19.50.39.excalidraw.md",
+    "Debugger.md",
+    "Gerador de Perfil de Program.md",
     "Computer Science/Academy/Slides/CE1/nohup.out",
     "Computer Science/Academy/Slides/CE1/Aula de Euler.pdf",
     "Computer Science/Academy/Slides/CE1/CE1 - Aula 9 - Conversao Delta - Estrela.pdf",
@@ -243,16 +255,6 @@
     "Computer Science/Academy/Slides/CE1/CE1 - Aula 5 - Divisores.pdf",
     "Computer Science/Academy/Slides/CE1/CE1 - Aula 4 - Leis de Kirchhoff.pdf",
     "Computer Science/Academy/Slides/CE1/CE1 - Aula 3 - Conceitos Fundamentais II.pdf",
-    "Computer Science/Academy/Slides/CE1/CE1 - Aula 2 - Conceitos Fundamentais I.pdf",
-    "Syntax Parsing.md",
-    "Semantic Analysis.md",
-    "Computer Science/Academy/Unifesp.md",
-    "Statistic and Probability Project - Analysis of SP156.md",
-    "AI Project - Smartgrid.md",
-    "Pathfinder Kingmaker.md",
-    "Pillars of Eternity.md",
-    "Blockchain Project - Smart Grid.md",
-    "Games.md",
     "Pasted image 20240613224921.png",
     "Pasted image 20240613215908.png",
     "Pasted image 20240608165804.png",
@@ -260,8 +262,6 @@
     "Assets/Pasted image 20240404201710.png",
     "Assets/Pasted image 20240404201700.png",
     "Assets/Pasted image 20240404201652.png",
-    "Assets/Pasted image 20240326194314.png",
-    "Assets/Pasted image 20240318214413.png",
-    "Assets/Pasted image 20240314194651.png"
+    "Assets/Pasted image 20240326194314.png"
   ]
 }

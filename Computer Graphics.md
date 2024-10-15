@@ -4,3 +4,7 @@ Concept of [[Computer Science]]
 
 - ## [[OpenGL]]
 - ## [[WebGL]]
+
+# Rasterization
+
+Ste 

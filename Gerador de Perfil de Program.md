@@ -1,0 +1,1 @@
+Gera estatistica no comportamento de uma programa

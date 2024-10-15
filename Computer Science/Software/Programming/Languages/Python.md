@@ -1,4 +1,4 @@
-[[Programming Language]]
+A [[Interpreter]] [[Programming Language]]
 
 Observation : Built-in Sort Method Used is [[Tim Sort]]
 

@@ -1,0 +1,1 @@
+Collect the compiled code segregated and join it in a single executable file

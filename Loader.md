@@ -1,0 +1,1 @@
+Load the memory of the executable in memory, solve the addresses relocatable relatives of a base or start address data.

@@ -1,0 +1,1 @@
+Utilizado para determinar erros de execução em um progama compilado, costuma ser utilizado de forma integra em um IDE

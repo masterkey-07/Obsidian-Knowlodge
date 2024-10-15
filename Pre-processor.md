@@ -1,0 +1,1 @@
+Used by the [[Compiler]] before the start of the translation, can exclude commentaries, include others files and execute substituition Macro
