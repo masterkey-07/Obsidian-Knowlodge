@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "MathJax",
+      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md"
+    },
+    {
       "basename": "Compiler",
       "path": "Compiler.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Mermaid Flowchar Diagram",
       "path": "Computer Science/Software/Programs/Application/Obsidian/Mermaid Flowchar Diagram.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md"
     },
     {
       "basename": "Non Deterministic Finite Automata",
@@ -195,10 +199,6 @@
     {
       "basename": "Statistic and Probability Project - Analysis of SP156",
       "path": "Statistic and Probability Project - Analysis of SP156.md"
-    },
-    {
-      "basename": "AI Project - Smartgrid",
-      "path": "AI Project - Smartgrid.md"
     }
   ],
   "omittedPaths": []

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de1cc276fc108578",
+        "id": "8edd302cbba7f033",
         "type": "tabs",
         "children": [
           {
-            "id": "46f6a6fa06209a4e",
+            "id": "0f17c470c964bd05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiler.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -113,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Compiler.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,13 +206,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "46f6a6fa06209a4e",
+  "active": "0f17c470c964bd05",
   "lastOpenFiles": [
+    "Computer Science/Software/Programs/Tools/MathJax.md",
+    "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md",
+    "Compiler.md",
     "Computer Science/Software/Programs/Application/Obsidian/Mermaid Class Diagram.md",
     "Computer Science/Software/Programs/Application/Obsidian/Mermaid.md",
     "Computer Science/Software/Programs/Application/Obsidian/Mermaid Flowchar Diagram.md",
-    "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md",
-    "Compiler.md",
     "Computer Science/Theories/Computation Theory/Automata Theory/Non Deterministic Finite Automata.md",
     "Excalidraw/Non Deterministic Finite Automata 2023-03-29 21.22.48.excalidraw.md",
     "Lexical Analysis.md",
@@ -245,7 +237,6 @@
     "Syntax Analysis.md",
     "Excalidraw/Syntax Analysis 2024-10-14 19.50.39.excalidraw.md",
     "Debugger.md",
-    "Gerador de Perfil de Program.md",
     "Computer Science/Academy/Slides/CE1/nohup.out",
     "Computer Science/Academy/Slides/CE1/Aula de Euler.pdf",
     "Computer Science/Academy/Slides/CE1/CE1 - Aula 9 - Conversao Delta - Estrela.pdf",
