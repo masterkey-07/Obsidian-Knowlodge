@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Relatório sobre o vídeo \"How do Video Game Graphics Work?\"",
+      "path": "Relatório sobre o vídeo \"How do Video Game Graphics Work?\".md"
+    },
+    {
+      "basename": "Relatório de Ray Tracing",
+      "path": "Relatório de Ray Tracing.md"
+    },
+    {
+      "basename": "Computer Graphics",
+      "path": "Computer Graphics.md"
+    },
+    {
+      "basename": "WebGL",
+      "path": "WebGL.md"
+    },
+    {
+      "basename": "Electron",
+      "path": "Electron.md"
+    },
+    {
+      "basename": "Distributed and Concurrent Programming",
+      "path": "Computer Science/Software/Distributed and Concurrent Programming.md"
+    },
+    {
+      "basename": "OpenMP",
+      "path": "OpenMP.md"
+    },
+    {
+      "basename": "Concurrency",
+      "path": "Concurrency.md"
+    },
+    {
       "basename": "MathJax",
       "path": "Computer Science/Software/Programs/Tools/MathJax.md"
     },
@@ -35,10 +67,6 @@
     {
       "basename": "Lexical Analysis",
       "path": "Lexical Analysis.md"
-    },
-    {
-      "basename": "Computer Graphics",
-      "path": "Computer Graphics.md"
     },
     {
       "basename": "Apache Guacamole",
@@ -153,14 +181,6 @@
       "path": "Valgrind.md"
     },
     {
-      "basename": "Distributed and Concurrent Programming",
-      "path": "Computer Science/Software/Distributed and Concurrent Programming.md"
-    },
-    {
-      "basename": "Concurrency",
-      "path": "Concurrency.md"
-    },
-    {
       "basename": "Drawing 2024-10-08 22.20.14.excalidraw",
       "path": "Excalidraw/Drawing 2024-10-08 22.20.14.excalidraw.md"
     },
@@ -173,32 +193,8 @@
       "path": "Computer Science/Software/Development/Web Development/Web Application Archtecture.md"
     },
     {
-      "basename": "WebGL",
-      "path": "WebGL.md"
-    },
-    {
       "basename": "Deterministic Finite Automata",
       "path": "Computer Science/Theories/Computation Theory/Automata Theory/Deterministic Finite Automata.md"
-    },
-    {
-      "basename": "Regular Expression",
-      "path": "Computer Science/Software/Programs/Tools/Regular Expression.md"
-    },
-    {
-      "basename": "Finite Automata",
-      "path": "Finite Automata.md"
-    },
-    {
-      "basename": "Electrical Circuits",
-      "path": "Electrical Circuits.md"
-    },
-    {
-      "basename": "PPC_BCC_2023 aprovado",
-      "path": "Assets/PPC_BCC_2023 aprovado.pdf"
-    },
-    {
-      "basename": "Statistic and Probability Project - Analysis of SP156",
-      "path": "Statistic and Probability Project - Analysis of SP156.md"
     }
   ],
   "omittedPaths": []

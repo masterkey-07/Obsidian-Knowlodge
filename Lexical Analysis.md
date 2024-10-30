@@ -28,3 +28,12 @@ Exemplo : a\[index\] = 4 + 2
 | 4       | numero              |
 | +       | adição              |
 | 2       | numero                    |
+
+
+
+
+no processo de analise lexica, os okens validos da lingugem normalmente sao especificados por expressoes regulares
+
+expressoes regulares representam padroes de cadieas de caracteres
+
+uma expressa regular e 'e completamente definda pelo conjunto de cadeias de caracteres com as quais ela casa

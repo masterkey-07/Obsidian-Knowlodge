@@ -5,6 +5,6 @@ Concept of [[Computer Science]]
 - ## [[OpenGL]]
 - ## [[WebGL]]
 
-# Rasterization
+## Others
 
-Ste 
+- [[Relatório sobre o vídeo "How do Video Game Graphics Work?"]]
