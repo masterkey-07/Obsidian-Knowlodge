@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Software/Programs/Tools/MathJax.md",
+                "file": "Compiler.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MathJax"
+              "title": "Compiler"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "question",
+                "query": "Frontend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,6 +247,7 @@
   },
   "active": "77c70207c1eb485d",
   "lastOpenFiles": [
+    "Computer Science/Software/Programs/Tools/MathJax.md",
     "Computer Science/Software/Programming/Languages/Rust/Rust.md",
     "Computer Science/Software/Programming/Languages/Rust/Control of Flow in Rust.md",
     "Computer Science/Theories/Computation Theory/Automata Theory/Regular Languages.md",
@@ -266,7 +267,6 @@
     "Computer Science/Academy/Slides/PCD/PCD - Aula 2 - Gerando Código Concorrente.pdf",
     "OpenMP.md",
     "Concurrency.md",
-    "Computer Science/Software/Programs/Tools/MathJax.md",
     "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md",
     "Computer Science/Software/Programs/Application/Obsidian/Mermaid Class Diagram.md",
     "Computer Science/Software/Programs/Application/Obsidian/Mermaid.md",

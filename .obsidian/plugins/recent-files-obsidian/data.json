@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Compiler",
+      "path": "Compiler.md"
+    },
+    {
       "basename": "MathJax",
       "path": "Computer Science/Software/Programs/Tools/MathJax.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Obsidian",
       "path": "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "Compiler.md"
     },
     {
       "basename": "Mermaid Class Diagram",
