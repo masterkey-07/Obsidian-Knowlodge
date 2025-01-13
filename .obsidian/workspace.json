@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Software/Programming/Languages/Rust/Rust.md",
+                "file": "Computer Science/Software/Programs/Tools/MathJax.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "MathJax"
             }
           }
         ],
@@ -94,9 +94,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "188f28ffa20d9ea9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -237,8 +247,8 @@
   },
   "active": "77c70207c1eb485d",
   "lastOpenFiles": [
-    "Computer Science/Software/Programming/Languages/Rust/Control of Flow in Rust.md",
     "Computer Science/Software/Programming/Languages/Rust/Rust.md",
+    "Computer Science/Software/Programming/Languages/Rust/Control of Flow in Rust.md",
     "Computer Science/Theories/Computation Theory/Automata Theory/Regular Languages.md",
     "Lexical Analysis.md",
     "Computer Science/Software/Programs/Tools/Regular Expression.md",

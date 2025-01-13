@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MathJax",
+      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
+    },
+    {
       "basename": "Relatório sobre o vídeo \"How do Video Game Graphics Work?\"",
       "path": "Relatório sobre o vídeo \"How do Video Game Graphics Work?\".md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Concurrency",
       "path": "Concurrency.md"
-    },
-    {
-      "basename": "MathJax",
-      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
     },
     {
       "basename": "Obsidian",
