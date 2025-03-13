@@ -10,6 +10,5 @@
   },
   "alwaysUpdateLinks": true,
   "livePreview": false,
-  "showInlineTitle": true,
-  "showRibbon": false
+  "showInlineTitle": true
 }

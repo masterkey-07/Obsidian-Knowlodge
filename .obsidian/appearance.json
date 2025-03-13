@@ -7,5 +7,6 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "background"
-  ]
+  ],
+  "showRibbon": false
 }

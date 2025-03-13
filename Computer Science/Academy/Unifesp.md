@@ -40,7 +40,7 @@ Documentação Oficial de 2023: [[PPC_BCC_2023 aprovado.pdf]]
 	- [x] Engenharia de Software
 	- [ ] Computação Gráfica
 	- [ ] Compiladores
-	- [ ] Programação Concorrente e Distribuída
+	- [x] Programação Concorrente e Distribuída
 - [ ] Sétimo Termo
 	- [ ] TCC I
 	- [x] Interação Humano Computador
