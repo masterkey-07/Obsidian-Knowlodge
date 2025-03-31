@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Limit",
+      "path": "Limit.md"
+    },
+    {
+      "basename": "Calculus I",
+      "path": "Calculus I.md"
+    },
+    {
+      "basename": "Integral",
+      "path": "Integral.md"
+    },
+    {
+      "basename": "Derivative",
+      "path": "Derivative.md"
+    },
+    {
       "basename": "Compiler",
       "path": "Compiler.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "Drawing 2024-10-08 22.20.14.excalidraw",
       "path": "Excalidraw/Drawing 2024-10-08 22.20.14.excalidraw.md"
-    },
-    {
-      "basename": "Parallelism",
-      "path": "Parallelism.md"
-    },
-    {
-      "basename": "Web Application Archtecture",
-      "path": "Computer Science/Software/Development/Web Development/Web Application Archtecture.md"
-    },
-    {
-      "basename": "Deterministic Finite Automata",
-      "path": "Computer Science/Theories/Computation Theory/Automata Theory/Deterministic Finite Automata.md"
     }
   ],
   "omittedPaths": []
