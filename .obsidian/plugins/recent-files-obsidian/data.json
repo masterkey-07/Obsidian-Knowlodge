@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Graph Theory",
+      "path": "Computer Science/Theories/Graph Theory/Graph Theory.md"
+    },
+    {
+      "basename": "Relational Database",
+      "path": "Computer Science/Database/Relational Database/Relational Database.md"
+    },
+    {
+      "basename": "Non Deterministic Polynomial Time Problem",
+      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Non Deterministic Polynomial Time Problem.md"
+    },
+    {
+      "basename": "Satisfiability Problem",
+      "path": "Computer Science/Satisfiability Problem.md"
+    },
+    {
+      "basename": "Hamiltonian Path",
+      "path": "Computer Science/Software/Programming/Problems/Hamiltonian Path.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "Computer Science/DevOps.md"
+    },
+    {
+      "basename": "Software Engineer",
+      "path": "Computer Science/Software/Engineer/Software Engineer.md"
+    },
+    {
+      "basename": "Infrastructure as Code",
+      "path": "Computer Science/Software/Archtecture/Infrastructure as Code.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "Computer Science/Computer Science.md"
+    },
+    {
+      "basename": "ACID",
+      "path": "ACID.md"
+    },
+    {
+      "basename": "Data Base Management System",
+      "path": "Data Base Management System.md"
+    },
+    {
+      "basename": "Database",
+      "path": "Computer Science/Database/Database.md"
+    },
+    {
+      "basename": "Graph Theory",
+      "path": "Graph Theory.md"
+    },
+    {
       "basename": "Limit",
       "path": "Limit.md"
     },
@@ -143,62 +195,6 @@
     {
       "basename": "Syntax Analysis",
       "path": "Syntax Analysis.md"
-    },
-    {
-      "basename": "Syntax Analysis 2024-10-14 19.50.39.excalidraw",
-      "path": "Excalidraw/Syntax Analysis 2024-10-14 19.50.39.excalidraw.md"
-    },
-    {
-      "basename": "Debugger",
-      "path": "Debugger.md"
-    },
-    {
-      "basename": "Gerador de Perfil de Program",
-      "path": "Gerador de Perfil de Program.md"
-    },
-    {
-      "basename": "Pre-processor",
-      "path": "Pre-processor.md"
-    },
-    {
-      "basename": "Macros in Rust",
-      "path": "Computer Science/Software/Programming/Languages/Rust/Macros in Rust.md"
-    },
-    {
-      "basename": "Loader",
-      "path": "Loader.md"
-    },
-    {
-      "basename": "Linker",
-      "path": "Linker.md"
-    },
-    {
-      "basename": "Assembler",
-      "path": "Assembler.md"
-    },
-    {
-      "basename": "C",
-      "path": "Computer Science/Software/Programming/Languages/C.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Computer Science/Software/Programming/Languages/Python.md"
-    },
-    {
-      "basename": "Interpreter",
-      "path": "Interpreter.md"
-    },
-    {
-      "basename": "Compilers 2024-10-14 19.28.50.excalidraw",
-      "path": "Excalidraw/Compilers 2024-10-14 19.28.50.excalidraw.md"
-    },
-    {
-      "basename": "Valgrind",
-      "path": "Valgrind.md"
-    },
-    {
-      "basename": "Drawing 2024-10-08 22.20.14.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-08 22.20.14.excalidraw.md"
     }
   ],
   "omittedPaths": []

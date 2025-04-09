@@ -11,13 +11,14 @@
 - ### Reference Integrity 
 
 ## Tools
-- ### [[SGBD]]
+- ### [[Data Base Management System]]
 
 ## Display Methods
 
 - ### [[Logic Model]]
 - ### [[Fisic Model]]
 - ### [[Conceptual Model]]
+
 ## Databases
 ```dataview
 list from #database 

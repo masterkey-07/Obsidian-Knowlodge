@@ -1,4 +1,4 @@
-[[Graph Teory]] Conpect
+[[Computer Science/Theories/Graph Theory/Graph Theory]] Conpect
 
 ### A Matrix of Relationship between Graphs
 |     | a   | b   | c   | d   |

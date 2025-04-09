@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e7f9aca29cc9e6",
+        "id": "6688805398e52288",
         "type": "tabs",
         "children": [
           {
-            "id": "1b428383f3a77539",
+            "id": "e225228b62af6be3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data Base Management System.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Data Base Management System"
             }
           }
         ],
@@ -91,17 +96,7 @@
             }
           },
           {
-            "id": "188f28ffa20d9ea9",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "d1798248800a2300",
+            "id": "64812cb3888609d8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -260,8 +255,32 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1b428383f3a77539",
+  "active": "e225228b62af6be3",
   "lastOpenFiles": [
+    "Computer Science/Books/Database System Concepts 6th edition.pdf",
+    "Computer Science/Academy/Slides/BD2/nohup.out",
+    "Computer Science/Academy/Slides/BD2/BD2 - Aula 3.pdf",
+    "Computer Science/Academy/Slides/BD2/BD2 - Aula3.pdf",
+    "Computer Science/Theories/Graph Theory/Graph Theory.md",
+    "Data Base Management System.md",
+    "Grupo - Conexão de Garfos.md",
+    "Computer Science/Academy/Slides/BD2/BD2 - Aula 2.pdf",
+    "Computer Science/Academy/Slides/BD2/BD2 - Aula 1.pdf",
+    "ACID.md",
+    "Computer Science/Academy/Slides/BD2",
+    "Computer Science/Academy/Slides/DB2",
+    "Computer Science/Database/Relational Database/Relational Database.md",
+    "Computer Science/Database/Database.md",
+    "Computer Science/Theories/Computation Theory/Algorithm Analysis/Non Deterministic Polynomial Time Problem.md",
+    "Computer Science/Satisfiability Problem.md",
+    "Computer Science/Software/Programming/Problems/Hamiltonian Path.md",
+    "Computer Science/DevOps.md",
+    "Computer Science/Software/Engineer/Software Engineer.md",
+    "Computer Science/Software/Archtecture/Infrastructure as Code.md",
+    "Computer Science/Computer Science.md",
+    "Graph Theory.md",
+    "Bibliography Reference for Graph Theory.md",
+    "Computer Science/Books/Graph Theory - Applications to Engineering & Computer Science.pdf",
     "Limit.md",
     "Calculus I.md",
     "Integral.md",
@@ -272,34 +291,10 @@
     "Computer Science/Software/Programming/Languages/Rust/Rust.md",
     "Computer Science/Software/Programming/Languages/Rust/Control of Flow in Rust.md",
     "Computer Science/Theories/Computation Theory/Automata Theory/Regular Languages.md",
-    "Lexical Analysis.md",
-    "Computer Science/Software/Programs/Tools/Regular Expression.md",
-    "Tombstone Diagram.md",
-    "Relatório sobre o vídeo \"How do Video Game Graphics Work?\".md",
-    "Relatório de Ray Tracing.md",
-    "Cross Compiler.md",
-    "Excalidraw/Compiler 2024-10-14 20.13.49.excalidraw.md",
-    "Computer Graphics.md",
-    "WebGL.md",
-    "Electron.md",
-    "Computer Science/Software/Distributed and Concurrent Programming.md",
     "Computer Science/Academy/Slides/PCD/PCD - Aula 2 - Gerando Código Concorrente.pdf",
-    "OpenMP.md",
-    "Concurrency.md",
-    "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md",
-    "Computer Science/Software/Programs/Application/Obsidian/Mermaid Class Diagram.md",
-    "Computer Science/Software/Programs/Application/Obsidian/Mermaid.md",
     "Computer Science/Books/Algorithms/Introduction to Algorithms/Introduction to Algorithms.pdf",
     "Pasted image 20241014204859.png",
     "Pasted image 20241014204849.png",
-    "Computer Science/Academy/Slides/CE1/nohup.out",
-    "Computer Science/Academy/Slides/CE1/Aula de Euler.pdf",
-    "Computer Science/Academy/Slides/CE1/CE1 - Aula 9 - Conversao Delta - Estrela.pdf",
-    "Computer Science/Academy/Slides/CE1/CE1 - Aula 8 - Ohmímetro e Ponte de Wheatstone.pdf",
-    "Computer Science/Academy/Slides/CE1/CE1 - Aula 7 - Voltímetro e Amperímetro.pdf",
-    "Computer Science/Academy/Slides/CE1/CE1 - Aula 6 - Exercícios.pdf",
-    "Computer Science/Academy/Slides/CE1/CE1 - Aula 5 - Divisores.pdf",
-    "Computer Science/Academy/Slides/CE1/CE1 - Aula 4 - Leis de Kirchhoff.pdf",
     "Pasted image 20240613224921.png",
     "Pasted image 20240613215908.png",
     "Pasted image 20240608165804.png",
