@@ -1,5 +1,7 @@
 #project #unifesp 
 
+[[Artificial Intelligence]] Project
+
 Gonna use [PyPSA]()
 
 **Relatories**

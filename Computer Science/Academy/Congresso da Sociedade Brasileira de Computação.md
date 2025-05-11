@@ -1,1 +1,3 @@
-https://csbc.sbc.org.br/2024/
+[[Computer Science]] Congress
+
+Website: https://csbc.sbc.org.br/2024/

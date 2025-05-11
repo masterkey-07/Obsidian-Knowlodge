@@ -1,3 +1,7 @@
+#raw 
+
+[[Statistics and Probability]] Topic
+
 **In Continuous Variables**
 
 $$\mu = E(x) = \int_{-\infty}^{+\infty} x \cdot f(x) \ dx$$

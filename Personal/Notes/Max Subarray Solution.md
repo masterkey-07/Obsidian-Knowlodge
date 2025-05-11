@@ -4,7 +4,7 @@
 
 ### data = \[\[10,\_\], \[15,5\], \[5,-10\],... \[value, diff\]\]
 
-### Method : divide and conquer
+### Method : [[Divide and Conquer]]
 
 ## Pseudocode :
 

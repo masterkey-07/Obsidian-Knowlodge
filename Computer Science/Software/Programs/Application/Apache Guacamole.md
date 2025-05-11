@@ -1,3 +1,5 @@
+Use [[Computer Network|Network]] to connect to [[Personal|My]] Computer
+
 # Should I Use It?
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/gsvS2M5knOw" title="access EVERYTHING from your web browser!! (Linux and Windows Desktop, SSH) // Guacamole Install" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

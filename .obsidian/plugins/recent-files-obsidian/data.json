@@ -1,6 +1,158 @@
 {
   "recentFiles": [
     {
+      "basename": "Aula 7 - Exercício",
+      "path": "Aula 7 - Exercício.md"
+    },
+    {
+      "basename": "Password Management",
+      "path": "Computer Science/Software/Programs/Application/Password Management.md"
+    },
+    {
+      "basename": "Structure and Interpretation of Computer Programs",
+      "path": "Personal/Notes/Structure and Interpretation of Computer Programs.md"
+    },
+    {
+      "basename": "Orphan Notes",
+      "path": "Orphan Notes.md"
+    },
+    {
+      "basename": "Apache Guacamole",
+      "path": "Computer Science/Software/Programs/Application/Apache Guacamole.md"
+    },
+    {
+      "basename": "Dever de Casa",
+      "path": "Dever de Casa.md"
+    },
+    {
+      "basename": "Spearman's Rank Correlation Coefficient",
+      "path": "Spearman's Rank Correlation Coefficient.md"
+    },
+    {
+      "basename": "Possible Dream Enterprises",
+      "path": "Possible Dream Enterprises.md"
+    },
+    {
+      "basename": "Rectified Linear Unit",
+      "path": "Rectified Linear Unit.md"
+    },
+    {
+      "basename": "Ray Tracing",
+      "path": "Ray Tracing.md"
+    },
+    {
+      "basename": "UNIFESP Projects",
+      "path": "UNIFESP Projects.md"
+    },
+    {
+      "basename": "Transport Layer",
+      "path": "Computer Science/Network/Transport Layer.md"
+    },
+    {
+      "basename": "Open System Interconnection Model",
+      "path": "Open System Interconnection Model.md"
+    },
+    {
+      "basename": "Physical Layer",
+      "path": "Computer Science/Physical Layer.md"
+    },
+    {
+      "basename": "Data Link Layer",
+      "path": "Computer Science/Network/Data Link Layer.md"
+    },
+    {
+      "basename": "Application Layer",
+      "path": "Computer Science/Network/Application Layer.md"
+    },
+    {
+      "basename": "Transmission Control Protocol",
+      "path": "Transmission Control Protocol.md"
+    },
+    {
+      "basename": "Blockchain for Cyber Security in Smart Grid: Comprehensive Survey",
+      "path": "Computer Science/Papers/Blockchain for Cyber Security in Smart Grid: Comprehensive Survey.pdf"
+    },
+    {
+      "basename": "Computer Network",
+      "path": "Computer Science/Network/Computer Network.md"
+    },
+    {
+      "basename": "Computer Network Study Plan",
+      "path": "Computer Network Study Plan.md"
+    },
+    {
+      "basename": "Calculus 2 Tasks",
+      "path": "Calculus 2 Tasks.md"
+    },
+    {
+      "basename": "Notes to Process",
+      "path": "Notes to Process.md"
+    },
+    {
+      "basename": "Life Goal",
+      "path": "Life Goal.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Personal/Lists/Projects.md"
+    },
+    {
+      "basename": "World Wide Web Consortium",
+      "path": "World Wide Web Consortium.md"
+    },
+    {
+      "basename": "OWASP",
+      "path": "OWASP.md"
+    },
+    {
+      "basename": "Map Reduce Problem",
+      "path": "Computer Science/Software/Programming/Problems/Map Reduce Problem.md"
+    },
+    {
+      "basename": "Calculus",
+      "path": "Calculus.md"
+    },
+    {
+      "basename": "Derivadas",
+      "path": "Computer Science/Derivadas.md"
+    },
+    {
+      "basename": "Congresso da Sociedade Brasileira de Computação",
+      "path": "Computer Science/Academy/Congresso da Sociedade Brasileira de Computação.md"
+    },
+    {
+      "basename": "Beowulf Architecture",
+      "path": "Beowulf Architecture.md"
+    },
+    {
+      "basename": "Average of a Probability Distribution",
+      "path": "Average of a Probability Distribution.md"
+    },
+    {
+      "basename": "Extreme Programming 2023-07-26 11.47.40.excalidraw",
+      "path": "Computer Science/Extreme Programming 2023-07-26 11.47.40.excalidraw.md"
+    },
+    {
+      "basename": "Max Subarray Solution",
+      "path": "Personal/Notes/Max Subarray Solution.md"
+    },
+    {
+      "basename": "AI Project - Smartgrid",
+      "path": "AI Project - Smartgrid.md"
+    },
+    {
+      "basename": "MathJax",
+      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
+    },
+    {
+      "basename": "MQTT",
+      "path": "Computer Science/Network/MQTT.md"
+    },
+    {
+      "basename": "Accumulation Point",
+      "path": "Computer Science/Mathematics/Accumulation Point.md"
+    },
+    {
       "basename": "Graph Theory",
       "path": "Computer Science/Theories/Graph Theory/Graph Theory.md"
     },
@@ -47,154 +199,6 @@
     {
       "basename": "Database",
       "path": "Computer Science/Database/Database.md"
-    },
-    {
-      "basename": "Graph Theory",
-      "path": "Graph Theory.md"
-    },
-    {
-      "basename": "Limit",
-      "path": "Limit.md"
-    },
-    {
-      "basename": "Calculus I",
-      "path": "Calculus I.md"
-    },
-    {
-      "basename": "Integral",
-      "path": "Integral.md"
-    },
-    {
-      "basename": "Derivative",
-      "path": "Derivative.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "Compiler.md"
-    },
-    {
-      "basename": "MathJax",
-      "path": "Computer Science/Software/Programs/Tools/MathJax.md"
-    },
-    {
-      "basename": "Relatório sobre o vídeo \"How do Video Game Graphics Work?\"",
-      "path": "Relatório sobre o vídeo \"How do Video Game Graphics Work?\".md"
-    },
-    {
-      "basename": "Relatório de Ray Tracing",
-      "path": "Relatório de Ray Tracing.md"
-    },
-    {
-      "basename": "Computer Graphics",
-      "path": "Computer Graphics.md"
-    },
-    {
-      "basename": "WebGL",
-      "path": "WebGL.md"
-    },
-    {
-      "basename": "Electron",
-      "path": "Electron.md"
-    },
-    {
-      "basename": "Distributed and Concurrent Programming",
-      "path": "Computer Science/Software/Distributed and Concurrent Programming.md"
-    },
-    {
-      "basename": "OpenMP",
-      "path": "OpenMP.md"
-    },
-    {
-      "basename": "Concurrency",
-      "path": "Concurrency.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Computer Science/Software/Programs/Application/Obsidian/Obsidian.md"
-    },
-    {
-      "basename": "Mermaid Class Diagram",
-      "path": "Computer Science/Software/Programs/Application/Obsidian/Mermaid Class Diagram.md"
-    },
-    {
-      "basename": "Mermaid",
-      "path": "Computer Science/Software/Programs/Application/Obsidian/Mermaid.md"
-    },
-    {
-      "basename": "Mermaid Flowchar Diagram",
-      "path": "Computer Science/Software/Programs/Application/Obsidian/Mermaid Flowchar Diagram.md"
-    },
-    {
-      "basename": "Non Deterministic Finite Automata",
-      "path": "Computer Science/Theories/Computation Theory/Automata Theory/Non Deterministic Finite Automata.md"
-    },
-    {
-      "basename": "Non Deterministic Finite Automata 2023-03-29 21.22.48.excalidraw",
-      "path": "Excalidraw/Non Deterministic Finite Automata 2023-03-29 21.22.48.excalidraw.md"
-    },
-    {
-      "basename": "Lexical Analysis",
-      "path": "Lexical Analysis.md"
-    },
-    {
-      "basename": "Apache Guacamole",
-      "path": "Computer Science/Software/Programs/Application/Apache Guacamole.md"
-    },
-    {
-      "basename": "Algorithm Analysis",
-      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Algorithm Analysis.md"
-    },
-    {
-      "basename": "Introduction to Algorithms",
-      "path": "Computer Science/Books/Algorithms/Introduction to Algorithms/Introduction to Algorithms.pdf"
-    },
-    {
-      "basename": "Huffman Coding",
-      "path": "Computer Science/Software/Programming/Algorithms/Huffman Coding.md"
-    },
-    {
-      "basename": "Greedy Algorithm",
-      "path": "Computer Science/Software/Programming/Methods/Greedy Algorithm.md"
-    },
-    {
-      "basename": "Substitution Analysis",
-      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Substitution Analysis.md"
-    },
-    {
-      "basename": "Master Theorem",
-      "path": "Computer Science/Theories/Computation Theory/Algorithm Analysis/Master Theorem.md"
-    },
-    {
-      "basename": "Clean Archtecture",
-      "path": "Computer Science/Software/Archtecture/Archtectures/Clean Archtecture.md"
-    },
-    {
-      "basename": "Unifesp",
-      "path": "Computer Science/Academy/Unifesp.md"
-    },
-    {
-      "basename": "Semantic Analysis",
-      "path": "Semantic Analysis.md"
-    },
-    {
-      "basename": "Tombstone Diagram",
-      "path": "Tombstone Diagram.md"
-    },
-    {
-      "basename": "Compiler 2024-10-14 20.13.49.excalidraw",
-      "path": "Excalidraw/Compiler 2024-10-14 20.13.49.excalidraw.md"
-    },
-    {
-      "basename": "Tombstone Diagram 2024-10-14 20.50.53.excalidraw",
-      "path": "Excalidraw/Tombstone Diagram 2024-10-14 20.50.53.excalidraw.md"
-    },
-    {
-      "basename": "Compiler 2024-10-14 20.01.49.excalidraw",
-      "path": "Excalidraw/Compiler 2024-10-14 20.01.49.excalidraw.md"
-    },
-    {
-      "basename": "Syntax Analysis",
-      "path": "Syntax Analysis.md"
     }
   ],
   "omittedPaths": []

@@ -1,3 +1,7 @@
+#raw
+
+[[Statistics and Probability]] Topic
+
 ## **Description**
 The Spearman coefficient evaluates the monotonic relationship between two variables, which means it assesses whether the variables tend to move in the same direction (either both increasing or both decreasing) or in opposite directions.
 

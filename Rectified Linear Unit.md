@@ -1,3 +1,5 @@
+[[Artificial Neuron Model]] Activator
+
 Called ad Rectifier or ReLU
 
 # Equation

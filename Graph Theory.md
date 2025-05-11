@@ -4,7 +4,8 @@ Reference: [[Graph Theory - Applications to Engineering & Computer Science.pdf]]
 
 # Concepts
 **Basic Concepts** 
-Graphs, subgraphs and oriented graphs
+- Graphs, subgraphs and oriented graphs
+- [[Graph Formalism]]
 
 **Connectivity** 
 Connected graphs, edge cutting, vertex and cycle cutting 

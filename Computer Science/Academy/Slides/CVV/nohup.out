@@ -1,0 +1,113 @@
+error: Error parsing command line arguments: Unknown option -Derivada
+
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: could not open document
+
+error: Could not determine file type.
+error: could not open document
+
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: could not open document
+
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: could not open document
+
+error: Could not determine file type.
+error: error: Could not determine file type.
+Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: could not open document
+
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: could not open document
+
+error: Could not determine file type.
+error: could not open document
+
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: could not open document
+
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: could not open document
+
+error: could not open document
+
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Could not determine file type.
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: could not open document
+
+error: error: Could not determine file type.
+Could not determine file type.
+error: error: Could not determine file type.Could not determine file type.
+
+error: Can not write to temporary file: Error reading from file descriptor: Bad file descriptor
+error: Could not determine file type.
+error: Could not determine file type.
+
+(org.pwmt.zathura:51058): Gtk-WARNING **: 23:54:41.785: Negative content width -2 (allocation 6, extents 4x4) while allocating gadget (node box, owner GtkBox)
+
+(org.pwmt.zathura:51022): Gtk-WARNING **: 23:54:41.855: Negative content width -2 (allocation 6, extents 4x4) while allocating gadget (node box, owner GtkBox)
+
+(org.pwmt.zathura:51078): Gtk-WARNING **: 23:54:42.026: Negative content width -1 (allocation 7, extents 4x4) while allocating gadget (node box, owner GtkBox)
+
+(org.pwmt.zathura:51089): Gtk-WARNING **: 23:54:42.206: Negative content width -1 (allocation 7, extents 4x4) while allocating gadget (node box, owner GtkBox)
+
+(org.pwmt.zathura:51093): Gtk-WARNING **: 23:54:42.386: Negative content width -1 (allocation 7, extents 4x4) while allocating gadget (node box, owner GtkBox)

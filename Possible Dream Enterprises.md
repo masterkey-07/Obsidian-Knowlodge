@@ -1,3 +1,5 @@
+[[Personal]]
+
 **Tech Enterprises**
 
 - Nubank

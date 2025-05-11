@@ -1,3 +1,5 @@
+It is an [[Parallelism]] [[Parallel Architecture|Architecture]] for [[High Performance Computing]]
+
 # ChatGPT Generated
 In the context of High Performance Computing (HPC), a "Beowulf" cluster refers to a specific type of parallel computing architecture. It is a cluster of commodity hardware (usually standard PCs) interconnected by a local area network and configured to work together to perform parallel computations. The term "Beowulf" was coined by Thomas Sterling and Donald Becker in the mid-1990s.
 

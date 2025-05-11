@@ -1,5 +1,26 @@
 Can be used in [[LaTex]] 
 
+## Multiple Line Equation
+
+$$\begin{eqnarray} 
+y &=& x^4 + 4      \nonumber \\
+&=& (x^2+2)^2 -4x^2 \nonumber \\
+&\le&(x^2+2)^2    \nonumber
+\end{eqnarray}$$
+
+## Multiple Line Equation with Conditions
+
+$$A=
+\begin{cases}
+  1, & \text{if }
+       \begin{aligned}[t]
+       x&=1\\
+       x&=2
+       \end{aligned}
+\\
+  2, & \text{otherwise}
+\end{cases}
+$$
 ## Formulas
 ## $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 

@@ -1,3 +1,5 @@
+For [[Personal]] use
+
 Every password are breakable, so it is important to keep password unique for each accout
 
 So, it is necessary to create hard passwords, but hard passwords are hard to memorize.

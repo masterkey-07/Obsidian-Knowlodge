@@ -1,3 +1,7 @@
+#raw 
+
+[[Open System Interconnection Model|OSI Model]] Layer
+
 Sinal : Emissor > Meio > Perdas > Recepter
 
 Perda em fibra optica : transparência não é perfeita
